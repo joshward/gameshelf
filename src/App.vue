@@ -1,30 +1,42 @@
 <template>
   <div
     id="app"
-    class="flex flex-col min-h-screen text-gray-800"
+    class="
+      flex
+      flex-col
+      min-h-screen
+      text-gray-800
+    "
+    style="background: url('./img/beanstalk.png')"
   >
     <header
       class="
         flex-shrink-0
-        bg-gradient-to-r from-blue-400 to-blue-500
+        bg-opacity-80
+        bg-blue-400
         p-4 md:p-8
-        mb-4
         shadow-md
+        border-b
+        border-blue-500
       "
     >
       <h1 class="text-3xl md:text-5xl font-bold">
         Josh's Game Shelve
       </h1>
     </header>
-    <section class="flex-grow">
-      <router-view/>
+    <section class="flex-grow my-4 mx-6 md:mx-12">
+      <GameProvider>
+        <router-view />
+      </GameProvider>
     </section>
     <footer
       class="
         flex-shrink-0
+        bg-opacity-80
         bg-gray-200
         p-4 md:p-8
-        mt-4
+        border-t
+        border-gray-300
       "
     >
       <p class="text-center font-semibold pb-2">
@@ -43,10 +55,12 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
 import Link from '@/components/Link.vue'
+import GameProvider from '@/components/GameProvider.vue'
 
 @Component({
   components: {
-    Link
+    Link,
+    GameProvider
   }
 })
 export default class App extends Vue {}

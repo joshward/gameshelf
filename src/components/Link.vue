@@ -3,7 +3,7 @@
     :href="url"
     class="text-blue-500 hover:text-blue-900"
   >
-    <slot></slot>
+    <slot />
   </a>
 </template>
 
