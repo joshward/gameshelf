@@ -1,0 +1,22 @@
+[cache]
+  dir = '.cache'
+  bggIdFile = 'bgg_ids.json'
+
+[data]
+  dir = 'src/assets'
+  gamesFile = 'games.json'
+
+[source]
+  dir = 'data-source'
+  gamesFile = 'game-list.toml'
+
+[image]
+  dir = 'src/img/games'
+  namePattern = '{name}.{id}.{type}.png'
+
+  [image.thumbnail]
+  width = 350
+  height = 250
+
+  [image.fullsize]
+  width = 600

@@ -5,7 +5,10 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "load": "ts-node --project ./scripts/tsconfig.json ./scripts/index.ts load",
+    "status": "ts-node --project ./scripts/tsconfig.json ./scripts/index.ts status",
+    "status:full": "ts-node --project ./scripts/tsconfig.json ./scripts/index.ts status --full"
   },
   "dependencies": {
     "@fontsource/cutive": "^4.2.2",
@@ -27,6 +30,8 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss7-compat": "^2.0.3",
+    "@types/sharp": "^0.28.1",
+    "@types/xml2js": "^0.4.8",
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -37,21 +42,32 @@
     "@vue/eslint-config-standard": "^5.1.2",
     "@vue/eslint-config-typescript": "^5.0.2",
     "autoprefixer": "^9",
+    "axios": "^0.21.1",
+    "axios-retry": "^3.1.9",
     "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
+    "commander": "6.2.0",
     "eslint": "^6.7.2",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
+    "ololog": "^1.1.175",
     "postcss": "^7",
     "reflect-metadata": "^0.1.13",
+    "safe-paths": "^0.1.5",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
+    "sharp": "^0.28.2",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "tailwindcss-pseudo-elements": "^1.5.1",
+    "toml": "^3.0.0",
+    "ts-node": "^9.1.1",
     "typescript": "~3.9.3",
     "vue-svg-loader": "^0.17.0-beta.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "xml-formatter": "2.4.0",
+    "xml2js": "0.4.23"
   }
 }

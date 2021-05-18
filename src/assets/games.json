@@ -1103,7 +1103,7 @@
   },
   {
     "bggId": 12493,
-    "name": "Twilight Imperium (Third Edition)",
+    "name": "Twilight Imperium: Third Edition",
     "image": "twilight_imperium_third_edition.12493.full.png",
     "thumbnail": "twilight_imperium_third_edition.12493.thumbnail.png",
     "minPlayers": 3,
@@ -1140,7 +1140,7 @@
     "expansions": [
       {
         "bggId": 22821,
-        "name": "Twilight Imperium (Third Edition): Shattered Empire",
+        "name": "Twilight Imperium: Third Edition – Shattered Empire",
         "year": "2006"
       }
     ],
@@ -1311,7 +1311,7 @@
   },
   {
     "bggId": 21523,
-    "name": "Runebound (Second Edition)",
+    "name": "Runebound: Second Edition",
     "image": "runebound_second_edition.21523.full.png",
     "thumbnail": "runebound_second_edition.21523.thumbnail.png",
     "minPlayers": 2,
@@ -1495,7 +1495,7 @@
   },
   {
     "bggId": 27627,
-    "name": "Talisman (Revised 4th Edition)",
+    "name": "Talisman: Revised 4th Edition",
     "image": "talisman_revised_4th_edition.27627.full.png",
     "thumbnail": "talisman_revised_4th_edition.27627.thumbnail.png",
     "minPlayers": 2,
@@ -7776,7 +7776,7 @@
   },
   {
     "bggId": 244522,
-    "name": "That's Pretty Clever",
+    "name": "That's Pretty Clever!",
     "image": "thats_pretty_clever.244522.full.png",
     "thumbnail": "thats_pretty_clever.244522.thumbnail.png",
     "minPlayers": 1,
@@ -8553,7 +8553,13 @@
       "Track Movement",
       "Variable Player Powers"
     ],
-    "expansions": [],
+    "expansions": [
+      {
+        "bggId": 315708,
+        "name": "Tapestry: Plans and Ploys",
+        "year": "2020"
+      }
+    ],
     "rating": 7.49103,
     "weight": 2.8591,
     "description": "Tapestry is a two-hour game for 1-5 players designed by Jamey Stegmaier.&#10;&#10;Create the civilization with the most storied history, starting at the beginning of humankind and reaching into the future. The paths you choose will vary greatly from real-world events or people &mdash; your civilization is unique!&#10;&#10;In Tapestry, you start from nothing and advance on any of the four advancement tracks (science, technology, exploration, and military) to earn progressively better benefits. You can focus on a specific track or take a more balanced approach. You will also improve your income, build your capital city, leverage your asymmetric abilities, earn victory points, and gain tapestry cards that will tell the story of your civilization.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
@@ -8683,7 +8689,7 @@
       },
       {
         "bggId": 291130,
-        "name": "Etherfields: 5th player Expansion",
+        "name": "Etherfields: 5th Player Expansion",
         "year": "2020"
       }
     ],
@@ -8833,7 +8839,7 @@
   },
   {
     "bggId": 315044,
-    "name": "The Sherlock Files: Curious Capers",
+    "name": "The Sherlock Files: Vol II – Curious Capers",
     "image": "sherlock_files_curious_capers.315044.full.png",
     "thumbnail": "sherlock_files_curious_capers.315044.thumbnail.png",
     "minPlayers": 1,
@@ -9051,6 +9057,257 @@
     "rating": 9.15456,
     "weight": 4,
     "description": "Anachrony is a worker placement and tableau building game set in a foreboding future. As a leader of one of humanity's four ideological Paths, your goal is to prepare for an asteroid impact bound to happen over the course of the game, and become the dominant power on New Earth once the dust has settled. At your disposal are not only your loyal workers and high-tech Exosuits, but also the ability to open Time Rifts, implemented as an innovative game mechanism.&#10;&#10;The Infinity Box includes every expansion and module released for Anachrony so far, plus the new Fractures of Time expansion and all stretch goals in an exclusive box with plastic trays to hold all content.&#10;&#10;The Infinity Box is exclusive to Kickstarter.&#10;&#10;INCLUDES:&#10;Anachrony Base Game&#10;Anachrony: Fractures of Time Expansion&#10;Anachrony: Future Imperfect Expansion&#10;Anachrony: Doomsday Module&#10;Anachrony: Pioneers of New Earth Module&#10;Anachrony: Guardians of the Council Module&#10;36 large Exosuit Miniatures&#10;Plastic Tray&#10;Printed Plastic Warp Tiles&#10;Art and Storybook&#10;All Stretch Goals&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 267414,
+    "name": "Blume",
+    "image": "blume.267414.full.png",
+    "thumbnail": "blume.267414.thumbnail.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "playingTime": 45,
+    "year": "2021",
+    "designers": [
+      "Stevo Torres"
+    ],
+    "publisher": "Yanaguana Games",
+    "categories": [
+      "Abstract Strategy",
+      "Economic",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Pattern Building",
+      "Pattern Recognition",
+      "Tile Placement"
+    ],
+    "expansions": [],
+    "rating": 6.73,
+    "weight": 2,
+    "description": "In Blume, players plant and grow their own flowerbed by placing matching tiles. After each round, players will prune their gardens to prepare for future growth. Players decide to increase their greenhouse supply or affect the local market, ultimately determining the value of everyone's greenhouse. At the end of three rounds, the player with the most valuable flowers wins the game.&#10;&#10;&mdash;description from the designer&#10;&#10;&#10;Designed by:&#10;Stevo Torres&#10;&#10;Developed by:&#10;Marshall Britt &amp; Andrew Toth&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 285894,
+    "name": "Bravo!",
+    "image": "bravo_.285894.full.png",
+    "thumbnail": "bravo_.285894.thumbnail.png",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "playingTime": 20,
+    "year": "2019",
+    "designers": [
+      "Inka Brand",
+      "Markus Brand"
+    ],
+    "publisher": "Schmidt Spiele",
+    "categories": [
+      "Dice"
+    ],
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "expansions": [],
+    "rating": 7.38206,
+    "weight": 1.8824,
+    "description": "Noch mal so gut! is a roll and write dice game in the Noch mal! family, adding further rules and possibilities of the popular predecessor. New elements include a seventh dice that can be chosen instead of the other ones (and a row and extra scoring for these dice) with new elements included on this dice - like a bomb (cross 4 fields anywhere), a heart (if crossed, it brings bonuses for completed columns), two stars (cross two stars anywhere) etc. Another new element is the rows also being scored besides columns.&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 298069,
+    "name": "Cubitos",
+    "image": "cubitos.298069.full.png",
+    "thumbnail": "cubitos.298069.thumbnail.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 60,
+    "year": "2021",
+    "designers": [
+      "John D. Clair"
+    ],
+    "publisher": "Alderac Entertainment Group",
+    "categories": [
+      "Dice",
+      "Racing"
+    ],
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Variable Set-up"
+    ],
+    "expansions": [],
+    "rating": 7.87879,
+    "weight": 2.1613,
+    "description": "Be fast or be last!&#10;&#10;In Cubitos, players take on the role of participants in the annual Cube Cup, a race of strategy and luck to determine the Cubitos Champion. Each player has a runner on the racetrack and a support team, which is represented by all the dice you roll. Each turn, you roll dice and use their results to move along the racetrack, buy new dice, and use abilities &mdash; but you must be careful not to push your luck rolling too much or you could bust!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 300001,
+    "name": "Renature",
+    "image": "renature.300001.full.png",
+    "thumbnail": "renature.300001.thumbnail.png",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "playingTime": 60,
+    "year": "2020",
+    "designers": [
+      "Michael Kiesling",
+      "Wolfgang Kramer"
+    ],
+    "publisher": "Deep Print Games",
+    "categories": [
+      "Environmental"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Enclosure",
+      "Tile Placement"
+    ],
+    "expansions": [],
+    "rating": 7.60593,
+    "weight": 2.15,
+    "description": "Renature is a majority game with dominoes for 2-4 players.&#10;&#10;Each player gets a board with large pieces of wood in the form of turf, bushes, pines and oaks. These plants are used for the majorities on the large valley board and are available in a neutral color and in the respective player color. In addition, each player gets a stack of dominoes with two out of ten animal motifs on each of them.&#10;&#10;On your turn, place one of the three dominoes in your hand on two brook spaces of the valley board. Of course, the domino must be adjacent to another domino that shows the same animal. If the placed domino borders a free space of a brown area, you can decide whether a tuft of grass or any other of your plants should be placed on that space. Tufts of turf have a value of 1, bushes of 2, pines of 3 and oaks of 4. After placing the plant, you score points for it and every plant piece that is already in this brown area and has the same or a lower value.&#10;&#10;Once a brown area is framed with dominoes, the majority is scored and the player with the highest total plant value in the area gets the points that are printed as a large number on that area's flower token. Whoever has the second highest value gets the lower number. Two things make this especially tricky: The neutral pieces count as their own color and not among the majority of the player who has used them. Also, if colors are tied, they a treated as though they are not present at all in the area. After the area has been scored, the player who framed the area receives its flower token, which will give them extra points at game end.&#10;&#10;In the course of the game, you may run out of plants, but these can be bought back from the game board with clouds. Clouds can also be used to buy another turn and to appoint a new joker animal. This animal then counts as all animals and makes it easier to put on. At the end of a player's turn, a domino is drawn and it is the next player's turn.&#10;&#10;Once all players have run out of dominoes, the game ends with a final scoring.&#10;&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 306881,
+    "name": "Railroad Ink Challenge: Lush Green Edition",
+    "image": "railroad_ink_challenge_lush_green_edition.306881.full.png",
+    "thumbnail": "railroad_ink_challenge_lush_green_edition.306881.thumbnail.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "playingTime": 30,
+    "year": "2021",
+    "designers": [
+      "Hjalmar Hach",
+      "Lorenzo Silva"
+    ],
+    "publisher": "Horrible Guild",
+    "categories": [
+      "Dice",
+      "Trains"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game"
+    ],
+    "expansions": [
+      {
+        "bggId": 306882,
+        "name": "Railroad Ink Challenge: Shining Yellow Edition",
+        "year": "2021"
+      },
+      {
+        "bggId": 320730,
+        "name": "Railroad Ink: Eldritch Expansion Pack",
+        "year": "2021"
+      },
+      {
+        "bggId": 320731,
+        "name": "Railroad Ink: Arcade Expansion Pack",
+        "year": "2021"
+      },
+      {
+        "bggId": 320732,
+        "name": "Railroad Ink: Underground Expansion Pack",
+        "year": "2021"
+      }
+    ],
+    "rating": 7.83572,
+    "weight": 1.8571,
+    "description": "Railroad Ink Challenge is a quick-playing roll-and-write game for 1 to 4 players. Grab a board and a dry-erase marker, and get ready to reach networking nirvana! Roll the dice and draw the routes to connect the exits around your board. Expand your network with railways, highways and stations to collect points, but you will be penalized for any open connections, so plan carefully!&#10;&#10;Railroad Ink Challenge has everything you love from the original Railroad Ink games and a lot more, with an all-new focus on player interaction thanks to in-game goals! Only those who achieve them first get the reward, so you have to keep an eye on what your opponents are doing and try to complete the goals before they do! A different set of goals is available each time, so no two games will be the same!&#10;&#10;But wait, there's more! Draw unprecedented, mind-bending route configurations thanks to the new dice! Connect special structures to your network to trigger new effects: factories allow you to duplicate a die, villages give bonus points if they are close to a station, universities unlock extra special routes &mdash; use these effects wisely and you'll score big!&#10;&#10;Railroad Ink Challenge comes in two versions, each one including one expansion with an additional dice set that adds new special rules to your games. Create placid forest landscapes and build into a beautiful arboreal paradise with the Lush Green Edition!&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 329465,
+    "name": "Red Rising",
+    "image": "red_rising.329465.full.png",
+    "thumbnail": "red_rising.329465.thumbnail.png",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "playingTime": 60,
+    "year": "2021",
+    "designers": [
+      "Alexander Schmidt",
+      "Jamey Stegmaier"
+    ],
+    "publisher": "Stonemaier Games",
+    "categories": [
+      "Card Game",
+      "Novel-based",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Card Drafting",
+      "Hand Management",
+      "Solo / Solitaire Game"
+    ],
+    "expansions": [],
+    "rating": 7.59724,
+    "weight": 2.3188,
+    "description": "Enter the futuristic universe of Red Rising, based on the book series by Pierce Brown featuring a dystopian society divided into fourteen castes. You represent a house attempting to rise to power as you piece together an assortment of followers (represented by your hand of cards). Will you break the chains of the Society or embrace the dominance of the Golds?&#10;&#10;Red Rising is a hand-management, combo-building game for 1-6 players (45-60 minute playing time). You start with a hand of 5 cards, and on your turn you will deploy 1 of those cards to a location on the board, activating that card&rsquo;s deploy benefit. You will then gain the top card from another location (face up) or the deck (face down), gaining that locations benefit and adding the card to your hand as you enhance your end-game point total. If at any point you&rsquo;re really happy with your hand, you can instead use your turn to reveal a card from the top of the deck and place it on a location to gain that location&rsquo;s benefit.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "new": true
+  },
+  {
+    "bggId": 277700,
+    "name": "Merchants Cove",
+    "image": "merchants_cove.277700.full.png",
+    "thumbnail": "merchants_cove.277700.thumbnail.png",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "playingTime": 90,
+    "year": "2021",
+    "designers": [
+      "Jonny Pac",
+      "Carl Van Ostrand",
+      "Drake Villareal"
+    ],
+    "publisher": "Final Frontier Games",
+    "categories": [
+      "Economic",
+      "Fantasy",
+      "Nautical"
+    ],
+    "mechanics": [
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Rondel",
+      "Tile Placement",
+      "Time Track",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "expansions": [
+      {
+        "bggId": 286985,
+        "name": "Merchants Cove: The Innkeeper",
+        "year": "2021"
+      },
+      {
+        "bggId": 286986,
+        "name": "Merchants Cove: The Oracle",
+        "year": "2021"
+      },
+      {
+        "bggId": 294635,
+        "name": "Merchants Cove: The Secret Stash",
+        "year": "2021"
+      },
+      {
+        "bggId": 337797,
+        "name": "Merchants Cove: Backer-built Rogue Pack",
+        "year": "2021"
+      }
+    ],
+    "rating": 8.0523,
+    "weight": 2.8182,
+    "description": "Welcome ashore! Merchants Cove is a highly asymmetrical eurogame where each player assumes the role of a different fantasy merchant with a unique shop. The merchants contend to sell their goods to the arriving adventurers at the cove&rsquo;s piers&mdash;the most famous markets in the Five Realms. Each player uses their own set of role-specific components and gameplay mechanisms to produce their goods, increase their shop&rsquo;s efficiency, and&mdash;most importantly&mdash;get rich!&#10;&#10;Though the merchants work independently in their specialized shops, they compete against each other to attract customers, influence the demands for goods, and secure sponsorships from the four faction halls. To get an edge, merchants can employ local townsfolk to work in their shops as staff. Or if they dare to cut corners, they can gain leverage from the corrupt lair of rogues&mdash;but at what cost? After three days of selling at the markets, the wealthiest merchant shall be declared the winner!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
     "new": true
   }
 ]
