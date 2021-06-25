@@ -1,4 +1,35 @@
 [[game]]
+bggId = 298378
+name = "Maharaja"
+new = true
+
+[[game.expansion]]
+name = "Maharaja: Kickstarter Exclusive Contents"
+
+[[game]]
+bggId = 322543
+name = "Don't Get Got!: Shut Up & Sit Down Special Edition"
+new = true
+
+[[game]]
+name = "Destinies"
+new = true
+
+[[game.expansion]]
+name = "Destinies: Myth & Folklore"
+
+[[game.expansion]]
+name = "Destinies: Bound By Fate"
+
+[[game.expansion]]
+name = "Destinies: Sea of Sand"
+
+[[game]]
+bggId = 284653
+name = "Mind MGMT: The Psychic Espionage Game"
+new = true
+
+[[game]]
 name = "Merchants Cove"
 new = true
 
@@ -127,11 +158,9 @@ new = true
 [[game]]
 bggId = 266830
 name = "Q.E."
-new = true
 
 [[game]]
 name = "Rome & Roll"
-new = true
 
 [[game.expansion]]
 bggId = 317802
@@ -144,7 +173,6 @@ new = true
 [[game]]
 name = "Space Base"
 bggId = 242302
-new = true
 
 [[game]]
 name = "Scythe"
@@ -1358,7 +1386,6 @@ wifeFavorite = true
 
 [[game]]
 name = "Legacy of Dragonholt"
-new = true
 
 [[game]]
 name = "Tiny Epic Dinosaurs"
@@ -1370,11 +1397,9 @@ new = true
 
 [[game]]
 name = "Between Two Castles of Mad King Ludwig"
-new = true
 
 [[game]]
 name = "Fuji Flush"
-new = true
 
 [[game]]
 name = "Friese's Landlord"
@@ -1418,11 +1443,9 @@ new = true
 [[game]]
 name = "The Crew: The Quest for Planet Nine"
 favorite = true
-new = true
 
 [[game]]
 name = "Res Arcana"
-new = true
 
 [[game]]
 name = "Brass: Birmingham"
@@ -1431,12 +1454,9 @@ new = true
 [[game]]
 bggId = 312804
 name = "Pendulum"
-new = true
 
 [[game]]
 name = "Euphoria: Build a Better Dystopia"
-new = true
 
 [[game]]
 name = "Viticulture Essential Edition"
-new = true
