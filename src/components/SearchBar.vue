@@ -1,98 +1,148 @@
 <template>
-  <panel
-    class="
-      p-4
-      mb-5
-      flex
-      items-center
-      space-x-4
-    "
-  >
-    <div
-      class="
-        flex-grow
-        shadow-sm
-        rounded-md
-        relative
-      "
-    >
+  <panel classes="p-4 mb-5">
+    <div class="flex items-center space-x-4">
       <div
         class="
-          absolute
-          inset-y-0
-          left-0
-          pl-3
-          flex
-          items-center
-          pointer-events-none
-        "
-      >
-        <search-icon />
-      </div>
-      <input
-        v-model.trim="searchValue"
-        v-debounce="handleSearch"
-        @focus="handleSearchFocus"
-        type="text"
-        name="search"
-        placeholder="Search"
-        class="
-          block
-          w-full
-          sm:text-sm
-          px-10
+          flex-grow
+          shadow-sm
           rounded-md
-          focus:ring-indigo-500
-          border-gray-300 focus:border-indigo-500
+          relative
         "
       >
+        <div
+          class="
+            absolute
+            inset-y-0
+            left-0
+            pl-3
+            flex
+            items-center
+            pointer-events-none
+          "
+        >
+          <search-icon />
+        </div>
+        <input
+          v-model.trim="filters.search"
+          v-debounce="handleSearch"
+          @focus="handleSearchFocus"
+          type="text"
+          name="search"
+          placeholder="Search"
+          class="
+            block
+            w-full
+            sm:text-sm
+            px-10
+            rounded-md
+            focus:ring-indigo-500
+            border-gray-300 focus:border-indigo-500
+          "
+        >
+        <div
+          v-if="filters.search"
+          class="
+            absolute
+            inset-y-0
+            right-0
+            pr-3
+            flex
+            items-center
+          "
+        >
+          <button
+            @click.prevent="clearSearch"
+            type="button"
+          >
+            <close-icon />
+          </button>
+        </div>
+      </div>
+      <game-counter
+        :current="currentCount"
+        :total="totalCount"
+      />
+    </div>
+
+    <div class="mt-2">
       <div
-        v-if="searchValue"
-        class="
-          absolute
-          inset-y-0
-          right-0
-          pr-3
-          flex
-          items-center
-        "
+        v-if="!areFiltersVisable"
+        class="flex justify-center"
       >
         <button
-          @click.prevent="() => searchValue = ''"
-          type="button"
+          @click="handleOpenFilters"
+          class="
+            text-sm
+            text-gray-600 hover:text-gray-800
+            hover:underline
+            flex
+          "
         >
-          <close-icon />
+          <filter-icon /> Filters
         </button>
       </div>
+
+      <div
+        v-else
+        class="flex justify-center gap-5"
+      >
+        <toggle
+          :value="filters.favorite"
+          @onChange="handleFilterFavoritesChange"
+          label="Favorites"
+        />
+
+        <toggle
+          :value="filters.new"
+          @onChange="handleFilterNewChange"
+          label="New"
+        />
+      </div>
     </div>
-    <game-counter
-      :current="currentCount"
-      :total="totalCount"
-    />
   </panel>
 </template>
 
 <script lang="ts">
 import Fuse from 'fuse.js'
 import { Route } from 'vue-router'
-import { SearchIcon, CloseIcon } from './icons'
-import { Game, GameData, FilterSelection } from '@/models'
+import { SearchIcon, CloseIcon, FilterIcon } from './icons'
+import { Game, GameData, FilterSelection, FilterPriority } from '@/models'
+import { isQuerySame, parseQueryParameters, setQueryParameters, query } from '@/router/route-query-processor'
 import { Component, Emit, Inject, Vue, Watch } from 'vue-property-decorator'
 import { gameDataKey } from './GameProvider.vue'
 import Panel from './Panel.vue'
 import GameCounter from './GameCounter.vue'
+import Toggle from './Toggle.vue'
+import { isTruthy } from '@/helpers'
 
-interface SearchValue {
-  name: string;
-  bggId: number;
+const searchProp = 'search'
+
+class FilterValues {
+  @query('s', '')
+  [searchProp] = ''
+
+  @query('fav', false)
+  favorite = false
+
+  @query('new', false)
+  new = false
 }
+
+interface FilterItem {
+  game: Game;
+  priority: FilterPriority;
+}
+
+type FilterHandler = (items: FilterItem[], filterValues: FilterValues, searchIndex: Fuse<Game>) => FilterItem[]
 
 @Component({
   components: {
     SearchIcon,
     CloseIcon,
     Panel,
-    GameCounter
+    GameCounter,
+    FilterIcon,
+    Toggle
   }
 })
 export default class SearchBar extends Vue {
@@ -100,10 +150,26 @@ export default class SearchBar extends Vue {
 
   searchIndex: Fuse<Game> | null = null
   creatingSearchIndex = false
-  searchValue = ''
   filterSelection: FilterSelection | null = null
+  areFiltersVisable = false
 
-  $route!: Route;
+  filters = new FilterValues()
+
+  $route!: Route
+
+  private readonly filterHandlers: ReadonlyArray<FilterHandler> = [
+    (items, { search }, searchIndex) => search
+      ? searchIndex.search(search).map(searchResult => ({ game: searchResult.item, priority: searchResult.score ?? 2 }))
+      : items,
+
+    (items, { favorite }) => favorite
+      ? items.filter(item => item.game.favorite === true || item.game.wifeFavorite === true)
+      : items,
+
+    (items, { new: newValue }) => newValue
+      ? items.filter(item => item.game.new === true)
+      : items
+  ]
 
   get currentCount (): number | undefined {
     return this.filterSelection?.size ?? this.totalCount
@@ -125,28 +191,58 @@ export default class SearchBar extends Vue {
       return
     }
 
-    const key = this.searchValue
-
-    if (!key) {
-      this.filter(null)
+    if (!this.hasFiltersSet()) {
+      this.setFilter(null)
       this.setRouteFromValues()
       return
     }
 
-    const searchResults = this.searchIndex.search(key)
-    const selection: FilterSelection = new Map(searchResults.map(result => [
-      result.item.bggId,
-      result.score ?? 2
+    let filterItems: FilterItem[] = this.gameData.games.map(game => ({ game, priority: true }))
+
+    for (const filterHandler of this.filterHandlers) {
+      filterItems = filterHandler(filterItems, this.filters, this.searchIndex)
+    }
+
+    const selection: FilterSelection = new Map(filterItems.map(item => [
+      item.game.bggId,
+      item.priority
     ]))
 
-    this.filter(selection)
+    this.setFilter(selection)
     this.setRouteFromValues()
+  }
+
+  clearSearch () {
+    if (!this.filters.search) {
+      return
+    }
+
+    this.filters.search = ''
+    this.handleSearch()
   }
 
   handleSearchFocus () {
     if (!this.searchIndex) {
       this.createSearchIndex().then(this.handleSearch)
     }
+  }
+
+  handleOpenFilters () {
+    this.areFiltersVisable = true
+
+    if (!this.searchIndex) {
+      this.createSearchIndex().then(this.handleSearch)
+    }
+  }
+
+  handleFilterFavoritesChange (value: boolean) {
+    this.filters.favorite = value
+    this.handleSearch()
+  }
+
+  handleFilterNewChange (value: boolean) {
+    this.filters.new = value
+    this.handleSearch()
   }
 
   @Watch('gameData.games')
@@ -156,19 +252,23 @@ export default class SearchBar extends Vue {
       return
     }
 
-    if (this.searchIndex != null || this.hasSearchSet()) {
+    if (this.searchIndex != null || this.hasFiltersSet()) {
       this.createSearchIndex().then(this.handleSearch)
     }
   }
 
   @Watch('$route.query')
   private handleRouteChange (): void {
+    if (isQuerySame(this.filters, this.$route.query)) {
+      return
+    }
+
     this.setValuesFromRoute()
     this.handleSearch()
   }
 
-  @Emit()
-  private filter (selection: FilterSelection | null) {
+  @Emit('filter')
+  private setFilter (selection: FilterSelection | null) {
     this.filterSelection = selection
   }
 
@@ -212,41 +312,29 @@ export default class SearchBar extends Vue {
   }
 
   private setValuesFromRoute (): void {
-    this.searchValue = this.asSingleValue(this.$route.query.s) ?? ''
+    this.filters = parseQueryParameters(FilterValues, this.$route.query)
+
+    if (this.hasFiltersSet(true)) {
+      this.handleOpenFilters()
+    }
   }
 
   private setRouteFromValues () {
-    if (this.$route.query.s === (this.searchValue || undefined)) {
+    if (isQuerySame(this.filters, this.$route.query)) {
       return
     }
 
-    const alreadySet = this.$route.query.s != null
-
-    const query = {
-      s: this.searchValue || undefined
-    }
-
-    if (alreadySet) {
-      this.$router.replace({ query })
-    } else {
-      this.$router.push({ query })
-    }
+    setQueryParameters(this.filters, this.$route.query, this.$router)
   }
 
-  private hasSearchSet (): boolean {
-    return this.searchValue != null
-  }
+  private hasFiltersSet (ignoreSearch?: boolean): boolean {
+    let entries = Object.entries(this.filters)
 
-  private asSingleValue (value?: string | (string | null)[]): string | null {
-    if (!value) {
-      return null
+    if (ignoreSearch) {
+      entries = entries.filter(entry => entry[0] !== searchProp)
     }
 
-    if (Array.isArray(value)) {
-      return value[0] ?? null
-    }
-
-    return value
+    return entries.map(entry => entry[1]).some(isTruthy)
   }
 }
 </script>
