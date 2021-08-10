@@ -1457,6 +1457,7 @@ name = "Pendulum"
 
 [[game]]
 name = "Euphoria: Build a Better Dystopia"
+wifeFavorite = true
 
 [[game]]
 name = "Viticulture Essential Edition"
