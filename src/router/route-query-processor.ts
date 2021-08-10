@@ -1,15 +1,18 @@
 import VueRouter, { Route } from 'vue-router'
 import { Dictionary } from 'vue-router/types/router'
-import { ClassConstructor, plainToClass } from 'class-transformer'
+import { ClassConstructor, plainToClass, Expose } from 'class-transformer'
 import { isTruthy } from '@/helpers'
 
 const queryNameSymbol = Symbol('query:name')
 const queryDefaultSymbol = Symbol('query:default')
 
 export const query = (name: string, def?: unknown): PropertyDecorator => {
-  return (target: object): void => {
-    Reflect.defineMetadata(queryNameSymbol, name, target)
-    Reflect.defineMetadata(queryDefaultSymbol, def, target)
+  return (target: object, propertyKey: string | symbol): void => {
+    Reflect.defineMetadata(queryNameSymbol, name, target, propertyKey)
+    Reflect.defineMetadata(queryDefaultSymbol, def, target, propertyKey)
+
+    // mesh in class-transformer's Expose
+    Expose({ name })(target, propertyKey)
   }
 }
 

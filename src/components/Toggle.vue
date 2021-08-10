@@ -1,6 +1,18 @@
 <template>
-  <div class="flex gap-2">
-    <span
+  <div>
+    <label
+      v-if="label"
+      class="
+        block
+        text-sm
+        font-medium
+        text-gray-700
+      "
+    >
+      {{ label }}
+    </label>
+
+    <div
       aria-checked="false"
       @click="handleClick"
       :class="value ? 'bg-indigo-600' : 'bg-gray-200'"
@@ -37,13 +49,7 @@
           ease-in-out
           duration-200"
       />
-    </span>
-    <span
-      v-if="label"
-      class="text-gray-700 items-end"
-    >
-      {{ label }}
-    </span>
+    </div>
   </div>
 </template>
 

@@ -83,8 +83,27 @@
       </div>
 
       <div
+        v-else-if="this.gameData.isLoading"
+        class="
+          flex
+          flex-wrap
+          justify-center
+          gap-5
+        "
+      >
+        <div class="animate-pulse h-6 w-32 mt-5 rounded bg-gray-300" />
+        <div class="animate-pulse h-6 w-32 mt-5 rounded bg-gray-300" />
+        <div class="animate-pulse h-6 w-32 mt-5 rounded bg-gray-300" />
+      </div>
+
+      <div
         v-else
-        class="flex justify-center gap-5"
+        class="
+          flex
+          flex-wrap
+          justify-center
+          gap-5
+        "
       >
         <toggle
           :value="filters.favorite"
@@ -96,6 +115,41 @@
           :value="filters.new"
           @onChange="handleFilterNewChange"
           label="New"
+        />
+
+        <Select
+          label="Players"
+          :value="filters.players"
+          :options="playerCountOptions"
+          @onChange="handlePlayerChange"
+        />
+
+        <Select
+          label="Category"
+          :value="filters.category"
+          :options="categoryOptions"
+          @onChange="handleCategoryChange"
+        />
+
+        <Select
+          label="Mechanic"
+          :value="filters.mechanic"
+          :options="mechanicOptions"
+          @onChange="handleMechanicChange"
+        />
+
+        <Select
+          label="Designer"
+          :value="filters.designer"
+          :options="designerOptions"
+          @onChange="handleDesignerChange"
+        />
+
+        <Select
+          label="Publisher"
+          :value="filters.publisher"
+          :options="publisherOptions"
+          @onChange="handlePublisherChange"
         />
       </div>
     </div>
@@ -113,7 +167,8 @@ import { gameDataKey } from './GameProvider.vue'
 import Panel from './Panel.vue'
 import GameCounter from './GameCounter.vue'
 import Toggle from './Toggle.vue'
-import { isTruthy } from '@/helpers'
+import Select, { SelectOption } from './Select.vue'
+import { isTruthy, toSlug } from '@/helpers'
 
 const searchProp = 'search'
 
@@ -126,6 +181,21 @@ class FilterValues {
 
   @query('new', false)
   new = false
+
+  @query('pc', '')
+  players = ''
+
+  @query('cat', '')
+  category = ''
+
+  @query('mec', '')
+  mechanic = ''
+
+  @query('des', '')
+  designer = ''
+
+  @query('pub', '')
+  publisher = ''
 }
 
 interface FilterItem {
@@ -133,7 +203,31 @@ interface FilterItem {
   priority: FilterPriority;
 }
 
-type FilterHandler = (items: FilterItem[], filterValues: FilterValues, searchIndex: Fuse<Game>) => FilterItem[]
+interface FilterHandlerState {
+  readonly filterValues: FilterValues;
+  readonly searchIndex: Fuse<Game>;
+  readonly categoryOptions: ReadonlyArray<SelectOption>;
+  readonly mechanicOptions: ReadonlyArray<SelectOption>;
+  readonly designerOptions: ReadonlyArray<SelectOption>;
+  readonly publisherOptions: ReadonlyArray<SelectOption>;
+}
+
+type FilterHandler = (items: FilterItem[], state: FilterHandlerState) => FilterItem[]
+
+function filterDropdown (
+  items: FilterItem[],
+  options: readonly SelectOption[],
+  filterValue: string,
+  matcher: (game: Game, key: string) => boolean
+): FilterItem[] {
+  const key = options.find(option => option.value === filterValue)?.name
+
+  if (!key) {
+    return items
+  }
+
+  return items.filter(item => matcher(item.game, key))
+}
 
 @Component({
   components: {
@@ -142,33 +236,88 @@ type FilterHandler = (items: FilterItem[], filterValues: FilterValues, searchInd
     Panel,
     GameCounter,
     FilterIcon,
-    Toggle
+    Toggle,
+    Select
   }
 })
 export default class SearchBar extends Vue {
   @Inject(gameDataKey) readonly gameData!: GameData
 
-  searchIndex: Fuse<Game> | null = null
-  creatingSearchIndex = false
-  filterSelection: FilterSelection | null = null
-  areFiltersVisable = false
+  private searchIndex: Fuse<Game> | null = null
+  private creatingSearchIndex = false
+  private filterSelection: FilterSelection | null = null
+  private areFiltersVisable = false
 
-  filters = new FilterValues()
+  private filters = new FilterValues()
 
   $route!: Route
 
+  get filtersAreLoaded (): boolean {
+    return !this.gameData.isLoading || !this.createSearchIndex
+  }
+
+  private readonly playerCountOptions: ReadonlyArray<SelectOption> = [
+    { name: '1', value: '1' },
+    { name: '2', value: '2' },
+    { name: '3', value: '3' },
+    { name: '4', value: '4' },
+    { name: '5', value: '5' },
+    { name: '6', value: '6' },
+    { name: '7', value: '7' },
+    { name: '8', value: '8' },
+    { name: '9', value: '9' },
+    { name: '10+', value: '10' }
+  ]
+
+  private categoryOptions: ReadonlyArray<SelectOption> = []
+
+  private mechanicOptions: ReadonlyArray<SelectOption> = []
+
+  private designerOptions: ReadonlyArray<SelectOption> = []
+
+  private publisherOptions: ReadonlyArray<SelectOption> = []
+
   private readonly filterHandlers: ReadonlyArray<FilterHandler> = [
-    (items, { search }, searchIndex) => search
+    (items, { filterValues: { search }, searchIndex }) => search
       ? searchIndex.search(search).map(searchResult => ({ game: searchResult.item, priority: searchResult.score ?? 2 }))
       : items,
 
-    (items, { favorite }) => favorite
+    (items, { filterValues: { favorite } }) => favorite
       ? items.filter(item => item.game.favorite === true || item.game.wifeFavorite === true)
       : items,
 
-    (items, { new: newValue }) => newValue
+    (items, { filterValues: { new: newValue } }) => newValue
       ? items.filter(item => item.game.new === true)
-      : items
+      : items,
+
+    (items, { filterValues: { players } }) => {
+      if (!players) {
+        return items
+      }
+
+      const target = parseInt(players)
+
+      if (isNaN(target) || target < 1) {
+        return items
+      }
+
+      const noMin = target >= 10
+
+      return items.filter(item =>
+        (noMin || item.game.minPlayers <= target) && item.game.maxPlayers >= target)
+    },
+
+    (items, { filterValues: { category }, categoryOptions }) =>
+      filterDropdown(items, categoryOptions, category, (game, key) => game.categories.includes(key)),
+
+    (items, { filterValues: { mechanic }, mechanicOptions }) =>
+      filterDropdown(items, mechanicOptions, mechanic, (game, key) => game.mechanics.includes(key)),
+
+    (items, { filterValues: { designer }, designerOptions }) =>
+      filterDropdown(items, designerOptions, designer, (game, key) => game.designers.includes(key)),
+
+    (items, { filterValues: { publisher }, publisherOptions }) =>
+      filterDropdown(items, publisherOptions, publisher, (game, key) => game.publisher === key)
   ]
 
   get currentCount (): number | undefined {
@@ -199,8 +348,17 @@ export default class SearchBar extends Vue {
 
     let filterItems: FilterItem[] = this.gameData.games.map(game => ({ game, priority: true }))
 
+    const state: FilterHandlerState = {
+      filterValues: this.filters,
+      searchIndex: this.searchIndex,
+      categoryOptions: this.categoryOptions,
+      mechanicOptions: this.mechanicOptions,
+      designerOptions: this.designerOptions,
+      publisherOptions: this.publisherOptions
+    }
+
     for (const filterHandler of this.filterHandlers) {
-      filterItems = filterHandler(filterItems, this.filters, this.searchIndex)
+      filterItems = filterHandler(filterItems, state)
     }
 
     const selection: FilterSelection = new Map(filterItems.map(item => [
@@ -223,7 +381,7 @@ export default class SearchBar extends Vue {
 
   handleSearchFocus () {
     if (!this.searchIndex) {
-      this.createSearchIndex().then(this.handleSearch)
+      this.createSearchData().then(this.handleSearch)
     }
   }
 
@@ -231,7 +389,7 @@ export default class SearchBar extends Vue {
     this.areFiltersVisable = true
 
     if (!this.searchIndex) {
-      this.createSearchIndex().then(this.handleSearch)
+      this.createSearchData().then(this.handleSearch)
     }
   }
 
@@ -245,6 +403,31 @@ export default class SearchBar extends Vue {
     this.handleSearch()
   }
 
+  handlePlayerChange (value: string) {
+    this.filters.players = value
+    this.handleSearch()
+  }
+
+  handleCategoryChange (value: string) {
+    this.filters.category = value
+    this.handleSearch()
+  }
+
+  handleMechanicChange (value: string) {
+    this.filters.mechanic = value
+    this.handleSearch()
+  }
+
+  handleDesignerChange (value: string) {
+    this.filters.designer = value
+    this.handleSearch()
+  }
+
+  handlePublisherChange (value: string) {
+    this.filters.publisher = value
+    this.handleSearch()
+  }
+
   @Watch('gameData.games')
   @Watch('gameData.isLoading')
   private gameDataChanged (): void {
@@ -253,7 +436,7 @@ export default class SearchBar extends Vue {
     }
 
     if (this.searchIndex != null || this.hasFiltersSet()) {
-      this.createSearchIndex().then(this.handleSearch)
+      this.createSearchData().then(this.handleSearch)
     }
   }
 
@@ -270,6 +453,13 @@ export default class SearchBar extends Vue {
   @Emit('filter')
   private setFilter (selection: FilterSelection | null) {
     this.filterSelection = selection
+  }
+
+  private async createSearchData (): Promise<void> {
+    await Promise.all([
+      this.createSearchIndex(),
+      this.buildFilterOptions()
+    ])
   }
 
   private async createSearchIndex (): Promise<void> {
@@ -309,6 +499,25 @@ export default class SearchBar extends Vue {
     } finally {
       this.creatingSearchIndex = false
     }
+  }
+
+  private buildFilterOptions (): void {
+    if (this.gameData.isLoading) {
+      return
+    }
+
+    this.categoryOptions = this.buildSelectOptions(this.gameData.games.flatMap(game => game.categories))
+    this.mechanicOptions = this.buildSelectOptions(this.gameData.games.flatMap(game => game.mechanics))
+    this.publisherOptions = this.buildSelectOptions(this.gameData.games.map(game => game.publisher))
+    this.designerOptions = this.buildSelectOptions(this.gameData.games.flatMap(game => game.designers).filter(designer => isTruthy(designer)))
+  }
+
+  private buildSelectOptions (options: string[]): SelectOption[] {
+    const distinct = [...new Set(options)].sort()
+    return distinct.map(item => ({
+      name: item,
+      value: toSlug(item)
+    }))
   }
 
   private setValuesFromRoute (): void {
