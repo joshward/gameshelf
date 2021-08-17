@@ -106,7 +106,7 @@
           <template slot="image">
             <brain-image class="h-full" />
           </template>
-          {{ game.weight.toFixed(1) }}/5
+          {{ buildComplexity(game.weight) }}
         </icon-text>
 
         <icon-text tooltip="BGG Rating">
@@ -342,6 +342,14 @@ export default class GamePage extends Vue {
     }
 
     return `${this.game.minPlayers}-${this.game.maxPlayers}`
+  }
+
+  buildComplexity (weight: number): string {
+    if (!weight) {
+      return 'N/A'
+    }
+
+    return `${weight.toFixed(1)}/5`
   }
 }
 </script>

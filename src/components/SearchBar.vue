@@ -98,59 +98,90 @@
 
       <div
         v-else
-        class="
-          flex
-          flex-wrap
-          justify-center
-          gap-5
-        "
       >
-        <toggle
-          :value="filters.favorite"
-          @onChange="handleFilterFavoritesChange"
-          label="Favorites"
-        />
+        <div
+          class="
+            flex
+            flex-wrap
+            justify-center
+            gap-5
+          "
+        >
+          <toggle
+            :value="filters.favorite"
+            @onChange="handleFilterFavoritesChange"
+            label="Favorites"
+          />
 
-        <toggle
-          :value="filters.new"
-          @onChange="handleFilterNewChange"
-          label="New"
-        />
+          <toggle
+            :value="filters.new"
+            @onChange="handleFilterNewChange"
+            label="New"
+          />
 
-        <Select
-          label="Players"
-          :value="filters.players"
-          :options="playerCountOptions"
-          @onChange="handlePlayerChange"
-        />
+          <Select
+            label="Players"
+            :value="filters.players"
+            :options="playerCountOptions"
+            @onChange="handlePlayerChange"
+          />
 
-        <Select
-          label="Category"
-          :value="filters.category"
-          :options="categoryOptions"
-          @onChange="handleCategoryChange"
-        />
+          <Select
+            label="Time"
+            :value="filters.time"
+            :options="timeOptions"
+            @onChange="handleTimeChange"
+          />
 
-        <Select
-          label="Mechanic"
-          :value="filters.mechanic"
-          :options="mechanicOptions"
-          @onChange="handleMechanicChange"
-        />
+          <Select
+            label="Complexity"
+            :value="filters.complexity"
+            :options="complexityOptions"
+            @onChange="handleComplexityChange"
+          />
 
-        <Select
-          label="Designer"
-          :value="filters.designer"
-          :options="designerOptions"
-          @onChange="handleDesignerChange"
-        />
+          <Select
+            label="Category"
+            :value="filters.category"
+            :options="categoryOptions"
+            @onChange="handleCategoryChange"
+          />
 
-        <Select
-          label="Publisher"
-          :value="filters.publisher"
-          :options="publisherOptions"
-          @onChange="handlePublisherChange"
-        />
+          <Select
+            label="Mechanic"
+            :value="filters.mechanic"
+            :options="mechanicOptions"
+            @onChange="handleMechanicChange"
+          />
+
+          <Select
+            label="Designer"
+            :value="filters.designer"
+            :options="designerOptions"
+            @onChange="handleDesignerChange"
+          />
+
+          <Select
+            label="Publisher"
+            :value="filters.publisher"
+            :options="publisherOptions"
+            @onChange="handlePublisherChange"
+          />
+        </div>
+
+        <div class="mt-2 flex justify-center">
+          <button
+            @click="clearFilters"
+            class="
+              text-sm
+              text-red-600 hover:text-red-800
+              hover:underline
+              flex
+            "
+          >
+            <close-icon /> Clear
+          </button>
+        </div>
       </div>
     </div>
   </panel>
@@ -196,6 +227,12 @@ class FilterValues {
 
   @query('pub', '')
   publisher = ''
+
+  @query('cpx', '')
+  complexity = ''
+
+  @query('time', '')
+  time = ''
 }
 
 interface FilterItem {
@@ -210,6 +247,7 @@ interface FilterHandlerState {
   readonly mechanicOptions: ReadonlyArray<SelectOption>;
   readonly designerOptions: ReadonlyArray<SelectOption>;
   readonly publisherOptions: ReadonlyArray<SelectOption>;
+  readonly timeOptions: ReadonlyArray<SelectOption>;
 }
 
 type FilterHandler = (items: FilterItem[], state: FilterHandlerState) => FilterItem[]
@@ -269,6 +307,22 @@ export default class SearchBar extends Vue {
     { name: '10+', value: '10' }
   ]
 
+  private readonly complexityOptions: ReadonlyArray<SelectOption> = [
+    { name: '0-1', value: '1' },
+    { name: '1-2', value: '2' },
+    { name: '2-3', value: '3' },
+    { name: '3-4', value: '4' },
+    { name: '4-5', value: '5' }
+  ]
+
+  private readonly timeOptions: ReadonlyArray<SelectOption> = [
+    { name: '15 mins', value: '15' },
+    { name: '30 mins', value: '30' },
+    { name: '1 hour', value: '60' },
+    { name: '2 hours', value: '120' },
+    { name: '3+ hours', value: '180' }
+  ]
+
   private categoryOptions: ReadonlyArray<SelectOption> = []
 
   private mechanicOptions: ReadonlyArray<SelectOption> = []
@@ -317,7 +371,37 @@ export default class SearchBar extends Vue {
       filterDropdown(items, designerOptions, designer, (game, key) => game.designers.includes(key)),
 
     (items, { filterValues: { publisher }, publisherOptions }) =>
-      filterDropdown(items, publisherOptions, publisher, (game, key) => game.publisher === key)
+      filterDropdown(items, publisherOptions, publisher, (game, key) => game.publisher === key),
+
+    (items, { filterValues: { complexity } }) => {
+      if (!complexity) {
+        return items
+      }
+
+      const target = parseInt(complexity)
+
+      if (isNaN(target) || target < 1 || target > 5) {
+        return items
+      }
+
+      return items.filter(item =>
+        item.game.weight > target - 1 && item.game.weight <= target
+      )
+    },
+
+    (items, { filterValues: { time }, timeOptions }) => {
+      if (!time) {
+        return items
+      }
+
+      const optionIndex = timeOptions.findIndex(option => option.value === time)
+      const minTime = optionIndex > 1
+        ? parseInt(timeOptions[optionIndex - 1].value)
+        : 0
+      const maxTime = parseInt(timeOptions[optionIndex].value)
+
+      return items.filter(item => item.game.playingTime > minTime && item.game.playingTime <= maxTime)
+    }
   ]
 
   get currentCount (): number | undefined {
@@ -354,7 +438,8 @@ export default class SearchBar extends Vue {
       categoryOptions: this.categoryOptions,
       mechanicOptions: this.mechanicOptions,
       designerOptions: this.designerOptions,
-      publisherOptions: this.publisherOptions
+      publisherOptions: this.publisherOptions,
+      timeOptions: this.timeOptions
     }
 
     for (const filterHandler of this.filterHandlers) {
@@ -376,6 +461,16 @@ export default class SearchBar extends Vue {
     }
 
     this.filters.search = ''
+    this.handleSearch()
+  }
+
+  clearFilters () {
+    const searchValue = this.filters.search
+
+    this.filters = new FilterValues()
+    this.filters.search = searchValue
+    this.areFiltersVisable = false
+
     this.handleSearch()
   }
 
@@ -425,6 +520,16 @@ export default class SearchBar extends Vue {
 
   handlePublisherChange (value: string) {
     this.filters.publisher = value
+    this.handleSearch()
+  }
+
+  handleComplexityChange (value: string) {
+    this.filters.complexity = value
+    this.handleSearch()
+  }
+
+  handleTimeChange (value: string) {
+    this.filters.time = value
     this.handleSearch()
   }
 
