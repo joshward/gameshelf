@@ -1,3 +1,5 @@
+*_dump.xml
+
 .DS_Store
 node_modules
 /dist

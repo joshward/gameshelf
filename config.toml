@@ -1,18 +1,15 @@
-[cache]
-  dir = '.cache'
-  bggIdFile = 'bgg_ids.json'
-
 [data]
-  dir = 'src/assets'
-  gamesFile = 'games.json'
+  dir = 'site'
+  gamesFile = 'public/games.json'
+  hashFile = 'src/assets/hash.json'
+  initFile = 'src/assets/init.json'
 
-[source]
-  dir = 'data-source'
-  gamesFile = 'game-list.toml'
+[extended]
+  dir = 'cli'
+  dataFile = 'extended-data.json'
 
 [image]
-  dir = 'src/img/games'
-  namePattern = '{name}.{id}.{type}.png'
+  dir = 'site/src/img/games'
 
   [image.thumbnail]
   width = 350

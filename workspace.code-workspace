@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "cli",
+			"path": "./cli"
+		},
+		{
+			"name": "site",
+			"path": "./site"
+		},
+		{
+			"path": ".",
+			"name": ".workspace"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/node_modules/": true,
+			"cli": true,
+			"site": true
+		},
+		"cSpell.words": [
+			"blurhash"
+		]
+	}
+}
