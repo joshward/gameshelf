@@ -10060,6 +10060,46 @@
     "new": false
   },
   {
+    "bggId": 245655,
+    "categories": [
+      "Fantasy",
+      "Negotiation",
+      "Political"
+    ],
+    "description": "The King's Dilemma is an interactive narrative experience with legacy elements, featuring several branching storylines leading to many possible finales and an evolving deck of event cards at its core. Players represent the various houses leading the government of the Kingdom of Ankist.&#10;&#10;You will draw one card from the &quot;Dilemma deck&quot; each round and experience the game story as it unfolds. Each card poses a problem that the Council has to resolve on the King's behalf. As members of the King's inner circle, your decisions determine how the story proceeds and the fate of the kingdom. Each event happens only once: You discuss and bargain with the other players, then finally you make a choice, determining the outcome, progressing the game story, and possibly unlocking more events.&#10;&#10;You have to keep the kingdom going, while also seeking an advantage for your own house; this power struggle may lead the kingdom into war, famine, or riot, or it could generate wealth and well-being. This will depend on your choices! The thing is, each decision has consequences, and what is good for the kingdom as a whole may be bad for your family...&#10;&#10;Will you act for the greater good, or will you think only of yourself?&#10;&#10;",
+    "designers": [
+      "Hjalmar Hach",
+      "Lorenzo Silva"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Bias",
+      "Bribery",
+      "Legacy Game",
+      "Storytelling",
+      "Traitor Game",
+      "Voting"
+    ],
+    "minPlayers": 3,
+    "name": "The King's Dilemma",
+    "playingTime": 60,
+    "publisher": "Horrible Guild",
+    "rating": 7.96509,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.2439,
+    "year": "2019",
+    "expansions": [],
+    "image": "kings_dilemma.245655.full.png",
+    "thumbnail": "kings_dilemma.245655.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U59~mP-V0f#,2Wn%v$K30f5lpHwf9u$%}sSO",
+    "slug": "the-kings-dilemma",
+    "new": true
+  },
+  {
     "bggId": 246192,
     "categories": [
       "Card Game",
@@ -11856,7 +11896,7 @@
     "thumbWidth": 248,
     "blurhash": "UIFrYSNZ57WY%%IoM|afWFxGW;X8RPsog5f+",
     "slug": "maharaja",
-    "new": true
+    "new": false
   },
   {
     "bggId": 300001,
