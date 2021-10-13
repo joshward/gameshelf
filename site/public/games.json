@@ -11852,7 +11852,7 @@
     "thumbWidth": 250,
     "blurhash": "UZFaE,SjlAxA?Kodo}V]D$enivT0kSjYWBkV",
     "slug": "cubitos",
-    "new": true
+    "new": false
   },
   {
     "bggId": 298378,
@@ -12296,6 +12296,42 @@
     "blurhash": "U39%^~xu00E2~VE1Iq%M4.%gxWIA00W?%0IT",
     "slug": "the-sherlock-files",
     "new": false
+  },
+  {
+    "bggId": 319592,
+    "categories": [
+      "Abstract Strategy",
+      "Print & Play"
+    ],
+    "description": "In Micro Dojo, you represent one of two Daimyos who have been tasked by the Shogun to bring prosperity to a small town. Carefully use the town&rsquo;s retainers to complete the Shogun&rsquo;s tasks and win favour. The most prosperous Daimyo will be granted the title to the town.&#10;&#10;Micro Dojo&nbsp;is a 20 min tactical euro game for two players, intended to fit comfortably in a pocket or purse. In Micro Dojo, players take control of the Ninja, Samurai, Sumo and Geisha meeples to generate resources, develop the town, and score points by achieving the Shogun&rsquo;s tasks.&#10;&#10;Each turn players move one of the four meeples to an adjacent space and take the action there - either gathering resources, taking a building, or activating a scoring objective. The catch? You can't move the last meeple either you or your opponent moved. The games end when the last objective is triggered, or a player reaches 7 points.&#10;&#10;Movement is tight, requiring you to second guess your opponents plan. Timing is crucial, triggering objective scoring only when it benefits you. Like a sparring match, every move should be chosen with precision and efficiency, or your opponent will strike.&#10;&#10;",
+    "designers": [
+      "Ben Downton"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Area Movement",
+      "Highest-Lowest Scoring",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "minPlayers": 2,
+    "name": "Micro Dojo",
+    "playingTime": 30,
+    "publisher": "Prometheus Game Labs",
+    "rating": 7.2552,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2021",
+    "expansions": [],
+    "image": "micro_dojo.319592.full.png",
+    "thumbnail": "micro_dojo.319592.thumbnail.png",
+    "thumbHeight": 237,
+    "thumbWidth": 250,
+    "blurhash": "U7JZAD^k00rDD4w{%#aK0KiwuOkq4SaK2sOr",
+    "slug": "micro-dojo",
+    "new": true
   },
   {
     "bggId": 320960,
