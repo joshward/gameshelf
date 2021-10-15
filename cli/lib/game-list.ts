@@ -62,6 +62,8 @@ interface GameListData {
   blurhash: string;
 
   expansions: GameListExpansion[];
+
+  sale?: string;
 }
 
 interface GameListGame extends GameListData, BaseGameData {}
@@ -233,6 +235,7 @@ export class GameList {
       thumbHeight: game.thumbHeight,
       thumbWidth: game.thumbWidth,
       blurhash: game.blurhash,
+      sale: game.sale,
 
       slug: toSlug(game.name),
       new: false,
@@ -247,9 +250,10 @@ export class GameList {
     }
   }
 
-  private createBaseGameData (games: GameListGame[]): { count: number, games: BaseGameData[] } {
+  private createBaseGameData (games: GameListGame[]): { count: number, sale: boolean, games: BaseGameData[] } {
     return {
       count: games.length,
+      sale: games.some(game => game.sale ? true : false),
       games: [...games].sort((a, b) => a.name.localeCompare(b.name)).slice(0, this.initCount).map(game => ({
         bggId: game.bggId,
         name: game.name,

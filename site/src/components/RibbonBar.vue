@@ -37,6 +37,16 @@
         <new-icon />
       </figure>
     </ribbon>
+
+    <ribbon
+      v-if="isForSale"
+      coloring="from-green-300 to-green-200 before:bg-green-300 after:bg-green-500"
+      tooltip="For sale!"
+    >
+      <figure class="w-10 pt-2">
+        <img src="@/assets/sack.png">
+      </figure>
+    </ribbon>
   </div>
 </template>
 
@@ -69,6 +79,10 @@ export default class RibbonBar extends Vue {
 
   get isNew () {
     return this.game.new
+  }
+
+  get isForSale () {
+    return this.game.forSale
   }
 }
 </script>

@@ -37,6 +37,10 @@
     "versionId": 29912
   },
   {
+    "bggId": 224,
+    "addedDate": 0
+  },
+  {
     "bggId": 258,
     "addedDate": 0,
     "versionId": 20844
@@ -106,7 +110,8 @@
   },
   {
     "bggId": 2471,
-    "addedDate": 0
+    "addedDate": 0,
+    "versionId": 25110
   },
   {
     "bggId": 2593,
@@ -181,7 +186,8 @@
   },
   {
     "bggId": 25261,
-    "addedDate": 0
+    "addedDate": 0,
+    "versionId": 25832
   },
   {
     "bggId": 25417,
@@ -193,6 +199,10 @@
   },
   {
     "bggId": 25677,
+    "addedDate": 0
+  },
+  {
+    "bggId": 25937,
     "addedDate": 0
   },
   {
@@ -1108,7 +1118,8 @@
   },
   {
     "bggId": 265917,
-    "addedDate": 0
+    "addedDate": 0,
+    "versionId": 432795
   },
   {
     "bggId": 266192,

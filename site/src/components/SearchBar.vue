@@ -67,7 +67,7 @@
     <div class="mt-2">
       <div
         v-if="!areFiltersVisable"
-        class="flex justify-center"
+        class="flex flex-row justify-center space-x-5 items-center"
       >
         <button
           @click="handleOpenFilters"
@@ -79,6 +79,21 @@
           "
         >
           <filter-icon /> Filters
+        </button>
+
+        <button
+          class="
+            rounded-full
+            bg-green-200 hover:bg-green-300
+            ring-1
+            ring-green-300 hover:ring-green-400
+            shadow
+            px-3
+            py-1
+          "
+          @click="handleForSaleClick"
+        >
+          Games for Sale!
         </button>
       </div>
 
@@ -107,6 +122,15 @@
             gap-5
           "
         >
+          <toggle
+            v-if="hasForSale"
+            :value="filters.sale"
+            @onChange="handleFilterSaleChange"
+            label="For Sale"
+            unselected-class="bg-green-100"
+            selected-class="bg-green-300"
+          />
+
           <toggle
             :value="filters.favorite"
             @onChange="handleFilterFavoritesChange"
@@ -233,6 +257,9 @@ class FilterValues {
 
   @query('time', '')
   time = ''
+
+  @query('sale', false)
+  sale = false
 }
 
 interface FilterItem {
@@ -294,6 +321,10 @@ export default class SearchBar extends Vue {
     return !this.gameData.isLoading || !this.createSearchIndex
   }
 
+  get hasForSale (): boolean {
+    return this.gameData?.games.some(game => game.forSale) ?? false
+  }
+
   private readonly playerCountOptions: ReadonlyArray<SelectOption> = [
     { name: '1', value: '1' },
     { name: '2', value: '2' },
@@ -334,6 +365,10 @@ export default class SearchBar extends Vue {
   private readonly filterHandlers: ReadonlyArray<FilterHandler> = [
     (items, { filterValues: { search }, searchIndex }) => search
       ? searchIndex.search(search).map(searchResult => ({ game: searchResult.item, priority: searchResult.score ?? 2 }))
+      : items,
+
+    (items, { filterValues: { sale } }) => sale
+      ? items.filter(item => item.game.forSale)
       : items,
 
     (items, { filterValues: { favorite } }) => favorite
@@ -486,6 +521,16 @@ export default class SearchBar extends Vue {
     if (!this.searchIndex) {
       this.createSearchData().then(this.handleSearch)
     }
+  }
+
+  handleForSaleClick () {
+    this.handleFilterSaleChange(true)
+    this.handleOpenFilters()
+  }
+
+  handleFilterSaleChange (value: boolean) {
+    this.filters.sale = value
+    this.handleSearch()
   }
 
   handleFilterFavoritesChange (value: boolean) {

@@ -23,6 +23,11 @@ export class Game {
   expansions!: GameExpansion[];
   slug!: string;
   new!: boolean;
+  sale?: string;
+
+  get forSale (): boolean {
+    return this.sale !== undefined && this.sale !== ''
+  }
 }
 
 export class GameExpansion {

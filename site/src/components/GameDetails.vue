@@ -118,6 +118,29 @@
       </div>
     </panel>
 
+    <panel
+      v-if="game.forSale"
+      class="
+        p-4
+        bg-green-200
+        border-green-300
+      "
+    >
+      <h4
+        class="
+          font-serif
+          font-semibold
+          text-lg
+          pb-4
+        "
+      >
+        For Sale!
+      </h4>
+      <p class="font-bold">
+        {{ game.sale }}
+      </p>
+    </panel>
+
     <div
       class="
         flex

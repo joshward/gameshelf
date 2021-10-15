@@ -15,7 +15,7 @@
     <div
       aria-checked="false"
       @click="handleClick"
-      :class="value ? 'bg-indigo-600' : 'bg-gray-200'"
+      :class="value ? selectedClass || 'bg-indigo-600' : unselectedClass || 'bg-gray-200'"
       class="
         relative
         inline-block
@@ -63,6 +63,12 @@ export default class Toggle extends Vue {
 
   @Prop({ default: '' })
   label!: string;
+
+  @Prop()
+  unselectedClass?: string;
+
+  @Prop()
+  selectedClass?: string;
 
   handleClick () {
     this.$emit('onChange', !this.value)

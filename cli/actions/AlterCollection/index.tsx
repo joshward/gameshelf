@@ -124,7 +124,8 @@ const AlterCollection: React.VFC<AlterCollectionProps> = (props) => {
             addedDate: gameListData.addedDate === 0 ? undefined : createDateFromTime(gameListData.addedDate),
             tags: gameListData.tags,
             versionId: gameListData.versionId,
-            expansionsIds: gameListData.expansions.map(extension => extension.bggId)
+            expansionsIds: gameListData.expansions.map(extension => extension.bggId),
+            sale: gameListData.sale,
           }
 
           send({ type: 'CUSTOMIZE', formData })
@@ -232,6 +233,8 @@ const AlterCollection: React.VFC<AlterCollectionProps> = (props) => {
               thumbnail: imageInfo.thumbnail,
 
               expansions: expansions,
+
+              sale: formData.sale
             }
 
             await gameList.insertGame(data)

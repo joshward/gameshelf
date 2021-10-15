@@ -3,6 +3,7 @@ import {
   Form,
   FormStructure,
   FormTextInput,
+  FormOptionalTextInput,
   HumanDateInput,
   MultiSelectInput,
 } from '../../components/form'
@@ -18,6 +19,7 @@ export type GameFormData = {
   tags: string[];
   versionId?: number;
   expansionsIds: number[];
+  sale?: string;
 }
 
 interface GameFormProps {
@@ -55,6 +57,12 @@ const GameForm: React.VFC<GameFormProps> = (props) => {
       initialValue: data.tags
     }),
     expansionsIds: GameExpansionsInput({ initialValue: data.expansionsIds, game }),
+    sale: FormOptionalTextInput({
+      label: 'Sale',
+      initialValue: data.sale,
+      emptyText: '-NO-',
+      description: '$Price - condition - notes',
+    }),
   }), [
     game,
     data.name,
@@ -64,6 +72,7 @@ const GameForm: React.VFC<GameFormProps> = (props) => {
     data.addedDate,
     data.tags,
     data.expansionsIds,
+    data.sale,
   ])
 
   return (
