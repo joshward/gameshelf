@@ -165,6 +165,10 @@ export class GameList {
     return this.buildGameProcessingData(bggId)
   }
 
+  public getAllGameIds (): number[] {
+    return [...this.games.keys()]
+  }
+
   private static buildSearchIndex (games: BaseGameData[]): Fuse<BaseGameData> {
 
     const indexOptions: Fuse.FuseOptionKey[] = [

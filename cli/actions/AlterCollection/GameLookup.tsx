@@ -14,7 +14,7 @@ import { asInt, getSet, valueIn as isValueIn, wrap } from '../../lib/core/utils'
 import { BggGameWithVersions } from '../../lib/bgg-api'
 import { matchUrl } from '../../lib/matchers'
 import useBggApi from '../../hooks/useBggApi'
-import { FoundGame } from './types'
+import { FoundGame } from '../../lib/types'
 
 interface GameInfo {
   details?: BggGameWithVersions;

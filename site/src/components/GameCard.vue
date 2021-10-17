@@ -18,14 +18,20 @@
       "
     >
       <ribbon-bar :game="game" />
-      <figure class="self-center">
+      <figure
+        :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
+        class="
+          self-center
+        "
+      >
         <clazy-load :src="require(`../img/games/${game.thumbnail}`)">
           <img
             :src="require(`../img/games/${game.thumbnail}`)"
             :alt="`Image of ${game.name}`"
+            class="h-full w-full"
           >
-          <div
-            class="h-52 w-52 animate-pulse bg-gray-50"
+          <blur-hash
+            :hash="game.blurhash"
             slot="placeholder"
           />
         </clazy-load>
@@ -72,12 +78,14 @@ import { Location } from 'vue-router'
 import { Game } from '@/models/game'
 import RibbonBar from './RibbonBar.vue'
 import Panel from './Panel.vue'
+import BlurHash from './BlurHash.vue'
 
 @Component({
   components: {
     ClazyLoad: VueClazyLoad,
     RibbonBar,
-    Panel
+    Panel,
+    BlurHash
   }
 })
 export default class GameCard extends Vue {

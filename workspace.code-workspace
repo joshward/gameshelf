@@ -20,7 +20,9 @@
 			"site": true
 		},
 		"cSpell.words": [
-			"blurhash"
+			"blurhash",
+			"cassiozen",
+			"usestatemachine"
 		]
 	}
 }

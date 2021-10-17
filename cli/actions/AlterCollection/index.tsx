@@ -5,13 +5,12 @@ import ErrorDisplay from '../../components/ErrorDisplay'
 import Loader from '../../components/Loader'
 import Messages, { Message } from '../../components/Messages'
 import { useGameList } from '../../hooks/useGameList'
-import { createDateFromTime, getSet } from '../../lib/core/utils'
-import { GameListExpansion, GameProcessingData } from '../../lib/game-list'
+import { getSet } from '../../lib/core/utils'
 import AlterActionSelector from './AlterActionSelector'
 import GameLookup from './GameLookup'
 import GamePreview from './GamePreview'
-import { FoundGame } from './types'
-import GameForm, { GameFormData } from './GameForm'
+import { buildFormData, FoundGame, GameFormData, saveGame } from '../../lib/types'
+import GameForm from './GameForm'
 import { chunkBggName } from '../../lib/processor'
 import useImageManager from '../../hooks/useImageManager'
 import { useLogger } from '../../hooks/useLogger'
@@ -116,17 +115,7 @@ const AlterCollection: React.VFC<AlterCollectionProps> = (props) => {
         effect({ context, send }) {
           const game = getSet(context.game)
           const gameListData = gameList.getGame(game.bggId)
-
-          const formData: GameFormData = {
-            name: gameListData.name,
-            subTitle: gameListData.subTitle,
-            editionTitle: gameListData.editionTitle,
-            addedDate: gameListData.addedDate === 0 ? undefined : createDateFromTime(gameListData.addedDate),
-            tags: gameListData.tags,
-            versionId: gameListData.versionId,
-            expansionsIds: gameListData.expansions.map(extension => extension.bggId),
-            sale: gameListData.sale,
-          }
+          const formData = buildFormData(gameListData)
 
           send({ type: 'CUSTOMIZE', formData })
         }
@@ -178,69 +167,16 @@ const AlterCollection: React.VFC<AlterCollectionProps> = (props) => {
         effect({ event, context, send }) {
           const game = getSet(context.game)
           const formData = event.formData
-          const version = game.details.versions.find(version => version.versionId === formData.versionId)
           clearLogs()
 
-          const saveGame = async () => {
-            const expansions: GameListExpansion[] = []
-
-            for (const expansionId of formData.expansionsIds) {
-              const expansion = await bggApi.getExpansion(expansionId)
-
-              if (!expansion) {
-                throw new Error(`Failed to fetch expansion data ${expansionId}`)
-              }
-
-              expansions.push({
-                bggId: expansionId,
-                name: expansion.name,
-                year: expansion.publishedYear
-              })
-            }
-
-            const imageInfo = await imageManager.createImages({
-              bggId: game.bggId,
-              name: formData.name,
-              imageUrl: version?.imageUrl ?? game.details.imageUrl
-            })
-
-            const data: GameProcessingData = {
-              bggId: game.bggId,
-              versionId: version?.versionId,
-
-              name: formData.name,
-              subTitle: formData.subTitle,
-              editionTitle: formData.editionTitle,
-              tags: formData.tags,
-              addedDate: formData.addedDate?.getTime() ?? 0,
-
-              minPlayers: game.details.minPlayers,
-              maxPlayers: game.details.maxPlayers,
-              playingTime: game.details.playTime,
-              year: version?.publishedYear ?? game.details.publishedYear,
-              designers: game.details.designers,
-              publisher: version?.publisher ?? game.details.publisher,
-              categories: game.details.categories,
-              mechanics: game.details.mechanics,
-              rating: game.details.rating,
-              weight: game.details.weight,
-              description: game.details.description,
-
-              blurhash: imageInfo.blurhash,
-              image: imageInfo.image,
-              thumbHeight: imageInfo.thumbHeight,
-              thumbWidth: imageInfo.thumbWidth,
-              thumbnail: imageInfo.thumbnail,
-
-              expansions: expansions,
-
-              sale: formData.sale
-            }
-
-            await gameList.insertGame(data)
-          }
-
-          saveGame()
+          saveGame(
+            game.bggId,
+            game.details,
+            formData,
+            bggApi,
+            imageManager,
+            gameList,
+          )
             .then(() => { send({ type: 'COMPLETE', message: `${formData.name} ${game.inCollection ? 'Updated' : 'Added'}` }) })
             .catch((error: Error) => send({ type: 'ERROR', error }))
         }

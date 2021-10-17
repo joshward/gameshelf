@@ -1,5 +1,5 @@
 {
-  "count": 302,
+  "count": 303,
   "sale": true,
   "games": [
     {
@@ -11,8 +11,8 @@
       "tags": [],
       "slug": "5-minute-dungeon",
       "blurhash": "UHHUIC.FQ-4={zw6tMSt56s+o{xCJVS0RoxG",
-      "thumbHeight": 226,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 226,
       "thumbnail": "5_minute_dungeon.207830.thumbnail.png"
     },
     {
@@ -24,8 +24,8 @@
       "tags": [],
       "slug": "7-wonders",
       "blurhash": "UAF}~I00NVw@~EIoxVRl0h-;#jkq0dW?-Cxt",
-      "thumbHeight": 256,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 256,
       "thumbnail": "7_wonders.68448.thumbnail.png"
     },
     {
@@ -37,8 +37,8 @@
       "tags": [],
       "slug": "7-wonders-duel",
       "blurhash": "UIIzz;xu-N-m?@ogM|NK0p%Jo}R+59M}%1nl",
-      "thumbHeight": 248,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 248,
       "thumbnail": "7_wonders_duel.173346.thumbnail.png"
     },
     {
@@ -50,8 +50,8 @@
       "tags": [],
       "slug": "agricola",
       "blurhash": "UcHA^3xuofWE}mWBn$jZ=dR*sooe=rj[jsjt",
-      "thumbHeight": 188,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 188,
       "thumbnail": "agricola.31260.thumbnail.png"
     },
     {
@@ -63,8 +63,8 @@
       "tags": [],
       "slug": "alchemists",
       "blurhash": "U9D[wc~ps+NF~A-.NeRR01DiD,%28|4;$you",
-      "thumbHeight": 248,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 248,
       "thumbnail": "alchemists.161970.thumbnail.png"
     },
     {
@@ -76,8 +76,8 @@
       "tags": [],
       "slug": "anachrony",
       "blurhash": "U3I=3~^~00-p?wM|0eoe00jc0JM{~Wn%-qRj",
-      "thumbHeight": 175,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 175,
       "thumbnail": "anachrony.278292.thumbnail.png"
     },
     {
@@ -102,8 +102,8 @@
       "tags": [],
       "slug": "antler-island",
       "blurhash": "UdHwsKr=NQW?}=aeIpfixuR.aHocAvWBslof",
-      "thumbHeight": 179,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 179,
       "thumbnail": "antler_island.30483.thumbnail.png"
     },
     {
@@ -117,8 +117,8 @@
       ],
       "slug": "aquasphere",
       "blurhash": "U5Ee*[}kDO,nq@S#-LtRIe9x5FNe$^Nh5GIU",
-      "thumbHeight": 179,
-      "thumbWidth": 250,
+      "thumbHeight": 250,
+      "thumbWidth": 179,
       "thumbnail": "aquasphere.159508.thumbnail.png"
     },
     {
@@ -143,8 +143,8 @@
       "tags": [],
       "slug": "awkward-guests",
       "blurhash": "UAJt#UDh*0M|yEoIjbofw]t6IUWCD%ofxuRj",
-      "thumbHeight": 350,
-      "thumbWidth": 228,
+      "thumbHeight": 228,
+      "thumbWidth": 350,
       "thumbnail": "awkward_guests.188866.thumbnail.png"
     },
     {
@@ -156,8 +156,8 @@
       "tags": [],
       "slug": "axis-and-allies",
       "blurhash": "UBJ@2c0h~m?GMTS#EMsp01Io9cNHRjbIE4kW",
-      "thumbHeight": 350,
-      "thumbWidth": 211,
+      "thumbHeight": 211,
+      "thumbWidth": 350,
       "thumbnail": "axis_allies.98.thumbnail.png"
     }
   ]

@@ -13,14 +13,17 @@ import Loader from './components/Loader'
 import { Config, getConfig } from './lib/config'
 import { GameList } from './lib/game-list'
 import { GameListContext } from './hooks/useGameList'
+import ReloadCollection from './actions/ReloadCollection'
 
 const AlterLabel = 'Alter Collection'
+const ReloadLabel = 'Reload Collection'
 const ExitLabel = 'Exit'
 
-type MenuState = 'ALTER' | 'EXIT'
+type MenuState = 'ALTER' | 'RELOAD' | 'EXIT'
 
 const menuOptions: Item<MenuState>[] = [
-  { label: AlterLabel , value: 'ALTER' },
+  { label: AlterLabel, value: 'ALTER' },
+  { label: ReloadLabel, value: 'RELOAD' },
   { label: ExitLabel, value: 'EXIT' }
 ]
 
@@ -69,6 +72,7 @@ const App: React.VFC = () => {
       showingMenu: {
         on: {
           ALTER: 'altering',
+          RELOAD: 'reloading',
           EXIT: 'exiting'
         },
         effect({ setContext, event }) {
@@ -82,6 +86,12 @@ const App: React.VFC = () => {
             setContext(context => ({ ...context, error: event?.error, actionName: undefined }))
           }
         }
+      },
+
+      reloading: {
+        on: {
+          BACK: 'showingMenu',
+        },
       },
 
       altering: {
@@ -138,6 +148,12 @@ const App: React.VFC = () => {
 
             {state.value === 'altering' &&
               <AlterCollection
+                onDone={() => send('BACK')}
+              />
+            }
+
+            {state.value === 'reloading' &&
+              <ReloadCollection
                 onDone={() => send('BACK')}
               />
             }

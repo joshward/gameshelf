@@ -10,17 +10,7 @@ import {
 import { BggGameWithVersions } from '../../lib/bgg-api'
 import GameExpansionsInput from './GameExpansionsInput'
 import GameVersionInput from './GameVersionInput'
-
-export type GameFormData = {
-  name: string;
-  subTitle: string;
-  editionTitle: string;
-  addedDate?: Date;
-  tags: string[];
-  versionId?: number;
-  expansionsIds: number[];
-  sale?: string;
-}
+import { GameFormData } from '../../lib/types'
 
 interface GameFormProps {
   data: GameFormData;

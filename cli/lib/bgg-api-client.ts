@@ -37,6 +37,11 @@ const createRobustAxiosInstance = (config: Config, logger: Logger): AxiosInstanc
     shouldResetTimeout: options.resetTimeout,
     retries: options.retries,
     retryCondition: (error: AxiosError) => {
+      if (error.code === 'ECONNABORTED') {
+        logger.warn('API request timed out - retrying.')
+        return true
+      }
+
       if (isRateLimitError(error)) {
         logger.warn('API request rate limited - retrying.')
         return true

@@ -87,8 +87,8 @@ export class ImageBuilder {
 
       return {
         fileName: file,
-        height: info.width,
-        width: info.height,
+        height: info.height,
+        width: info.width,
         pixelData: includePixelData ? new Uint8ClampedArray(data) : undefined
       }
     } catch(error) {
@@ -97,6 +97,6 @@ export class ImageBuilder {
   }
 
   private buildBlurHash(data: Uint8ClampedArray, height: number, width: number): string {
-    return blurhash.encode(data, height, width, this.config.blurhashX, this.config.blurhashY)
+    return blurhash.encode(data, width, height, this.config.blurhashX, this.config.blurhashY)
   }
 }
