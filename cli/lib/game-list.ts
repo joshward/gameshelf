@@ -34,6 +34,7 @@ interface BaseGameData {
 
   tags: string[];
   new: boolean;
+  forSale: boolean;
 }
 
 interface GameListData {
@@ -243,6 +244,7 @@ export class GameList {
 
       slug: toSlug(game.name),
       new: false,
+      forSale: game.sale !== undefined && game.sale !== '',
     }
   }
 
@@ -270,6 +272,7 @@ export class GameList {
         thumbHeight: game.thumbHeight,
         thumbWidth: game.thumbWidth,
         thumbnail: game.thumbnail,
+        forSale: game.sale !== undefined && game.sale !== ''
       }))
     }
   }

@@ -18,24 +18,30 @@
       "
     >
       <ribbon-bar :game="game" />
-      <figure
-        :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
-        class="
-          self-center
-        "
+      <clazy-load
+        :src="require(`../img/games/${game.thumbnail}`)"
+        loaded-class="self-center"
+        loading-class="self-center"
+        error-class="self-center"
       >
-        <clazy-load :src="require(`../img/games/${game.thumbnail}`)">
+        <figure
+          :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
+        >
           <img
             :src="require(`../img/games/${game.thumbnail}`)"
             :alt="`Image of ${game.name}`"
             class="h-full w-full"
           >
+        </figure>
+        <figure
+          :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
+          slot="placeholder"
+        >
           <blur-hash
             :hash="game.blurhash"
-            slot="placeholder"
           />
-        </clazy-load>
-      </figure>
+        </figure>
+      </clazy-load>
       <div class="mx-3 py-2 text-center">
         <h3
           class="

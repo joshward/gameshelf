@@ -13,7 +13,8 @@
       "blurhash": "UHHUIC.FQ-4={zw6tMSt56s+o{xCJVS0RoxG",
       "thumbHeight": 250,
       "thumbWidth": 226,
-      "thumbnail": "5_minute_dungeon.207830.thumbnail.png"
+      "thumbnail": "5_minute_dungeon.207830.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 68448,
@@ -26,7 +27,8 @@
       "blurhash": "UAF}~I00NVw@~EIoxVRl0h-;#jkq0dW?-Cxt",
       "thumbHeight": 250,
       "thumbWidth": 256,
-      "thumbnail": "7_wonders.68448.thumbnail.png"
+      "thumbnail": "7_wonders.68448.thumbnail.png",
+      "forSale": true
     },
     {
       "bggId": 173346,
@@ -39,7 +41,8 @@
       "blurhash": "UIIzz;xu-N-m?@ogM|NK0p%Jo}R+59M}%1nl",
       "thumbHeight": 250,
       "thumbWidth": 248,
-      "thumbnail": "7_wonders_duel.173346.thumbnail.png"
+      "thumbnail": "7_wonders_duel.173346.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 31260,
@@ -52,7 +55,8 @@
       "blurhash": "UcHA^3xuofWE}mWBn$jZ=dR*sooe=rj[jsjt",
       "thumbHeight": 250,
       "thumbWidth": 188,
-      "thumbnail": "agricola.31260.thumbnail.png"
+      "thumbnail": "agricola.31260.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 161970,
@@ -65,7 +69,8 @@
       "blurhash": "U9D[wc~ps+NF~A-.NeRR01DiD,%28|4;$you",
       "thumbHeight": 250,
       "thumbWidth": 248,
-      "thumbnail": "alchemists.161970.thumbnail.png"
+      "thumbnail": "alchemists.161970.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 278292,
@@ -78,7 +83,8 @@
       "blurhash": "U3I=3~^~00-p?wM|0eoe00jc0JM{~Wn%-qRj",
       "thumbHeight": 250,
       "thumbWidth": 175,
-      "thumbnail": "anachrony.278292.thumbnail.png"
+      "thumbnail": "anachrony.278292.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 118063,
@@ -91,7 +97,8 @@
       "blurhash": "U6A-O_n49FyD_4t+ITjc=*NH.6i_?^Q.R6S1",
       "thumbHeight": 250,
       "thumbWidth": 250,
-      "thumbnail": "android.118063.thumbnail.png"
+      "thumbnail": "android.118063.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 30483,
@@ -104,7 +111,8 @@
       "blurhash": "UdHwsKr=NQW?}=aeIpfixuR.aHocAvWBslof",
       "thumbHeight": 250,
       "thumbWidth": 179,
-      "thumbnail": "antler_island.30483.thumbnail.png"
+      "thumbnail": "antler_island.30483.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 159508,
@@ -119,7 +127,8 @@
       "blurhash": "U5Ee*[}kDO,nq@S#-LtRIe9x5FNe$^Nh5GIU",
       "thumbHeight": 250,
       "thumbWidth": 179,
-      "thumbnail": "aquasphere.159508.thumbnail.png"
+      "thumbnail": "aquasphere.159508.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 144797,
@@ -132,7 +141,8 @@
       "blurhash": "U7I4Lr0y0J~X00?HbeDi00-A=~S2$%4.x]?a",
       "thumbHeight": 250,
       "thumbWidth": 250,
-      "thumbnail": "argent.144797.thumbnail.png"
+      "thumbnail": "argent.144797.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 188866,
@@ -145,7 +155,8 @@
       "blurhash": "UAJt#UDh*0M|yEoIjbofw]t6IUWCD%ofxuRj",
       "thumbHeight": 228,
       "thumbWidth": 350,
-      "thumbnail": "awkward_guests.188866.thumbnail.png"
+      "thumbnail": "awkward_guests.188866.thumbnail.png",
+      "forSale": false
     },
     {
       "bggId": 98,
@@ -158,7 +169,8 @@
       "blurhash": "UBJ@2c0h~m?GMTS#EMsp01Io9cNHRjbIE4kW",
       "thumbHeight": 211,
       "thumbWidth": 350,
-      "thumbnail": "axis_allies.98.thumbnail.png"
+      "thumbnail": "axis_allies.98.thumbnail.png",
+      "forSale": false
     }
   ]
 }

@@ -62,8 +62,6 @@
         <p class="text-gray-500 text-center">
           Icons made by
           <Link url="https://www.freepik.com">Freepik</Link>
-          and
-          <Link url="https://www.flaticon.com/authors/iconixar">iconixar</Link>
           from
           <Link url="https://www.flaticon.com/">www.flaticon.com</Link>
         </p>
