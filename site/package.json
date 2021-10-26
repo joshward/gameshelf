@@ -49,7 +49,7 @@
     "reflect-metadata": "^0.1.13",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "tailwindcss-pseudo-elements": "^1.5.1",
     "typescript": "~3.9.3",
     "vue-svg-loader": "^0.17.0-beta.2",

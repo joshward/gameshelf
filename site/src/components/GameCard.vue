@@ -21,20 +21,21 @@
       <clazy-load
         :src="require(`../img/games/${game.thumbnail}`)"
         loaded-class="self-center"
-        loading-class="self-center"
+        loading-class="self-center w-full flex flex-col items-center"
         error-class="self-center"
       >
         <figure
-          :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
+          :style="{ height: `${game.thumbHeight}px` }"
         >
           <img
             :src="require(`../img/games/${game.thumbnail}`)"
             :alt="`Image of ${game.name}`"
-            class="h-full w-full"
+            class="max-h-full max-w-full"
           >
         </figure>
         <figure
-          :style="{ height: `${game.thumbHeight}px`, width: `${game.thumbWidth}px` }"
+          :style="{ height: `${game.thumbHeight}px`, width: `min(100%, ${game.thumbWidth}px)` }"
+          class=""
           slot="placeholder"
         >
           <blur-hash
