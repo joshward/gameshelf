@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "games": "eslint --fix . && ts-node ./index.tsx",
+    "games": "ts-node ./index.tsx",
+    "dev": "eslint --fix . && ts-node ./index.tsx",
     "test": "jest"
   },
   "dependencies": {
@@ -21,8 +22,8 @@
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
     "date-fns": "^2.24.0",
-    "fs-extra": "^10.0.0",
     "fast-glob": "^3.2.7",
+    "fs-extra": "^10.0.0",
     "fuse.js": "^6.4.6",
     "he": "^1.2.0",
     "ink": "^3.0.9",
@@ -35,8 +36,8 @@
     "parse-human-relative-time": "^2.0.2",
     "react": "^16.0.0",
     "reflect-metadata": "^0.1.13",
-    "sharp": "^0.29.1",
     "safe-paths": "^0.1.5",
+    "sharp": "^0.29.1",
     "slugify": "^1.6.0",
     "stacktracey": "^2.1.7",
     "toml": "^3.0.0",
