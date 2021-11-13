@@ -11613,7 +11613,7 @@
     "thumbWidth": 250,
     "blurhash": "UNEfK4t74pRQ_MozIWR+%$WrNyof%gkDR-t6",
     "slug": "merchants-cove",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12578,6 +12578,63 @@
     "forSale": false
   },
   {
+    "bggId": 302413,
+    "categories": [
+      "Fighting",
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "description": "Steamwatchers unfolds in a frozen Europe, broken by an ice age that followed a brutal water level increase. In those hostile conditions, nomadic clans struggle to survive with the regular and puzzling outbreak of steam columns everywhere on the continent. These columns are a testament to intense subterranean heat sources. They free earth from the grasp of ice and allow mankind to grow food once again. These oases of heat are vital for survival...and, unfortunately, only transient. To make things worse, a strange sickness spreads around them: The Bane. It affects both mind and body, and to this day, no cure has been found. Handling it is necessary to the survival of the clans.&#10;&#10;Steamwatchers is a 2 to 5 player game in which you play as the leader of a nomadic clan. You will struggle over the geothermal resources of Europa in scenarios that last from 3 to 6 rounds. At the end of the last round of the chosen scenario, the winning clan is the one with the most geothermal resources (steam columns and farms), but a clan can claim victory before the end of the scenario by acquiring 10 geothermal resources.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Marc Lagroy"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Order Counters",
+      "Scenario / Mission / Campaign Game",
+      "Simultaneous Action Selection",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "minPlayers": 2,
+    "name": "Steamwatchers",
+    "playingTime": 120,
+    "publisher": "Mythic Games",
+    "rating": 8.06798,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.375,
+    "year": "2021",
+    "expansions": [
+      {
+        "bggId": 312255,
+        "name": "Steamwatchers: Fuel For War",
+        "year": "2021"
+      },
+      {
+        "bggId": 312254,
+        "name": "Steamwatchers: Peace With Wolves",
+        "year": "2021"
+      },
+      {
+        "bggId": 312256,
+        "name": "Steamwatchers: Spark of Hope",
+        "year": "2021"
+      }
+    ],
+    "image": "steamwatchers.302413.full.png",
+    "thumbnail": "steamwatchers.302413.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UsLXY:t8RkxtWCRjxvoe~qaxRij[t8j[aejt",
+    "sale": "",
+    "slug": "steamwatchers",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 306881,
     "categories": [
       "Dice",
@@ -12629,7 +12686,7 @@
     "thumbWidth": 254,
     "blurhash": "UWNU9CNFIUxv~q%2kBWYV@NGf8WBjcj[axe.",
     "slug": "railroad-ink-challenge",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {

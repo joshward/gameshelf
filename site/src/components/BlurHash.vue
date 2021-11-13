@@ -1,7 +1,7 @@
 <template>
   <canvas
     ref="canvas"
-    class="block h-full w-full bg-gray-100 animate-pulse"
+    class="block h-full w-full bg-gray-100 animate-pulse rounded"
     width="32"
     height="32"
   />

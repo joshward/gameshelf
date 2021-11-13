@@ -30,7 +30,7 @@
           <img
             :src="require(`../img/games/${game.thumbnail}`)"
             :alt="`Image of ${game.name}`"
-            class="max-h-full max-w-full"
+            class="max-h-full max-w-full rounded"
           >
         </figure>
         <figure
