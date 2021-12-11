@@ -7968,6 +7968,48 @@
     "forSale": false
   },
   {
+    "bggId": 196340,
+    "categories": [
+      "Economic"
+    ],
+    "description": "Once Yokohama was just a fishing village, but now at the beginning of the Meiji era it's becoming a harbor open to foreign countries and one of the leading trade cities of Japan. As a result, many Japanese products such as copper and raw silk are collected in Yokohama for export to other countries. At the same time, the city is starting to incorporate foreign technology and culture, with even the streets becoming more modernized. In the shadow of this development was the presence of many Yokohama merchants.&#10;&#10;In YOKOHAMA, each player is a merchant in the Meiji period, trying to gain fame from a successful business, and to do so they need to build a store, broaden their sales channels, learn a variety of techniques, and (of course) respond to trade orders from abroad.&#10;&#10;",
+    "designers": [
+      "Hisashi Hayashi"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Grid Movement",
+      "Modular Board",
+      "Network and Route Building",
+      "Set Collection",
+      "Variable Set-up",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "minPlayers": 2,
+    "name": "Yokohama",
+    "playingTime": 90,
+    "publisher": "Tasty Minstrel Games",
+    "rating": 7.84575,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.2792,
+    "year": "2021",
+    "expansions": [],
+    "image": "yokohama.196340.full.png",
+    "thumbnail": "yokohama.196340.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 179,
+    "blurhash": "UHLNrdj0_OkW$+S#rqW;?_jGZ%njn4sk#+sl",
+    "sale": "",
+    "slug": "yokohama",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 197178,
     "categories": [
       "Abstract Strategy",
@@ -11948,7 +11990,7 @@
     "thumbWidth": 189,
     "blurhash": "UMNv*jV[_LtR8_-:t7IU?r?b8|V@%Kxui{W=",
     "slug": "mind-mgmt",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12767,6 +12809,43 @@
     "blurhash": "UUM?S8s8MyxZ_MslIoRkp0Nb-Tj?-nbbWCt6",
     "slug": "pendulum",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 314421,
+    "categories": [
+      "Action / Dexterity",
+      "Children's Game"
+    ],
+    "description": "The Fuzzies is a game about creating gravity-defying towers out of fuzzy little balls.&#10;&#10;Draw a card a remove that color of fuzzy using either tweezers or your fingers but you can not get out of your seat. Stick it anywhere higher on the tower.&#10;&#10;If you are successful then the next player goes but if any balls drop, you must draw cards equal to the number of balls dropped and do the challenge on your next turn (e.g. remove a Fuzzy while covering your eye)&#10;&#10;The game ends when someone oafishly knocks over the tower. That player is the loser, everyone else wins!&#10;&#10;Components:&#10;95x Fuzzies&#10;30x circular cards&#10;1x circular rulebook &#10;1x plastic container with dual purpose lid/platform  &#10;1x tweezers&#10;&#10;-description from designer&#10;&#10;",
+    "designers": [
+      "Alex Hague",
+      "Justin Vickers",
+      "Wolfgang Warsch"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Physical Removal"
+    ],
+    "minPlayers": 2,
+    "name": "The Fuzzies",
+    "playingTime": 15,
+    "publisher": "CMYK",
+    "rating": 6.79753,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2021",
+    "expansions": [],
+    "image": "fuzzies.314421.full.png",
+    "thumbnail": "fuzzies.314421.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 144,
+    "blurhash": "U7F;_]H^0|AdIoeVwG}9D%nh^GTd0}pB0io?",
+    "sale": "",
+    "slug": "the-fuzzies",
+    "new": true,
     "forSale": false
   },
   {

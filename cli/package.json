@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@cassiozen/usestatemachine": "^1.0.0-beta.2",
+    "@cassiozen/usestatemachine": "1.0.0-beta.2",
     "@types/fs-extra": "^9.0.12",
     "@types/he": "^1.1.2",
     "@types/ink-gradient": "^2.0.1",
