@@ -1075,6 +1075,10 @@
     "versionId": 407235
   },
   {
+    "bggId": 253743,
+    "addedDate": 1639641600000
+  },
+  {
     "bggId": 255984,
     "addedDate": 1615276800000
   },
@@ -1143,6 +1147,11 @@
   {
     "bggId": 267009,
     "addedDate": 0
+  },
+  {
+    "bggId": 267244,
+    "addedDate": 1640246400000,
+    "versionId": 435402
   },
   {
     "bggId": 267414,
@@ -1219,6 +1228,11 @@
     "bggId": 295486,
     "addedDate": 1632034800000,
     "versionId": 483528
+  },
+  {
+    "bggId": 295785,
+    "addedDate": 1639382400000,
+    "versionId": 484092
   },
   {
     "bggId": 297895,

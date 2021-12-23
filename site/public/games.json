@@ -2449,7 +2449,7 @@
     "thumbWidth": 178,
     "blurhash": "UBDTwr=Wtln4P;aeNHt7S~PCI^M{D4GHo}x[",
     "slug": "chicago-express",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -10727,6 +10727,50 @@
     "forSale": false
   },
   {
+    "bggId": 253743,
+    "categories": [
+      "Adventure",
+      "Dice",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "description": "Japan H&#197;&#141;sei 4 (1707).&#10;&#10;Mount Fuji is on the verge of erupting. Red hot lava will soon consume the three secret Seien-ji (&#232;&#129;&#150;&#231;&#133;&#153;&#229;&#175;&#186;), sacred temples hidden deep in the bowels of the volcano. The Sh&#197;&#141;gun is determined to preserve the precious heritage and sends his most noble and gifted samurai  warriors on a quest inside the volcano to retrieve the valuable goods.&#10;&#10;After a grueling climb through snowstorms and treacherous rocky terrain the samurai find the entrance that leads down into the cavern.&#10;&#10;The volcano rumbles and the walls start shaking! The floor underneath their feet crumbles and our brave samurai fall into the huge cavern that contains the three temples, which are slowly sinking into the smoldering lava.&#10;&#10;It is now up to our heroes to explore the cavern and find as many of the relics, sacred scrolls, and monks as possible, to bring back safely to the Shogun before the volcano erupts and all is lost forever.&#10;&#10;Fuji Koro can be played in a competitive mode with 2 to 6 players or a cooperative mode with 1 to 6 players.&#10;&#10;Players will try and gather sacred scrolls and blueprints for magical weapons, gather resources, craft the best possible gear, and try to get out of the volcano before it fully erupts. To make matter worse, players will encounter fantastical dragons on their journey throughout the volcano, that they will have to try and defeat by themselves or with the help of other players.&#10;&#10;The game continues until the end phase of the game, which is triggered by one player reaching 30 victory points. Once that happens, players will have 8 final turns to escape the volcano.&#10;&#10;To win the game, a player will have to score the most victory points by defeating dragons, exploring the cave, crafting the right weapons and bringing magical gear, dragon teeth and monks to the Sh&#197;&#141;gun during the end phase of the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Jerome Demeyere"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Modular Board",
+      "Push Your Luck",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Fuji Koro",
+    "playingTime": 120,
+    "publisher": "Game Brewer",
+    "rating": 7.01108,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3,
+    "year": "2019",
+    "expansions": [],
+    "image": "fuji_koro.253743.full.png",
+    "thumbnail": "fuji_koro.253743.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UDHK5_I]9uS#*0W=W9xacY$yI:j]^IW.aeNd",
+    "sale": "",
+    "slug": "fuji-koro",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 255984,
     "categories": [
       "Adventure",
@@ -11458,6 +11502,47 @@
     "blurhash": "UCJ7%X%1T0R*kXIox^s;}RkqS#s8#QnkMxaK",
     "slug": "rome-and-roll",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 267244,
+    "categories": [
+      "Miniatures",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "description": "Procyon is a star 11 light-years from Earth, visible in our skies as the brightest star in the Canis Minor constellation. Since the system contains the remains of a collapsed star it was bound to be rich in heavy elements, ripe for industrialization. It was thus no surprise, that in 2104 this was one of the first extrasolar systems to be colonized. The surprise came 3 years later, when an ancient artefact belonging to a clearly alien civilization was discovered under the settlement. The observatories picked up the unmistakable tachyon radiation of a fleet slowing down from faster-than-light approaching the system - preparing for the worst case scenario, the UN dispatched its entire Armada to relieve the minimal defenses the settlement holds, while their scientists worked hard to decipher the alien communications, and understand their newfound enemy whose name was revealed to be the Aethyn.&#10;&#10;Defence of Procyon III is a highly asymmetric game of four players in two teams: one player takes charge of the Alien space navy, one the Alien ground force, while the other team of the Human space navy admiral and the ground forces' commander stands in their way. The space board uses a hex board, while the ground board is a point-to-point network of locations. The game is played over 12 turns, using card driven, low luck mechanisms that quickly unfold into a fast paced game of combat strategy - presented with countless high quality miniatures in a rich, thematic world. The two commanders of a side will have to work together closely to make sure there are no weaknesses for the enemy to exploit, yet their different mechanisms and different theaters will ensure each player is comfortably occupied with their own responsibilities - avoiding the alpha player issue common in team games.&#10;&#10;The game also comes with an automated opponent that takes charge of one of the side. One or two players can play cooperatively against the opponent.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Dávid Turczi"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Grid Movement",
+      "Hand Management",
+      "Point to Point Movement",
+      "Simulation",
+      "Team-Based Game",
+      "Variable Player Powers"
+    ],
+    "minPlayers": 1,
+    "name": "The Defence of Procyon III",
+    "playingTime": 120,
+    "publisher": "PSC Games",
+    "rating": 8.21739,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.6667,
+    "year": "2021",
+    "expansions": [],
+    "image": "defence_of_procyon_iii.267244.full.png",
+    "thumbnail": "defence_of_procyon_iii.267244.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 350,
+    "blurhash": "U6E.kROq$MRP.TIV9GNI0pIW%g%f8^={%M%L",
+    "sale": "",
+    "slug": "the-defence-of-procyon-iii",
+    "new": true,
     "forSale": false
   },
   {
@@ -12262,6 +12347,56 @@
     "forSale": false
   },
   {
+    "bggId": 295785,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "description": "You will face the threat of three mighty dragons born from the darkness of magic Faer, and in doing so, will have to deal with monsters and dangerous creatures plaguing the land. Search for legendary artifacts. Experience nature&rsquo;s raw elemental power as it influences your steps. Fulfill quests to help the struggling people of Euthia.&#10;&#10;There are plenty of strategic options on your side. Choose from a wide range of armor, weapons, spells, and magical jewelry. An open playstyle allows for every hero to play the way they choose. A branching chain of skills allows for hero customization &ndash; for example, playing as the warrior Dral, you could be a master in various weapons, a furious fighter, a prospector, a traveler, or a bit of all of them.&#10;&#10;Euthia: Torment of Resurrection is a competitive strategic board game where you take the role of one of five heroes. Your hero wanders through an open-world of fantasy landscape represented by the modular tile-based map. On each turn, players use action tokens which can be spent on either combat, trade, mining, or used for movement.&#10;&#10;At the beginning of every game, you will choose one of three scenarios to play. Each scenario represents an attempt to kill or repel one of the mighty dragons. Successfully repelling or killing the dragon will provide the hero with reputation, as does most of the actions the player performs throughout the game. The hero with the highest reputation at the end of the game is the winner.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Markéta Bláhová",
+      "Tadeáš Spousta"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Movement Points",
+      "Role Playing",
+      "Solo / Solitaire Game",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Euthia",
+    "playingTime": 480,
+    "publisher": "DIEA Games",
+    "rating": 8.99117,
+    "subTitle": "Torment of Resurrection",
+    "tags": [],
+    "weight": 3.5278,
+    "year": "2021",
+    "expansions": [],
+    "image": "euthia.295785.full.png",
+    "thumbnail": "euthia.295785.thumbnail.png",
+    "thumbHeight": 245,
+    "thumbWidth": 350,
+    "blurhash": "U5B3TrTK00=|5[i_VqOF00i^^iWY}jf*E4s;",
+    "sale": "",
+    "slug": "euthia",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 297895,
     "categories": [
       "Dice"
@@ -13002,7 +13137,7 @@
     "thumbWidth": 250,
     "blurhash": "UuEqz2kYbEW9yGtRaeadNGj]jJe.ahV@S2WX",
     "slug": "roll-in-one",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13041,7 +13176,7 @@
     "thumbWidth": 250,
     "blurhash": "UEQGp##Qy@$jIfR;VET0U_xtC,VE8xRkxttk",
     "slug": "kokopelli",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
