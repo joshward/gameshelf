@@ -1,5 +1,5 @@
 {
-  "count": 310,
+  "count": 311,
   "sale": true,
   "games": [
     {
@@ -131,6 +131,20 @@
       "forSale": false
     },
     {
+      "bggId": 140934,
+      "name": "Arboretum",
+      "subTitle": "",
+      "editionTitle": "",
+      "new": true,
+      "tags": [],
+      "slug": "arboretum",
+      "blurhash": "UgLXuyt7~psmNKWUt8Wr_2WCRQkBW8t6aKni",
+      "thumbHeight": 250,
+      "thumbWidth": 179,
+      "thumbnail": "arboretum.140934.thumbnail.png",
+      "forSale": false
+    },
+    {
       "bggId": 144797,
       "name": "Argent",
       "subTitle": "The Consortium",
@@ -156,20 +170,6 @@
       "thumbHeight": 228,
       "thumbWidth": 350,
       "thumbnail": "awkward_guests.188866.thumbnail.png",
-      "forSale": false
-    },
-    {
-      "bggId": 98,
-      "name": "Axis & Allies",
-      "subTitle": "",
-      "editionTitle": "",
-      "new": false,
-      "tags": [],
-      "slug": "axis-and-allies",
-      "blurhash": "UBJ@2c0h~m?GMTS#EMsp01Io9cNHRjbIE4kW",
-      "thumbHeight": 211,
-      "thumbWidth": 350,
-      "thumbnail": "axis_allies.98.thumbnail.png",
       "forSale": false
     }
   ]
