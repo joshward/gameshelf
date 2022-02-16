@@ -1511,6 +1511,44 @@
     "forSale": false
   },
   {
+    "bggId": 12942,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "No Thanks! is a card game designed to be as simple as it is engaging.&#10;&#10;The rules are simple.  Each turn, players have two options:&#10;&#10;    play one of their chips to avoid picking up the current face-up card&#10;    pick up the face-up card (along with any chips that have already been played on that card) and turn over the next card&#10;&#10;&#10;However, the choices aren't so easy as players compete to have the lowest score at the end of the game.  The deck of cards is numbered from 3 to 35, with each card counting for a number of points equal to its face value.  Runs of two or more cards only count as the lowest value in the run - but nine cards are removed from the deck before starting, so be careful looking for connectors.  Each chip is worth -1 point, but they can be even more valuable by allowing you to avoid drawing that unwanted card.&#10;&#10;The first versions of the game supported up to five players, but a 2011 edition supports up to seven.&#10;&#10;This game was originally published in Germany by Amigo as Geschenkt ...ist noch zu teuer!, meaning Even given as a gift, it is still too expensive!.  Amigo's international edition, titled No Merci! (a delightful multi-lingual pun), had rules in several languages, including English.  The game has subsequently been released in other countries under an assortment of names.&#10;&#10;",
+    "designers": [
+      "Thorsten Gimmler"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 7,
+    "mechanics": [
+      "Auction/Bidding",
+      "Closed Economy Auction",
+      "Increase Value of Unchosen Resources",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "minPlayers": 3,
+    "name": "No Thanks!",
+    "playingTime": 20,
+    "publisher": "AMIGO",
+    "rating": 7.05869,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.1363,
+    "year": "2004",
+    "expansions": [],
+    "image": "no_thanks_.12942.full.png",
+    "thumbnail": "no_thanks_.12942.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 187,
+    "blurhash": "UJIqvR?G03NHmTRP5;X94qM}x[oy_Lx@rrs9",
+    "sale": "",
+    "slug": "no-thanks",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 15062,
     "categories": [
       "Adventure",
@@ -4812,7 +4850,7 @@
     "blurhash": "URE.|U--9GE2~WtlD*Mx$wtlNHRPNGoIbIkC",
     "sale": "",
     "slug": "maquis",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -7392,6 +7430,45 @@
     "blurhash": "UBF#p.~90eWA0$EhD*jb9tD+aQM}-h?F%Lt3",
     "slug": "thiefs-market",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 183284,
+    "categories": [
+      "Puzzle",
+      "Real-time"
+    ],
+    "description": "In Factory Funner, players are factory managers who select and install machines in their factory. They try connect all machine input and output pipes to the right reservoirs or to other machines in order to build the most profitable configuration. A new machine brings revenue. Other things you build (reservoirs and connectors (pipelines)) cost 1K money each.&#10;&#10;In each game round, players may select one machine (from a number of machines equal to the number of players) simultaneously, which means players try to quickly determine possible connections, then grab the tile they want. But by choosing too quickly, you risk taking a machine that doesn't fit well... When fitting in a machine, a key tactic is to keep the most and best options for connecting future machines!&#10;&#10;After eight rounds, the player with the most money wins.&#10;&#10;The second edition of this game &mdash; Factory Funner&amp;Bigger &mdash; features the same gameplay as the original release, but with a deeper box, more connectors, and slightly different colors for better usability, and without the &quot;jump&quot; machine as it had a high luck factor and created rules difficulty during play.&#10;&#10;",
+    "designers": [
+      "Corné van Moorsel"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Hexagon Grid",
+      "Network and Route Building",
+      "Real-Time",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Factory Funner",
+    "playingTime": 40,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.27193,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.2105,
+    "year": "2022",
+    "expansions": [],
+    "image": "factory_funner.183284.full.png",
+    "thumbnail": "factory_funner.183284.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "U6I5MRB.+*wG0c@tJB%M##^jEMM{0XL4MxZ}",
+    "sale": "",
+    "slug": "factory-funner",
+    "new": true,
     "forSale": false
   },
   {
@@ -10570,7 +10647,7 @@
     "thumbWidth": 250,
     "blurhash": "U59~mP-V0f#,2Wn%v$K30f5lpHwf9u$%}sSO",
     "slug": "the-kings-dilemma",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12846,7 +12923,7 @@
     "blurhash": "UsLXY:t8RkxtWCRjxvoe~qaxRij[t8j[aejt",
     "sale": "",
     "slug": "steamwatchers",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12941,7 +13018,7 @@
     "blurhash": "UCNmsP9g_NNGESVpNfWC00I[8^e-4.axxZt7",
     "sale": "",
     "slug": "poetry-for-neanderthals",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13293,6 +13370,77 @@
     "blurhash": "UNI:|E-7M$}lTwjcRP$edqR-t6R,Tds,V@s.",
     "slug": "red-rising",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 333981,
+    "categories": [
+      "Economic"
+    ],
+    "description": "In Bear Raid you&rsquo;ll put on your power suit, pajamas, or prison jumper, and start buying, selling, and shorting stocks. Like every successful trader, your goal is to try and make the most money you can.&#10;&#10;Players will buy, sell, and short stocks in the stock market during the action phase of the game. Forecast cards with clever news headlines will be used to determine how each stock is affected.&#10;&#10;Through the use of dice that you can manipulate and clever play, you'll influence the market, hopefully bending the stock prices to your advantage.&#10;&#10;The winner is the one who's made the most money!&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Ryan Courtney"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Commodity Speculation",
+      "Dice Rolling",
+      "Stock Holding"
+    ],
+    "minPlayers": 3,
+    "name": "Bear Raid",
+    "playingTime": 60,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.64263,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.5714,
+    "year": "2022",
+    "expansions": [],
+    "image": "bear_raid.333981.full.png",
+    "thumbnail": "bear_raid.333981.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UDL.q@MhEk%vPbR.0is+04-,0gD-1hxU}?I]",
+    "sale": "",
+    "slug": "bear-raid",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 333987,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "As winter blows in and ghosts start to appear, play &quot;tricks&quot; to the past, present, and future.&#10;&#10;As turns progress, your foes will play - out of order - to any of these time periods, and you will start to figure out who might &quot;lead&quot; each trick. Even though you can play to the tricks in any order, the tricks will resolve based on who was leading. Can you figure out who will be leading or manipulate the leader to set yourself up to win tricks?&#10;&#10;Points are awarded to whomever has correctly bid on the number of tricks they thought they'd win. If you&rsquo;ve played as many hands as there are players, the game is now over, otherwise keep playing! Whoever has the highest score and collected the most wreaths wins the game!&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Taiki Shinzawa (新澤 大樹)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Predictive Bid",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Ghosts of Christmas",
+    "playingTime": 0,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.11,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2022",
+    "expansions": [],
+    "image": "ghosts_of_christmas.333987.full.png",
+    "thumbnail": "ghosts_of_christmas.333987.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U7D0$UaZECuP05a$EBt*03M+%DjDN1kpx;V_",
+    "sale": "",
+    "slug": "ghosts-of-christmas",
+    "new": true,
     "forSale": false
   }
 ]
