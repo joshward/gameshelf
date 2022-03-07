@@ -18,7 +18,7 @@ Vue.use(vueDebounce, {
 
 Vue.use(VuePlausible, {
   domain: 'games.joshward.dev',
-  enableAutoOutboundTracking: true
+  enableAutoPageviews: true
 })
 
 Vue.use(VTooltip)
