@@ -13442,5 +13442,45 @@
     "slug": "ghosts-of-christmas",
     "new": true,
     "forSale": false
+  },
+  {
+    "bggId": 356033,
+    "categories": [
+      "Fantasy",
+      "Pirates"
+    ],
+    "description": "In the world of Galecrest, sky pirates set sail on the winds in search of adventure, treasure, and glory. As an admiral, you command a vast and varied crew...but so do your rivals sailing other ships in the pirate fleet. Each day the fleet lands on a different island where you'll send a crew member to collect your share of the loot, hoping they'll return to boost your growing group of characters.&#10;&#10;Libertalia was originally released in 2012. Ten years later, Libertalia: Winds of Galecrest celebrates the foundations of the original design with a revised and expanded edition that includes all-new art, 40 characters per player, a reputation system to resolve tiebreakers, deluxe loot tokens, a robust solo mode, and much more.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Paolo Mori"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Action Queue",
+      "Hand Management",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Turn Order: Role Order",
+      "Variable Phase Order"
+    ],
+    "minPlayers": 1,
+    "name": "Libertalia",
+    "playingTime": 60,
+    "publisher": "Stonemaier Games",
+    "rating": 7.20984,
+    "subTitle": "Winds of Galecrest",
+    "tags": [],
+    "weight": 2.1154,
+    "year": "2022",
+    "expansions": [],
+    "image": "libertalia.356033.full.png",
+    "thumbnail": "libertalia.356033.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "URF@b#s,S~t8?dkXVYsk9HaKs+kC5Sx]tRNH",
+    "sale": "",
+    "slug": "libertalia",
+    "new": true,
+    "forSale": false
   }
 ]
