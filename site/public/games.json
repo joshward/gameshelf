@@ -8121,7 +8121,7 @@
     "blurhash": "UHLNrdj0_OkW$+S#rqW;?_jGZ%njn4sk#+sl",
     "sale": "",
     "slug": "yokohama",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12422,6 +12422,46 @@
     "forSale": false
   },
   {
+    "bggId": 295374,
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "description": "This is your ticket to the track!&#10;&#10;In Long Shot: The Dice Game, you and up to seven other players will strategize and push your luck as the action unfolds in a tense race of eight horses. During the game you buy horses, place bets, influence race movement, and utilize special abilities. The roll of the dice determines which horses move and the options available each turn, so be ready to adapt your plans. Once three horses cross the finish line, earnings are totaled. While there are many ways to earn money during a horse race, only the player that makes the most money will be declared the winner. Will you play it safe, or risk it big on a long shot?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Betting and Bluffing",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Paper-and-Pencil",
+      "Race",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Long Shot",
+    "playingTime": 30,
+    "publisher": "Perplext",
+    "rating": 8.07399,
+    "subTitle": "The Dice Game",
+    "tags": [],
+    "weight": 1.8,
+    "year": "2022",
+    "expansions": [],
+    "image": "long_shot.295374.full.png",
+    "thumbnail": "long_shot.295374.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 147,
+    "blurhash": "UqIh$:nOx[of.mWVW=ayt7X9WBfRnOogodj[",
+    "sale": "",
+    "slug": "long-shot",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 295486,
     "categories": [
       "City Building"
@@ -13095,7 +13135,7 @@
     "blurhash": "U7F;_]H^0|AdIoeVwG}9D%nh^GTd0}pB0io?",
     "sale": "",
     "slug": "the-fuzzies",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
