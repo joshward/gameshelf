@@ -6935,6 +6935,48 @@
     "forSale": false
   },
   {
+    "bggId": 175324,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction"
+    ],
+    "description": "Fog of Love is a game for two players. You will create and play two vivid characters who meet, fall in love and face the challenge of making an unusual relationship work.&#10;&#10;Playing Fog of Love is like being in a romantic comedy: roller-coaster rides, awkward situations, lots of laughs and plenty of difficult compromises to make.&#10;&#10;Much as in a real relationship, goals might be at odds. You can try to change, keep being relentless or even secretly decide to be a Heartbreaker. It&rsquo;s your choice.&#10;&#10;The happily ever after won&rsquo;t be certain, but whatever way your zigzag romance unfolds, you&rsquo;ll always end up with a story full of surprises &ndash; guaranteed to raise a smile!&#10;&#10;",
+    "designers": [
+      "Jacob Jaskov"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Communication Limits",
+      "Hand Management",
+      "Role Playing",
+      "Semi-Cooperative Game",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Storytelling"
+    ],
+    "minPlayers": 2,
+    "name": "Fog of Love",
+    "playingTime": 120,
+    "publisher": "Hush Hush Projects",
+    "rating": 6.81468,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.25,
+    "year": "2017",
+    "expansions": [],
+    "image": "fog_of_love.175324.full.png",
+    "thumbnail": "fog_of_love.175324.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UFQT1HxG_MOraKo0tRSN-;WWD%w_%gWVMxxF",
+    "sale": "",
+    "slug": "fog-of-love",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 177352,
     "categories": [
       "American West",
@@ -12548,7 +12590,7 @@
     "blurhash": "U5B3TrTK00=|5[i_VqOF00i^^iWY}jf*E4s;",
     "sale": "",
     "slug": "euthia",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
