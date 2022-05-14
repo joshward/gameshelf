@@ -10924,6 +10924,53 @@
     "blurhash": "UDHK5_I]9uS#*0W=W9xacY$yI:j]^IW.aeNd",
     "sale": "",
     "slug": "fuji-koro",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 253759,
+    "categories": [
+      "Deduction",
+      "Fantasy",
+      "Novel-based",
+      "Puzzle"
+    ],
+    "description": "Paint the Roses is a 2-5 player cooperative logic deduction game that automatically adapts to your skill during play.&#10;&#10;Set in the puzzling world of Alice in Wonderland, you and your friends are the newly appointed Royal Gardeners. You are working together to finish the palace grounds according to the whims of the Queen of Hearts. Use strategy, logic, and teamwork to finish the garden whilst staying one step ahead of the Queen, otherwise, the last thing you hear will be, &quot;Off With Their Heads!&quot;.&#10;&#10;The Queen's whims are shared via cards, secret instructions each player is given into how the garden should be arranged. Her whims are always changing, so as soon as you solve one, a new one is in your hand.&#10;&#10;Every turn, together as a team you must guess at least one of these secret whim cards. You can't say what your card shows, but by carefully placing a new shrub tile into the garden (taken from those available in the Greenhouse) you are able to reveal clues, tokens that will show any matches between the arrangement in the garden and the secret whims each player holds in their hands.&#10;&#10;Although you can't discuss your own secret whim card, you can openly discuss other players'. Share your theories at the table and then make a guess. Correctly guessing a whim will move you forward on the score track, but the Queen is always following and her speed automatically adjusts based on your current score. Guess incorrectly and the Queen moves twice as fast, her axe ever closer to your neck.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Ben Goldman"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Hexagon Grid",
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Paint the Roses",
+    "playingTime": 70,
+    "publisher": "North Star Games",
+    "rating": 7.69916,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.3333,
+    "year": "2022",
+    "expansions": [
+      {
+        "bggId": 361994,
+        "name": "Paint the Roses: The Caterpillar Module",
+        "year": "2022"
+      }
+    ],
+    "image": "paint_the_roses.253759.full.png",
+    "thumbnail": "paint_the_roses.253759.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 181,
+    "blurhash": "UlPGvsod~qWWNFayxakC^ma#IUkB%NfRM|bF",
+    "sale": "",
+    "slug": "paint-the-roses",
     "new": true,
     "forSale": false
   },
