@@ -11746,7 +11746,7 @@
     "blurhash": "U6E.kROq$MRP.TIV9GNI0pIW%g%f8^={%M%L",
     "sale": "",
     "slug": "the-defence-of-procyon-iii",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13053,6 +13053,46 @@
     "sale": "",
     "slug": "steamwatchers",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 302876,
+    "categories": [
+      "Humor",
+      "Party Game"
+    ],
+    "description": "Sound Box is a cooperative party game for 4 to 7 players where you listen to your friends performing weird sounds as they try to make you guess all sorts of concepts!&#10;&#10;At the beginning of each round you place Sound cards on the board and draw a numbered token from a bag to discover which one is assigned to you. Take your time to come up with the perfect sound to represent your card: you will have to imitate that sound to suggest your concept to the Guesser. If you are the Guesser, instead, your job will be to listen to the sounds performed by the Soundmakers.&#10;&#10;At the start of the timer, all Soundmakers start to perform their sounds&hellip; simultaneously! Get ready for 13 seconds of hilarious acoustic extravaganza! Have you ever heard the sound of a giant monster attack fighting a guitar hero on a stormy night during a tennis match? Well, something like this may definitely happen to you!&#10;&#10;When the timer runs out, the Guesser tries to find as many Sound cards as possible, one at a time! There are more cards on the board than sounds made by the Soundmakers, will you be able to find them all? Each correct guess gets you 1 point, but if you make a mistake, the round ends immediately.&#10;&#10;A different player will be the Guesser each round. If over subsequent rounds you gain enough points to reach the end of the Soundtrack, all players win. But beware, each Sound card that is left unguessed at the end of each round will make you lose life depending on the numbered token it is associated to, and if your Heart marker reaches the bottom of its track, all players lose!&#10;&#10;",
+    "designers": [
+      "Hjalmar Hach",
+      "Lorenzo Silva"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 7,
+    "mechanics": [
+      "Acting",
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Real-Time"
+    ],
+    "minPlayers": 4,
+    "name": "Sound Box",
+    "playingTime": 45,
+    "publisher": "Horrible Guild",
+    "rating": 6.92,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "sound_box.302876.full.png",
+    "thumbnail": "sound_box.302876.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 171,
+    "blurhash": "UNP?zLT1~BD*,n.7waNK_2OFIU%L-pj]IoNH",
+    "sale": "",
+    "slug": "sound-box",
+    "new": true,
     "forSale": false
   },
   {
