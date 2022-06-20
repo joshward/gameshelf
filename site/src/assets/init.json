@@ -1,5 +1,5 @@
 {
-  "count": 311,
+  "count": 314,
   "sale": true,
   "games": [
     {
@@ -121,7 +121,7 @@
       "name": "Arboretum",
       "subTitle": "",
       "editionTitle": "",
-      "new": true,
+      "new": false,
       "tags": [],
       "slug": "arboretum",
       "blurhash": "UgLXuyt7~psmNKWUt8Wr_2WCRQkBW8t6aKni",

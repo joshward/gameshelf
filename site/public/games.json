@@ -3669,6 +3669,54 @@
     "forSale": false
   },
   {
+    "bggId": 122298,
+    "categories": [
+      "Card Game",
+      "Educational"
+    ],
+    "description": "The woods are old-growth, dappled with sunlight. Delicious mushrooms beckon from every grove and hollow. Morels may be the most sought-after in these woods, but there are many tasty and valuable varieties awaiting the savvy collector. Bring a basket if you think it's your lucky day. Forage at night and you will be all alone when you stumble upon a bonanza. If you're hungry, put a pan on the fire and bask in the aroma of chanterelles as you saut&eacute; them in butter. Feeling mercantile? Sell porcini to local aficionados for information that will help you find what you seek deep in the forest.&#10;&#10;Morels, a strategic card game for two players, uses two decks: a Day Deck (84 cards) that includes ten different types of mushrooms as well as baskets, cider, butter, pans, and moons; and a smaller Night Deck (8 cards) of mushrooms to be foraged by moonlight. Each mushroom card has two values: one for selling and one for cooking. Selling two or more like mushrooms grants foraging sticks that expand your options in the forest (that is, the running tableau of eight face-up cards on the table), enabling offensive or defensive plays that change with every game played. Cooking sets of three or more like mushrooms &ndash; sizzling in butter or cider if the set is large enough &ndash; earns points toward winning the game. With poisonous mushrooms wielding their wrath and a hand-size limit to manage, card selection is a tricky proposition at every turn.&#10;&#10;Following each turn, one card from the forest moves into a decay pile that is available for only a short time. The Day Deck then refills the forest from the back, creating the effect of a walk in the woods in which some strategic morsels are collected, some are passed by, and others lay ahead.&#10;&#10;",
+    "designers": [
+      "Brent Povis"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "minPlayers": 2,
+    "name": "Morels",
+    "playingTime": 30,
+    "publisher": "Two Lanterns Games",
+    "rating": 6.98673,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.7378,
+    "year": "2012",
+    "expansions": [
+      {
+        "bggId": 225143,
+        "name": "Morels: Foray",
+        "year": "2017"
+      },
+      {
+        "bggId": 361546,
+        "name": "Morels: 10th Anniversary Booster Pack",
+        "year": "2022"
+      }
+    ],
+    "image": "morels.122298.full.png",
+    "thumbnail": "morels.122298.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 251,
+    "blurhash": "UWKnncvNEKVs.TnNROV@,xR%k8WBx]M{S1jZ",
+    "sale": "",
+    "slug": "morels",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 123239,
     "categories": [
       "Party Game",
@@ -4170,7 +4218,7 @@
     "blurhash": "UgLXuyt7~psmNKWUt8Wr_2WCRQkBW8t6aKni",
     "sale": "",
     "slug": "arboretum",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12061,6 +12109,39 @@
     "forSale": false
   },
   {
+    "bggId": 286788,
+    "categories": [],
+    "description": "In Gift of Tulips, tulip enthusiasts explore Amsterdam's tulip festival to build colorful bouquets, give tulips to others (scoring points in the process), and manipulate the value of the market.&#10;&#10;The deck includes tulips of four colors, with values 2-4. Lay out four festival cards based on the player count, with these cards showing the number of points scored for giving away tulips, keeping tulips, and having a majority of certain colors at the end of the game. Draw two cards of different colors, and place them under the festival cards in first and second place based on their value. Deal two cards to each player; keep one card face up in front of you and add the other face down to the &quot;secret festival&quot; pile.&#10;&#10;On a turn, draw a card from the deck and KEEP/GIVE/ADD it, then draw a second card and take one of the actions you didn't just take. The actions:&#10;&#10;&#10;    KEEP: Place the card face up in front of you, scoring points for it if that color is currently ranked third or fourth in the festival.&#10;    GIVE: Give the card to another player, who places it face up in front of themselves; you score &quot;giving&quot; points based on the current ranking of that color in the festival, plus points equal to the value of that tulip.&#10;    ADD: Place the card face down in the secret festival or add it face up to the festival, altering the ranking of colors if needed so that the color with the highest sum is first, etc.&#10;&#10;&#10;When the deck runs out, shuffle the cards in the secret festival, then draw five at random and add them face up to the festival, adjusting the ranking as needed. (If fewer than five cards are in the secret festival, add all of these cards to the festival.) For the three highest ranked colors in the festival, whoever has the most and secondmost cards in these colors scores points as listed on the festival cards; in games with five and six players, the player with the thirdmost cards of a color also scores points. In case of a tie for card count, the tied player with the higher value of a color wins that tie. Whoever has the most points wins.&#10;&#10;",
+    "designers": [
+      "Sara Perry"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Commodity Speculation"
+    ],
+    "minPlayers": 2,
+    "name": "Gift of Tulips",
+    "playingTime": 20,
+    "publisher": "Weird Giraffe Games",
+    "rating": 7.34545,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "gift_of_tulips.286788.full.png",
+    "thumbnail": "gift_of_tulips.286788.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 181,
+    "blurhash": "UpMjwJtRozRjuPRiShkDITNebHt7tQofWBnh",
+    "sale": "",
+    "slug": "gift-of-tulips",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 291508,
     "categories": [
       "Fantasy",
@@ -13129,6 +13210,41 @@
     "blurhash": "U-RL|WV@.TtRn4aeo}kDtRkDRQWAk9j=RkWC",
     "slug": "dont-get-got",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 328866,
+    "categories": [
+      "Horror"
+    ],
+    "description": "The walls were lined with iron shelves, each metal slat overfilled with glass jars containing formaldehyde and grotesque curiosities within. Pristine brass tools and refined metals of a quality I had never before laid eyes upon were strewn across sturdy slabs of rock and wood, their edges sharp with use. However, my eyes were soon drawn to a sturdy writing desk, its mahogany eaves inlaid with thin strips of copper, the center of which contained a well-worn leather-bound book. My father's journal &mdash; passed down to me and representing years of knowledge and countless experiments. And inside that weathered tome, atop the pearly parchment oxidized yellow at its frayed edges, were the deliberate quill marks of a crazed genius outlining the ambitious project he could never complete in one lifetime &mdash; his masterwork.&#10;&#10;Without realizing it, my hands were shaking as I clutched the book to my chest. At once, I felt an ownership and anxiety for the scientific sketches scrawled so eloquently on those frayed sheets. It was at that moment that I began my obsession: I would restore this laboratory to its former brilliance and dedicate my life to completing my father's work!&#10;&#10;In My Father's Work, players are competing mad scientists entrusted with a page from their father's journal and a large estate in which to perform their devious experiments. Players earn points by completing experiments, aiding the town in its endeavors, upgrading their macabre estates, and hopefully completing their father's masterwork.&#10;&#10;But they have to balance study and active experimentation because at the end of each generation, all of their experiments and resources are lost to time until their child begins again with only the &quot;Journaled Knowledge and Estate&quot; they have willed to them &mdash; and since the game is played over the course of three generations, it is inevitable that the players will rouse the townsfolk to form angry mobs or spiral into insanity from the ethically dubious works they have created. The player with the most points at the end of three generations wins and becomes the most revered, feared, ingenious scientist the world has ever known!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "T. C. Petty III"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Events",
+      "Worker Placement"
+    ],
+    "minPlayers": 2,
+    "name": "My Father's Work",
+    "playingTime": 180,
+    "publisher": "Renegade Game Studios",
+    "rating": 8.25026,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.2381,
+    "year": "2022",
+    "expansions": [],
+    "image": "my_fathers_work.328866.full.png",
+    "thumbnail": "my_fathers_work.328866.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UCAdo.nL9b*0%$MdIAbc9bR:xBnMMxbwoxng",
+    "sale": "",
+    "slug": "my-fathers-work",
+    "new": true,
     "forSale": false
   },
   {
