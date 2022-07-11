@@ -1509,7 +1509,7 @@
     "blurhash": "UJIqvR?G03NHmTRP5;X94qM}x[oy_Lx@rrs9",
     "sale": "",
     "slug": "no-thanks",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -7190,7 +7190,7 @@
     "blurhash": "U6I5MRB.+*wG0c@tJB%M##^jEMM{0XL4MxZ}",
     "sale": "",
     "slug": "factory-funner",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12769,6 +12769,54 @@
     "forSale": false
   },
   {
+    "bggId": 302723,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Nautical",
+      "Pirates",
+      "Travel"
+    ],
+    "description": "Forgotten Waters is a Crossroads Game set in a world of fantastical pirate adventure. In it, players take on the role of pirates sailing together on a ship, attempting to further their own personal stories as well as a common goal.&#10;&#10;The world of Forgotten Waters is silly and magical, with stories designed to encourage players to explore and laugh in delight as they interact with the world around them. It's a game in which every choice can leave a lasting impact on the story, and players will want turn over every rock just to see what they find.&#10;&#10;Forgotten Waters features five scenarios and a massive location book that provides players with tons of choices wherever they go.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Mr. Bistro",
+      "J. Arthur Ellis",
+      "Isaac Vega"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 7,
+    "mechanics": [
+      "Dice Rolling",
+      "Events",
+      "Narrative Choice / Paragraph",
+      "Scenario / Mission / Campaign Game",
+      "Semi-Cooperative Game",
+      "Stat Check Resolution",
+      "Storytelling",
+      "Worker Placement"
+    ],
+    "minPlayers": 3,
+    "name": "Forgotten Waters",
+    "playingTime": 240,
+    "publisher": "Plaid Hat Games",
+    "rating": 7.97909,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.0986,
+    "year": "2020",
+    "expansions": [],
+    "image": "forgotten_waters.302723.full.png",
+    "thumbnail": "forgotten_waters.302723.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UBDK3@rYUaMb?vyCyBJ~GFbwu5J9$kogOFNF",
+    "sale": "",
+    "slug": "forgotten-waters",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 302876,
     "categories": [
       "Humor",
@@ -13213,6 +13261,88 @@
     "forSale": false
   },
   {
+    "bggId": 323156,
+    "categories": [
+      "Exploration"
+    ],
+    "description": "In the 16th century, Russia began to expand eastwards to develop the vast expanses of Siberia. This phase in history is closely associated with the name &quot;Stroganov&quot;.&#10;&#10;In the game Stroganov, players try to collect the best furs to gain wealth and fame as they move across the vastness that is Siberia. They will journey through Siberia in spring, summer, and autumn before returning home each winter. After four years (rounds), the player who has best utilized their actions and collected the most victory points wins.&#10;&#10;Each year, the players must move eastward across the landscape. They can spend horses if they wish to travel further. Once they have advanced, they may take a basic action, such as trading or collecting furs or coins. Lastly, they may take more advanced actions such as visiting a village, setting up a yurt, taking a Tsar's wish (card), setting up a hunting lodge, or buying a landscape field. All of these actions &mdash; combined with exploring and some storytelling along the way &mdash; earn players victory points at the end of the game.&#10;&#10;Every winter, players return home to Tyumen to prepare for a new year.&#10;&#10;After four years, the game ends, then players score victory points based on having collected the right landscape tiles, fulfilled the Tsar's wishes, built hunting lodges, collected furs, and more.&#10;&#10;",
+    "designers": [
+      "Andreas Steding"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Map Addition",
+      "Point to Point Movement",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action",
+      "Worker Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Stroganov",
+    "playingTime": 90,
+    "publisher": "Game Brewer",
+    "rating": 7.40154,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.1667,
+    "year": "2021",
+    "expansions": [],
+    "image": "stroganov.323156.full.png",
+    "thumbnail": "stroganov.323156.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U=L|x{jZj[WC_NbHj[j[xaofa}j[M{jZs:ay",
+    "sale": "",
+    "slug": "stroganov",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 327971,
+    "categories": [
+      "Ancient",
+      "Medical"
+    ],
+    "description": "Travel back to Greece in 370 BCE on the island of Kos. Hippocrates has just passed away and that leads to a lot of doubt regarding the durability of his medical activities. As one of his successors, you lead a team of doctors with the goal of perpetuating the treatment of patients in the temple of Asclepios, later known as the first hospital in history. Be the right successor of Hippocrates and increase your reputation, so that patients from all around the Mediterranean will come with the hope of receiving the best treatment ever.&#10;&#10;The game lasts four rounds, with each round divided into five phases:&#10;&#10;1. Kalosorisma &mdash; Each player welcomes up to three patients in their hospital. You need to select your patients carefully as all patients need urgent help, and some may be easier to treat than others, but make sure to help the most in need or you will lose reputation as a doctor.&#10;2. Pliromi &mdash; You have to remunerate your doctors or risk their departure.&#10;3. Stratologisi &mdash; In this phase, players try to hire new doctors and purchase medicine kits. If a player obtains both, they receive a bonus.&#10;4. Therapeia &mdash; Now is the time to treat patients. Players have to carefully puzzle and link the right patients to the right doctors to maximize their assets.&#10;5. Exis &mdash; Players count victory and reputation points, and prepare the board for the next round.&#10;&#10;Hippocrates combines auction bidding, tile placement, resource management, and more to create an exciting mix that will challenge each player to best manage their patients and try to become Hippocrates' worthy successor.&#10;&#10;",
+    "designers": [
+      "Alain Orban"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Contracts",
+      "Income",
+      "Market",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Turn Order: Claim Action",
+      "Turn Order: Stat-Based"
+    ],
+    "minPlayers": 1,
+    "name": "Hippocrates",
+    "playingTime": 120,
+    "publisher": "Game Brewer",
+    "rating": 6.94749,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.8929,
+    "year": "2022",
+    "expansions": [],
+    "image": "hippocrates.327971.full.png",
+    "thumbnail": "hippocrates.327971.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U8O|LY-=-;WBw[t7kXR*00j[IUaz?^ogMxxu",
+    "sale": "",
+    "slug": "hippocrates",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 328866,
     "categories": [
       "Horror"
@@ -13322,7 +13452,7 @@
     "blurhash": "UDL.q@MhEk%vPbR.0is+04-,0gD-1hxU}?I]",
     "sale": "",
     "slug": "bear-raid",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13357,7 +13487,7 @@
     "blurhash": "U7D0$UaZECuP05a$EBt*03M+%DjDN1kpx;V_",
     "sale": "",
     "slug": "ghosts-of-christmas",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13397,7 +13527,7 @@
     "blurhash": "URF@b#s,S~t8?dkXVYsk9HaKs+kC5Sx]tRNH",
     "sale": "",
     "slug": "libertalia",
-    "new": true,
+    "new": false,
     "forSale": false
   }
 ]
