@@ -11569,6 +11569,46 @@
     "forSale": false
   },
   {
+    "bggId": 272666,
+    "categories": [
+      "Deduction",
+      "Exploration",
+      "Maze",
+      "Puzzle"
+    ],
+    "description": "In Psychic Pizza Deliverers Go to the Ghost Town, players are divided into &quot;Pizza Delivery Professionals&quot; and a mayor (GM) who controls the ghosts and builds the town. The pizza delivery professionals have to find a pizza and deliver it to the right house in town, all while avoiding ghosts, barriers, and mystic teleportation runes. The first player to find and successfully deliver a pizza wins. Luckily for them, the pizza delivery professionals all possess mild psychic powers. They must use their abilities to sense and divine what's around them if they hope to deliver their pizzas.&#10;&#10;The main role of mayor is to moderate play and make the town. The mayor wins if no one is able to deliver their pizza. The game begins with the mayor building a unique town map that includes the starting location for each player, pizza, and house. On a player's turn, they may choose to move one space in any of the four cardinal directions, attack in any of the four cardinal directions in hope of banishing a ghost, or use a psychic power. The mayor then resolves the action, tells the player the location of any barriers adjacent to the player, and whether or not the player senses any ghosts/pizzas/houses in any of the eight spaces surrounding the player.&#10;&#10;Attacking removes ghosts from the board and lets players draw one psychic card. Psychic cards allow players to make special movements on the board such as diagonal, hop step, or warp back to start.&#10;&#10;The players have only twenty turns to locate a pizza and deliver it to the matching house. The players have a gridded sheet of paper and a pencil to draw and record information about the town. The mayor has a special log sheet to track all the players moves and results.&#10;&#10;The game also includes several variant tiles that can be added to the town to vary gameplay.&#10;&#10;",
+    "designers": [
+      "Hayato Kisaragi"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Modular Board",
+      "Paper-and-Pencil",
+      "Pick-up and Deliver",
+      "Race"
+    ],
+    "minPlayers": 3,
+    "name": "Psychic Pizza Deliverers Go to the Ghost Town",
+    "playingTime": 45,
+    "publisher": "One Draw",
+    "rating": 7.00227,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2018",
+    "expansions": [],
+    "image": "psychic_pizza_deliverers_go_to_the_ghost_town.272666.full.png",
+    "thumbnail": "psychic_pizza_deliverers_go_to_the_ghost_town.272666.thumbnail.png",
+    "thumbHeight": 221,
+    "thumbWidth": 350,
+    "blurhash": "UDGIJ$Z$+?xt2zOZ${IVpJniRoNHxbxVShn$",
+    "sale": "",
+    "slug": "psychic-pizza-deliverers-go-to-the-ghost-town",
+    "new": false,
+    "forSale": false
+  },
+  {
     "bggId": 277700,
     "categories": [
       "Economic",
@@ -13326,10 +13366,12 @@
     "name": "Hippocrates",
     "playingTime": 120,
     "publisher": "Game Brewer",
-    "rating": 6.94749,
+    "rating": 6.95603,
     "subTitle": "",
-    "tags": [],
-    "weight": 2.8929,
+    "tags": [
+      "w-fav"
+    ],
+    "weight": 2.9333,
     "year": "2022",
     "expansions": [],
     "image": "hippocrates.327971.full.png",
@@ -13487,6 +13529,46 @@
     "blurhash": "U7D0$UaZECuP05a$EBt*03M+%DjDN1kpx;V_",
     "sale": "",
     "slug": "ghosts-of-christmas",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 347883,
+    "categories": [
+      "Dice",
+      "Environmental"
+    ],
+    "description": "Transform into a dandelion, and float through clear blue skies on a pleasant breeze in this dice-rolling, area-majority game with a little direct-competition edge. Your quest is to find the best spots for your seeds to grow across a variety of vibrant, beautiful, and cozy gardens.&#10;&#10;In Dandelions, players roll a group of dice, then choose one to move to a beautiful garden. Along the way, you can harness the power of the wind with three special actions &mdash; float, puff, and gust &mdash; to get the most points. The game ends after all the dice are used, and whoever receives the most victory points as combined from two different scoring methods wins.&#10;&#10;",
+    "designers": [
+      "Takashi Sakaue"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 3,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Dice Rolling",
+      "King of the Hill",
+      "Roll / Spin and Move",
+      "Track Movement"
+    ],
+    "minPlayers": 2,
+    "name": "Dandelions",
+    "playingTime": 0,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.50434,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "dandelions.347883.full.png",
+    "thumbnail": "dandelions.347883.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UgI?4qbdM{s:CAbaNaWXIps8xaj?ocV@kWxG",
+    "sale": "",
+    "slug": "dandelions",
     "new": false,
     "forSale": false
   },
