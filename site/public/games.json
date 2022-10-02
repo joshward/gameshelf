@@ -3294,6 +3294,42 @@
     "forSale": false
   },
   {
+    "bggId": 90040,
+    "categories": [
+      "Ancient"
+    ],
+    "description": "Pergamon is a tactical collecting game with a theme based on excavating archaeological discoveries and managing their exhibition.&#10;&#10;Set in the year 1878, the first excavations in what is now modern Turkey are uncovering the remains of ancient Pergamon. Soon the precious discoveries will make their way abroad to public exhibitions before a waiting audience, eliciting substantial honor and glory.&#10;&#10;The players attempt to gain federal research grants to cover the costs of their excavations through a bidding mechanism. Whoever is modest and less demanding can travel to the excavating areas before his or her competitors, and the rule is first come, first dig. Only fragments will remain for the later expeditions. Recovered treasures are placed in valuable exhibitions, for which the discoverer receives glory and recognition.&#10;&#10;The player who accumulates the most glory after 12 rounds wins the game.&#10;&#10;The combination of soliciting funds and racing for the best locations to excavate makes Pergamon a variable game with rules that are easily accessible. Players are forced to make choices based on the money they can obtain and the sequence in which they choose where to dig.&#10;&#10;",
+    "designers": [
+      "Stefan Dorra",
+      "Ralf zur Linde"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Set Collection",
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Pergamon",
+    "playingTime": 45,
+    "publisher": "Eagle-Gryphon Games",
+    "rating": 6.90474,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.2474,
+    "year": "2022",
+    "expansions": [],
+    "image": "pergamon.90040.full.png",
+    "thumbnail": "pergamon.90040.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U88gy;oz00aJ%Nf6M_f+01ae~UkDRNfkbxae",
+    "sale": "",
+    "slug": "pergamon",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 92852,
     "categories": [
       "Humor",
@@ -6653,7 +6689,7 @@
     "blurhash": "UFQT1HxG_MOraKo0tRSN-;WWD%w_%gWVMxxF",
     "sale": "",
     "slug": "fog-of-love",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -10651,7 +10687,7 @@
     "blurhash": "UlPGvsod~qWWNFayxakC^ma#IUkB%NfRM|bF",
     "sale": "",
     "slug": "paint-the-roses",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12300,7 +12336,7 @@
     "blurhash": "UqIh$:nOx[of.mWVW=ayt7X9WBfRnOogodj[",
     "sale": "",
     "slug": "long-shot",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12893,6 +12929,45 @@
     "blurhash": "UNP?zLT1~BD*,n.7waNK_2OFIU%L-pj]IoNH",
     "sale": "",
     "slug": "sound-box",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 305682,
+    "categories": [
+      "Number",
+      "Print & Play"
+    ],
+    "description": "In the early days of the coronavirus, a time of self-isolation for many people, Jamey decided to create an infinitely scaling roll-and-write game to teach and play with people around the world via Facebook Live.&#10;&#10;In Rolling Realms, players compete to earn the most stars in a series of minigames over 3 rounds. This is a roll-and-write game, meaning that players will write on the game components using dry-erase markers.&#10;&#10;Each turn, one player rolls 2 dice, and all players use the dice results on their realm cards to generate resources and earn stars. After 3 rounds, the player with the most stars wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Jamey Stegmaier"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Bingo",
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Rolling Realms",
+    "playingTime": 30,
+    "publisher": "Stonemaier Games",
+    "rating": 7.22938,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.918,
+    "year": "2021",
+    "expansions": [],
+    "image": "rolling_realms.305682.full.png",
+    "thumbnail": "rolling_realms.305682.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UIGTHVe.0NjYu6s:R4R*b|WUHqbbdoWXbwja",
+    "sale": "",
+    "slug": "rolling-realms",
     "new": true,
     "forSale": false
   },
@@ -12949,6 +13024,41 @@
     "blurhash": "UWNU9CNFIUxv~q%2kBWYV@NGf8WBjcj[axe.",
     "slug": "railroad-ink-challenge",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 309105,
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "description": "Welcome to Sagani where achieving harmony between the natural elements of Earth, Water, Air and Fire is the central goal of the spirits that populate this world. These spirits spend most of their time in their vessel-like dwellings. But when the elements are put in balance, the spirits emerge from their vessels and show themselves in their full form.&#10;&#10;Each spirit embodies one of the four elements and influences the harmony between them. In Sagani, as you and your opponents create this colorful, harmonious world by employing your Sound discs, the spirits become fully visible. Every spirit that shows itself also brings you a step closer to victory.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Sagani",
+    "playingTime": 60,
+    "publisher": "Eagle-Gryphon Games",
+    "rating": 7.24541,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2021",
+    "expansions": [],
+    "image": "sagani.309105.full.png",
+    "thumbnail": "sagani.309105.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UMHV*Rt64:RkyZjYW9R+00WD$%aeElWCspsn",
+    "sale": "",
+    "slug": "sagani",
+    "new": true,
     "forSale": false
   },
   {
@@ -13416,7 +13526,7 @@
     "blurhash": "UCAdo.nL9b*0%$MdIAbc9bR:xBnMMxbwoxng",
     "sale": "",
     "slug": "my-fathers-work",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13533,6 +13643,41 @@
     "forSale": false
   },
   {
+    "bggId": 341009,
+    "categories": [
+      "Dice",
+      "Racing"
+    ],
+    "description": "Welcome to Armonia, a new game in the Sagani universe that answers an unresolved question from the previous game: &quot;What is the origin of the harmonious melodies forged into the sound discs that awaken the spirits of nature?&quot;&#10;&#10;Turns out that the answer is you because in Armonia, you play as the children of nature &mdash; cute little gnomes, furry yetis, jumping cyc-hops, and wet but happy octis &mdash; and follow various landscapes and paths through the wilderness to discover the best and most melodious tones and harmonies, then forge those new-found melodies into sound discs by completing tasks in the Temple of the Clouds, where their true Armonious magic unfolds!&#10;&#10;In game terms, each turn you roll the dice, rolling up to three times, with the dice allowing you to initiate and complete several movements and tasks with your sound discs each roll along the paths to the Temple of the Clouds. Your ultimate goal is to complete the final tasks of four of the Temple tiles. Whoever does this first wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Dice Rolling"
+    ],
+    "minPlayers": 1,
+    "name": "Armonia",
+    "playingTime": 60,
+    "publisher": "Eagle-Gryphon Games",
+    "rating": 6.05211,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.125,
+    "year": "2021",
+    "expansions": [],
+    "image": "armonia.341009.full.png",
+    "thumbnail": "armonia.341009.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UUJk.eKQ?unNPEaKIrR-0M$|M|ba9Gj;t2%M",
+    "sale": "",
+    "slug": "armonia",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 347883,
     "categories": [
       "Dice",
@@ -13610,6 +13755,46 @@
     "sale": "",
     "slug": "libertalia",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 369634,
+    "categories": [
+      "Card Game",
+      "Puzzle"
+    ],
+    "description": "Smitten is a cooperative micro-game for 1-2 players designed and published in celebration of Stonemaier Games' 10th anniversary. In Smitten, players work cooperatively with limited information/communication to complete two identical 3x3 grids of cards, each inspired by a Stonemaier game and illustrated by Vincent Dutrait. There are multiple difficulty levels and separate modes for solo and 2-player games.&#10;&#10;Smitten was inspired by comic book cards from Jamey's youth, specifically a set where various cards formed a cohesive 9-card panorama image. In trying to complete two of these images in Smitten, there is no set turn order; rather, players indicate a preference to play or not play a card. The played card has instructions for the other player to place a card, which they must do or the game instantly ends.&#10;&#10;Smitten is packaged inside a paper envelope; it's an entirely plastic-free, eco-friendly product.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Jamey Stegmaier"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Square Grid",
+      "Turn Order: Claim Action"
+    ],
+    "minPlayers": 1,
+    "name": "Smitten",
+    "playingTime": 10,
+    "publisher": "Stonemaier Games",
+    "rating": 6.76923,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2022",
+    "expansions": [],
+    "image": "smitten.369634.full.png",
+    "thumbnail": "smitten.369634.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 195,
+    "blurhash": "U4EMm?Hq0;+XL[-=4,Sk00x^01OU_M9DtT8w",
+    "sale": "",
+    "slug": "smitten",
+    "new": true,
     "forSale": false
   }
 ]

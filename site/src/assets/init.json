@@ -1,5 +1,5 @@
 {
-  "count": 319,
+  "count": 324,
   "sale": true,
   "games": [
     {
@@ -145,6 +145,20 @@
       "forSale": false
     },
     {
+      "bggId": 341009,
+      "name": "Armonia",
+      "subTitle": "",
+      "editionTitle": "",
+      "new": true,
+      "tags": [],
+      "slug": "armonia",
+      "blurhash": "UUJk.eKQ?unNPEaKIrR-0M$|M|ba9Gj;t2%M",
+      "thumbHeight": 250,
+      "thumbWidth": 250,
+      "thumbnail": "armonia.341009.thumbnail.png",
+      "forSale": false
+    },
+    {
       "bggId": 188866,
       "name": "Awkward Guests",
       "subTitle": "",
@@ -156,20 +170,6 @@
       "thumbHeight": 228,
       "thumbWidth": 350,
       "thumbnail": "awkward_guests.188866.thumbnail.png",
-      "forSale": false
-    },
-    {
-      "bggId": 98,
-      "name": "Axis & Allies",
-      "subTitle": "",
-      "editionTitle": "",
-      "new": false,
-      "tags": [],
-      "slug": "axis-and-allies",
-      "blurhash": "UBJ@2c0h~m?GMTS#EMsp01Io9cNHRjbIE4kW",
-      "thumbHeight": 211,
-      "thumbWidth": 350,
-      "thumbnail": "axis_allies.98.thumbnail.png",
       "forSale": false
     }
   ]
