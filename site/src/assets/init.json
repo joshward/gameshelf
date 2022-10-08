@@ -1,5 +1,5 @@
 {
-  "count": 324,
+  "count": 327,
   "sale": true,
   "games": [
     {
@@ -28,6 +28,20 @@
       "thumbHeight": 250,
       "thumbWidth": 248,
       "thumbnail": "7_wonders_duel.173346.thumbnail.png",
+      "forSale": false
+    },
+    {
+      "bggId": 189190,
+      "name": "9 Lives",
+      "subTitle": "",
+      "editionTitle": "",
+      "new": true,
+      "tags": [],
+      "slug": "9-lives",
+      "blurhash": "UGL{G7?v}Hvguk9FIosDY,$%OqOX?I%#tlo}",
+      "thumbHeight": 250,
+      "thumbWidth": 250,
+      "thumbnail": "9_lives.189190.thumbnail.png",
       "forSale": false
     },
     {
@@ -156,20 +170,6 @@
       "thumbHeight": 250,
       "thumbWidth": 250,
       "thumbnail": "armonia.341009.thumbnail.png",
-      "forSale": false
-    },
-    {
-      "bggId": 188866,
-      "name": "Awkward Guests",
-      "subTitle": "",
-      "editionTitle": "",
-      "new": false,
-      "tags": [],
-      "slug": "awkward-guests",
-      "blurhash": "UAJt#UDh*0M|yEoIjbofw]t6IUWCD%ofxuRj",
-      "thumbHeight": 228,
-      "thumbWidth": 350,
-      "thumbnail": "awkward_guests.188866.thumbnail.png",
       "forSale": false
     }
   ]

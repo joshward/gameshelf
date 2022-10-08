@@ -1509,7 +1509,7 @@
     "blurhash": "UJIqvR?G03NHmTRP5;X94qM}x[oy_Lx@rrs9",
     "sale": "",
     "slug": "no-thanks",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -6689,7 +6689,7 @@
     "blurhash": "UFQT1HxG_MOraKo0tRSN-;WWD%w_%gWVMxxF",
     "sale": "",
     "slug": "fog-of-love",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -7453,6 +7453,41 @@
     "forSale": false
   },
   {
+    "bggId": 189190,
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "description": "Catty is a trick-taking game where players compete to earn the most points.  The game uses 3-4 suits which show the color of the cards on the rear.&#10;&#10;Players make bids of if they will win 1-6 tricks, and can bid exactly or a range.  Each number may only be bid up to two times.  Points are earned when a player hits their bid and lost if they miss it.&#10;&#10;The game is &quot;must follow&quot; with a fixed trump suit.  The winner of a trick also takes one of the cards played to the trick other than theirs to place in their hand.&#10;&#10;The game ends after either 4 rounds or a player has earned 100 points, and the player with the most points wins.&#10;&#10;",
+    "designers": [
+      "Taiki Shinzawa (新澤 大樹)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "9 Lives",
+    "playingTime": 30,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.13731,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "9_lives.189190.full.png",
+    "thumbnail": "9_lives.189190.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UGL{G7?v}Hvguk9FIosDY,$%OqOX?I%#tlo}",
+    "sale": "",
+    "slug": "9-lives",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 192291,
     "categories": [
       "Card Game",
@@ -8146,6 +8181,46 @@
     "blurhash": "UHMs+eUb5Sx[|3-qJ:Rk4-rqtkX9ESm,Ncoz",
     "slug": "kanagawa",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 200853,
+    "categories": [
+      "Animals",
+      "Environmental"
+    ],
+    "description": "In Habitats, each player builds a big wildlife park without cages or fences. The animals in your park need their natural habitats: grassland, bush, rocks or lakes. The zebra needs a big area of grass and some water adjacent, for example, while a bat needs rocks and bush and water, a hart needs bush and grass, and a crocodile needs mainly water. There is a snake, baboon, bee, elephant, otter, lizard, turtle, eagle, meerkat, scorpio, hog, catfish, rhino, etc., each with its own landscape requirements &mdash; 68 different animals in total.&#10;&#10;Each player starts their individual park with an entrance tile, and they are each represented in the marketplace of animal tiles by a ceramic figure (or a wooden ranger meeple in some editions). On a turn, a player takes the tile to their left, right or front; moves their figure to the space just vacated; then draws a tile to place where their figure started the turn.&#10;&#10;When adding an animal tile in your park, you add its main landscape &mdash; the base space for the animal &mdash; to your park, too. While placing this new animal, its own piece of landscape can help to fulfill the requirements of your other animals' requirements, e.g., the water on a hippo tile fulfilling the adjacent otter's need for water. Thus, fulfilling every animal's desire for land becomes a more and more difficult task with each tile you add.&#10;&#10;Aside from expanding your park with different landscape types, flora and animals, you can improve its profitability by building extra entrance roads, trek spots, and watchtowers.&#10;&#10;Habitats lasts three seasons, with each season giving each player 6-9 new tiles for their parks. Whoever has best met the goal of the season receives bonus points, with a smaller number of points for second and third place. At the end of the game, each player scores for each tile in their park based on whether that tile's requirements are satisfied. Whoever scores the most points wins!&#10;&#10;NOTE: BoardGameTables edition contains both XL Expansion and Double Expansion and is entirely replacing the previous editions.&#10;&#10;",
+    "designers": [
+      "Corné van Moorsel"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Grid Movement",
+      "Map Addition",
+      "Open Drafting",
+      "Pattern Building",
+      "Square Grid",
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Habitats",
+    "playingTime": 50,
+    "publisher": "BoardGameTables.com",
+    "rating": 7.33911,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.24,
+    "year": "2022",
+    "expansions": [],
+    "image": "habitats.200853.full.png",
+    "thumbnail": "habitats.200853.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UnN9,aem-.kX~Ubve:sl-:o3M|WBKRawNbS5",
+    "sale": "",
+    "slug": "habitats",
+    "new": true,
     "forSale": false
   },
   {
@@ -10687,7 +10762,7 @@
     "blurhash": "UlPGvsod~qWWNFayxakC^ma#IUkB%NfRM|bF",
     "sale": "",
     "slug": "paint-the-roses",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -12336,7 +12411,7 @@
     "blurhash": "UqIh$:nOx[of.mWVW=ayt7X9WBfRnOogodj[",
     "sale": "",
     "slug": "long-shot",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -12929,7 +13004,7 @@
     "blurhash": "UNP?zLT1~BD*,n.7waNK_2OFIU%L-pj]IoNH",
     "sale": "",
     "slug": "sound-box",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -13526,7 +13601,7 @@
     "blurhash": "UCAdo.nL9b*0%$MdIAbc9bR:xBnMMxbwoxng",
     "sale": "",
     "slug": "my-fathers-work",
-    "new": false,
+    "new": true,
     "forSale": false
   },
   {
@@ -13754,7 +13829,43 @@
     "blurhash": "URF@b#s,S~t8?dkXVYsk9HaKs+kC5Sx]tRNH",
     "sale": "",
     "slug": "libertalia",
-    "new": false,
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 358812,
+    "categories": [
+      "Economic",
+      "Sports"
+    ],
+    "description": "Competition is fierce, money is tight, and your critical task as team manager is to build a dream lineup of basketball superstars.&#10;&#10;Basketboss is an auction game where each season you&rsquo;ll be responsible for managing all the complexities of a professional basketball team.&#10;&#10;Your principal task is to offer the best contracts to players at auction. You&rsquo;ll also have to make sure you can hire the right team advisors - as they provide special powers that can dramatically improve your lineup if used properly. For example, the Physical Therapist can help you avoid crippling injuries!&#10;&#10;Will your lineup be stacked with Hall of Famers and your shelves full of gleaming trophies?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Corné van Moorsel"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Auction/Bidding",
+      "Auction: Turn Order Until Pass"
+    ],
+    "minPlayers": 2,
+    "name": "Basketboss",
+    "playingTime": 40,
+    "publisher": "BoardGameTables.com",
+    "rating": 6.5,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "basketboss.358812.full.png",
+    "thumbnail": "basketboss.358812.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UbOT^Hj[=wNcqEWWozbI?GWBo}xZTdjtxaX7",
+    "sale": "",
+    "slug": "basketboss",
+    "new": true,
     "forSale": false
   },
   {

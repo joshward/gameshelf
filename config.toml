@@ -3,6 +3,7 @@
   gamesFile = 'public/games.json'
   hashFile = 'src/assets/hash.json'
   initFile = 'src/assets/init.json'
+  newCount = 20
 
 [extended]
   dir = 'cli'
