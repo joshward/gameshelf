@@ -1067,6 +1067,10 @@
     "versionId": 389452
   },
   {
+    "bggId": 244212,
+    "addedDate": 1665730800000
+  },
+  {
     "bggId": 244228,
     "addedDate": 0,
     "versionId": 390771
@@ -1405,6 +1409,11 @@
   {
     "bggId": 329465,
     "addedDate": 0
+  },
+  {
+    "bggId": 329551,
+    "addedDate": 1665730800000,
+    "versionId": 548112
   },
   {
     "bggId": 333981,

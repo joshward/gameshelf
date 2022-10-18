@@ -1509,7 +1509,7 @@
     "blurhash": "UJIqvR?G03NHmTRP5;X94qM}x[oy_Lx@rrs9",
     "sale": "",
     "slug": "no-thanks",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -10281,6 +10281,49 @@
     "forSale": false
   },
   {
+    "bggId": 244212,
+    "categories": [
+      "Trains"
+    ],
+    "description": "While playing Railroad Rivals, you connect cities via one of the twelve great railroads that stretched across the United States, while simultaneously building your stock portfolio. You then use those railroads to make deliveries that drive up the price of your stocks. At the end of the game, the player who has run the most profitable railroad while also owning the most valuable stocks becomes the greatest of all of the railroad rivals!&#10;&#10;In more detail, Railroad Rivals is a tile-drafting and -laying game in which you build a railroad empire that stretches across America&hellip;and across your table. Each turn you draft one new city tile and one new railroad stock tile. You then lay one of your city tiles next to a city tile that is already on the table to create a link between the two cities. The matching edges must both have the same railroad on them. Each newly laid city gets one or more randomly drawn colored cubes placed on it that represent the goods that can be delivered from that city. After all players have laid their city tile, you deliver one goods cube using one of that city's railroad links. This gives you points and raises the value of that railroad stock.&#10;&#10;At the end of the game, your score is the total of all of the points that you received from deliveries, from other players using your railroad links, and from the value of all of your railroad stock tiles.&#10;&#10;",
+    "designers": [
+      "Glenn Drover"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Auction/Bidding",
+      "Open Drafting",
+      "Tile Placement",
+      "Victory Points as a Resource"
+    ],
+    "minPlayers": 1,
+    "name": "Railroad Rivals",
+    "playingTime": 60,
+    "publisher": "Forbidden Games",
+    "rating": 6.51186,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.0714,
+    "year": "2018",
+    "expansions": [
+      {
+        "bggId": 273973,
+        "name": "Railroad Rivals: Robber Baron Expansion",
+        "year": "2019"
+      }
+    ],
+    "image": "railroad_rivals.244212.full.png",
+    "thumbnail": "railroad_rivals.244212.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 189,
+    "blurhash": "UKNR$0xZ}Yr?YQRjEgkVGuX8VsjGq]smxaNH",
+    "sale": "",
+    "slug": "railroad-rivals",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 244228,
     "categories": [
       "Abstract Strategy",
@@ -13647,6 +13690,43 @@
     "forSale": false
   },
   {
+    "bggId": 329551,
+    "categories": [
+      "Civilization"
+    ],
+    "description": "Mosaic: A Story of Civilization is a Civilization-Building game from Glenn Drover, designer of, among others, Age of Empires III: The Age of Discovery, Railways of the World, Sid Meier's Civilization: The Boardgame, and Raccoon Tycoon.&#10;&#10;Mosaic is an action selection game. On your turn, you will perform one of seven actions and acquire components.&#10;&#10;Acquiring Components is important in creating the unique mosaic of your civilization. They are used as prerequisites for many new technologies, as well as for scoring. Also, by pursuing specialization in one or more Civilization Components, you may be able to claim a &lsquo;Golden Age&rsquo; of that type.&#10;&#10;As the game goes on and your Civilization grows, scoring cards are eventually revealed from the four decks. Each time a scoring card is revealed, your Civilization will score for each region that you dominate with your cities and military units.  After the third scoring card is revealed, there is one final turn and the game ends. You will then score for your cities and towns, your wonders, projects, and golden ages, and for all of your cards that score for your unique Civilization Components.&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Glenn Drover"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Action Queue",
+      "Area Majority / Influence",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "minPlayers": 1,
+    "name": "Mosaic",
+    "playingTime": 120,
+    "publisher": "Forbidden Games",
+    "rating": 7.69262,
+    "subTitle": "A Story of Civilization",
+    "tags": [],
+    "weight": 2.7391,
+    "year": "2022",
+    "expansions": [],
+    "image": "mosaic.329551.full.png",
+    "thumbnail": "mosaic.329551.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 317,
+    "blurhash": "UPIh7#IUE2IV~pIpawxCE,axt5V[%xRjV]WE",
+    "sale": "",
+    "slug": "mosaic",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 333981,
     "categories": [
       "Economic"
@@ -13829,7 +13909,7 @@
     "blurhash": "URF@b#s,S~t8?dkXVYsk9HaKs+kC5Sx]tRNH",
     "sale": "",
     "slug": "libertalia",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
