@@ -328,48 +328,6 @@
     "forSale": false
   },
   {
-    "bggId": 224,
-    "categories": [
-      "Ancient",
-      "Civilization",
-      "Medieval",
-      "Renaissance",
-      "Wargame"
-    ],
-    "description": "History of the World works under the assumptions that all empires eventually fade and that the only things differentiating great empires from lesser ones is how much territory they conquer and how long it takes for their civilizations to disappear.  The game is played out over 7 epochs or rounds, from the ancient 3000 B.C. Sumerians to the pre-WW1 Germany, with every player controlling a new rising empire from history.  Some empires are stronger than others (like the Romans), but the game's clever mechanisms can help balance that out.  At the end of each epoch, players score points for all units of their color (from both the current and any previous empires) remaining on the board.&#10;&#10;Gameplay:  Each player selects a color and takes all pieces of that color, as there are different miniatures for each of the 7 Epochs, these should be sorted by Epoch.  The game board is a stylized version of the globe.  The Event cards should be separated into Greater and Lesser Events.  Each player is dealt 3 Greater Events. These are either Minor Empires, Leaders, Weaponry or Reallocation.  Each player is also dealt 7 Lesser Events.  There are 22 different types of Lesser Events (Disasters, Diseases, and Special abilities, to name a few).  Players roll 2 dice and determine first player and begin drawing their first Epoch empires.  One unique mechanism is that the drawing player can examine their drawn empire and decide whether to keep it for themselves or give it to another player who hasn't gotten one yet.  If it is given to another player, the receiving player has no choice but to keep it for himself to play that Epoch.  Then the next player draws and makes his decision.  The player who gives their drawn Empire has to wait until given an empire by another player or until the last player draws.  Each Empire card contains the Empire name, how many troops the Empire has for expansion, the Empire's starting land space, if it has a Capitol or not (barbarian or nomadic nations frequently do not) and if it has any Navigation (Seas and Oceans to travel by).  One player reads out the Epochs Empires in order and turns are taken, in this roughly historical order, when a player's Empire is called.&#10;&#10;Before the start of their turn a player may play up to two Event cards from their hand.  The Events played are resolved before the player starts his Empire's actions.  If the player's active Empire has navigation a ship token is placed in each sea or ocean listed (if an ocean is listed all adjacent seas to the ocean have ship markers put into them).  A Reallocation Greater Event allows an Empire with Navigation to exchange Fleets in seas and oceans for Coins that can be used to buy back defeated troops (1 coin per troop).  If the active Empire has a capitol it is taken and placed in the Empire's starting land with one unit of the Empire's available troops.&#10;&#10;Since each land space may only contain one troop the player begins expanding from their starting land by placing troops in any adjacent land space that they wish to occupy or conquer.  To conquer a land the attacker moves one unit into the land space either from adjacent land or through a sea with a ship in it.  Then dice are rolled, the attacker gets 2 dice and the defender only one, unless the attacker traveled across a strait or the defender's land has either a forest, the great wall of China, or mountains on the border of the land that the attacker came from.  In this case the defender receives 2 dice as well.  If the attack comes from the sea the defender gets 3 dice for defense.  Highest score wins with ties killing off both the defender and attacker.  In this case the attacker can merely place the next troop, if he has any left, in the now-empty land space.&#10;&#10;At any time the active Empire player may exchange an unplaced troop for a fort.  On later turns, a fort gives the player a +1 to defensive rolls in that land.  Also, if the defender in a fort loses or ties with an attacker only the fort is removed and the battle continues.  Whenever an army conquers a land with a capitol the capitol mini is flipped reducing it to a city (if it was a city to begin with it is removed from board when conquered).  After the active player's Empire is finished with it's actions check to see if it conquered to land spaces with resource symbols, if so it can build a monument.&#10;&#10;Then scoring takes place.  Each area (Middle-East, Northern Europe, Eurasia, etc...) has a tile with 3 values for the current Epoch.  One value is for having a presence in the area (at least one land).  Another value is for having Dominance in the area (at least 2 lands and more than any other player in area). The last value is for having Control of an area (at least 3 lands and no other player has any in area).  These values vary from Epoch to Epoch and Area to Area (Middle-East is more valuable in early Epochs and fades in later Epochs, for example).  Total the scores from each area for all pieces of the player's color from all Empires controlled that remain on board.  Then add 2 points for each capitol controlled, 1 point per city and one point for each monument controlled. After all areas are scored the next Empire called takes its turn.&#10;&#10;After all players have taken their turns and scored, for the first Epoch, the player with the highest score gets to take a pre-eminence marker and places it in front of him.  These are secret bonus points (worth somewhere from 3 to 6) for the end of the game and may not be examined till then.  This bonus to leader helps balance the Empire-draw mechanic and makes it valuable to score maximal points even early in the game, rather than tanking to get a better draw later. Then drawing begins for the next Epoch with the player having the lowest score drawing first on up to the person with the highest score drawing last (and likely being given a less than optimal Empire by another player).&#10;&#10;Victory: After the last player has scored for Epoch 7 and the leader has drawn a pre-eminence marker, all players reveal their pre-eminence markers and add them to their scores.  The player with the highest score wins.&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Online Play&#10;&#10;&#10;    http://gamesbyemail.com (English, turn-based)&#10;&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;===========&#10;&#10;Contents of 1993 AH edition:&#10;6 page rules folder&#10;6 page sample game folder&#10;32&quot; x 22&quot; mounted mapboard&#10;6 x 96 army markers (25 I/V, 4 I/IV, 20 II/VI, 30 III/VII, 5 IV/VII,&#10;6 IV/VI, 6 IV/V)&#10;6 x 6 Monuments&#10;6 x 7 Fleets&#10;6 x 1 VP marker&#10;20 Forts/Fortresses&#10;28 Capital/City markers&#10;4 Sumerian Armies&#10;five six sided dice&#10;64 Event cards&#10;48 Empire cards&#10;&#10;Contents of 2001 Hasbro edition&#10;11 page rule book&#10;5 dice - 3 white 2 red&#10;30 capitals/cites&#10;32 forts&#10;36 monuments&#10;Epoch I - 5 of each color&#10;Epoch II - 12 of each color&#10;Epoch III - 20 of each color&#10;Epoch IV - 15 of each color&#10;Epoch V - 18 of each color&#10;Epoch VI - 14 of each color&#10;Epoch VII - 16 of each color&#10;12 coins/fleets&#10;8 pre-eminence markers&#10;42 score charts&#10;49 empire cards - 7 for each epoch&#10;22 greater event cards&#10;49 lesser event cards&#10;&#10;",
-    "designers": [
-      "Gary Dicken",
-      "Steve Kendall",
-      "Phil Kendall"
-    ],
-    "editionTitle": "",
-    "maxPlayers": 6,
-    "mechanics": [
-      "Area Majority / Influence",
-      "Dice Rolling",
-      "Hand Management"
-    ],
-    "minPlayers": 3,
-    "name": "History of the World",
-    "playingTime": 270,
-    "publisher": "Avalon Hill Games, Inc.",
-    "rating": 7.12086,
-    "subTitle": "",
-    "tags": [],
-    "weight": 2.7703,
-    "year": "1991",
-    "expansions": [],
-    "image": "history_of_the_world.224.full.png",
-    "thumbnail": "history_of_the_world.224.thumbnail.png",
-    "thumbHeight": 235,
-    "thumbWidth": 350,
-    "blurhash": "UBJ7d1QS-XivO,?uID$%0#x[I.x[~mxUMx?s",
-    "sale": "$25 - Great condition - very light box corner scuffing. components are in fantastic shape",
-    "slug": "history-of-the-world",
-    "new": false,
-    "forSale": true
-  },
-  {
     "bggId": 399,
     "categories": [
       "Political"
@@ -1513,61 +1471,6 @@
     "forSale": false
   },
   {
-    "bggId": 15062,
-    "categories": [
-      "Adventure",
-      "Bluffing",
-      "Deduction",
-      "Fantasy",
-      "Medieval",
-      "Mythology"
-    ],
-    "description": "Shadows over Camelot is a cooperative/semi-cooperative hand-management and deduction-based board game for 3&ndash;7 players.&#10;&#10;Each player represents a knight of the Round Table and they must collaborate to overcome a number of quests, ranging from defeating the Black Knight to the search for the Holy Grail. Completed quests place white swords on the Round Table; failed quests add black swords and/or siege engines around Camelot. The knights are trying to build a majority of white swords on the Table before Camelot falls.&#10;&#10;On each knight's turn, the knight takes a &quot;heroic action&quot;, such as moving to a new quest, building his hand, or playing cards to advance the forces of good. However, he must also choose one of three evil actions, each of which will bring Camelot closer to defeat.&#10;&#10;Moreover, one of the knights may be a traitor, pretending to be a loyal member of the party but secretly hindering his fellow knights in subtle ways, biding his time, waiting to strike at the worst possible moment...&#10;&#10;But enough words... don your cloak, climb astride your warhorse, and gallop into the Shadows to join us in Camelot!&#10;&#10;",
-    "designers": [
-      "Bruno Cathala",
-      "Serge Laget"
-    ],
-    "editionTitle": "",
-    "maxPlayers": 7,
-    "mechanics": [
-      "Communication Limits",
-      "Cooperative Game",
-      "Dice Rolling",
-      "Hand Management",
-      "Player Elimination",
-      "Semi-Cooperative Game",
-      "Set Collection",
-      "Team-Based Game",
-      "Traitor Game",
-      "Variable Player Powers"
-    ],
-    "minPlayers": 3,
-    "name": "Shadows over Camelot",
-    "playingTime": 80,
-    "publisher": "Days of Wonder",
-    "rating": 7.11453,
-    "subTitle": "",
-    "tags": [],
-    "weight": 2.5666,
-    "year": "2005",
-    "expansions": [
-      {
-        "bggId": 35704,
-        "name": "Shadows over Camelot: Merlin's Company",
-        "year": "2008"
-      }
-    ],
-    "image": "shadows_over_camelot.15062.full.png",
-    "thumbnail": "shadows_over_camelot.15062.thumbnail.png",
-    "thumbHeight": 250,
-    "thumbWidth": 250,
-    "blurhash": "UAEfZ#00W0$~-tMtOYof-=D$t5R.D$.8xuRn",
-    "sale": "$30 - good condition - box has a crushed and torn corner. components are in fantastic shape",
-    "slug": "shadows-over-camelot",
-    "new": false,
-    "forSale": true
-  },
-  {
     "bggId": 15512,
     "categories": [
       "Adventure",
@@ -1725,51 +1628,6 @@
     "forSale": false
   },
   {
-    "bggId": 25261,
-    "categories": [
-      "Fantasy",
-      "Fighting",
-      "Horror",
-      "Miniatures",
-      "Science Fiction",
-      "Spies/Secret Agents",
-      "Wargame",
-      "World War I"
-    ],
-    "description": "In 1949, this incessant war has been raging for 35 years and finally a secret archaeological dig has delivered to the Obscura Korps a long sought ancient relic. This artifact is thought to guard an ancient parcel of knowledge. The exact emplacement of one of the four dark cardinal corners of reality is on the verge of being revealed.&#10;&#10;A portal leading to hell, this un-sanctified zone is found buried within the secular crypt of a fortress situated in the heart of central Europe. The Reich's 13th Occult Division is there now. They are about to call upon the Cohorts of Chaos to help them force the world into eternal servitude.&#10;&#10;Parachuted behind enemy lines, a fistful of men and women are all the Union has left to thwart this peculiar menace. The Unions finest trained commandos armed with technology still in its experimental stages, the glory bound 42nd Alter-Marine Special Forces must now face the most terrible danger to face humanity in recorded history.&#10;&#10;Tannh&auml;user goes beyond the standard package of set of characters, proposing a vast array of customization, allowing players to develop a unique tactic and style of play for their hero. 10 charismatic personalties await them to be groomed for battle, using over 70 magnificently illustrated types of tokens that faithfully depict various weapons, medals, ranks, powers and equipment.&#10;&#10;Rules revised by:&#10;&#10;    Tannh&#195;&#164;user Revised Edition Rulebook&#10;&#10;&#10;",
-    "designers": [
-      "William Grosselin",
-      "Didier Poli"
-    ],
-    "editionTitle": "",
-    "maxPlayers": 10,
-    "mechanics": [
-      "Dice Rolling",
-      "Line of Sight",
-      "Point to Point Movement",
-      "Variable Player Powers"
-    ],
-    "minPlayers": 2,
-    "name": "Tannhäuser",
-    "playingTime": 120,
-    "publisher": "Fantasy Flight Games",
-    "rating": 6.4776,
-    "subTitle": "",
-    "tags": [],
-    "weight": 2.7309,
-    "year": "2007",
-    "expansions": [],
-    "image": "tannhauser.25261.full.png",
-    "thumbnail": "tannhauser.25261.thumbnail.png",
-    "thumbHeight": 250,
-    "thumbWidth": 247,
-    "blurhash": "U7BXWN0000~qMHxvIWj:o=%gICIU-:adIBn%",
-    "sale": "$30 - Great condition - box has some minor warping and edge damage",
-    "slug": "tannhauser",
-    "new": false,
-    "forSale": true
-  },
-  {
     "bggId": 25417,
     "categories": [
       "Fantasy",
@@ -1832,45 +1690,6 @@
     "blurhash": "UREfK4bFD*fP~Uj^M~s;-=ofawe;Roofxsj[",
     "sale": "$50 - great condition - some minor box corner wear - I really like this game. Tons of replay value. Needs a good home that will play it.",
     "slug": "battlelore",
-    "new": false,
-    "forSale": true
-  },
-  {
-    "bggId": 25613,
-    "categories": [
-      "Civilization",
-      "Economic"
-    ],
-    "description": "Through the Ages is a civilization building game. Each player attempts to build the best civilization through careful resource management, discovering new technologies, electing the right leaders, building wonders and maintaining a strong military. Weakness in any area can be exploited by your opponents. The game takes place throughout the ages beginning in the age of antiquity and ending in the modern age.&#10;&#10;One of the primary mechanisms in TTA is card drafting. Technologies, wonders, and leaders come into play and become easier to draft the longer they are in play. In order to use a technology you will need enough science to discover it, enough food to create a population to man it and enough resources (ore) to build the building to use it. While balancing the resources needed to advance your technology you also need to build a military. Military is built in the same way as civilian buildings. Players that have a weak military will be preyed upon by other players. There is no map in the game so you cannot lose territory, but players with higher military will steal resources, science, kill leaders, take population or culture. It is very difficult to win with a large military, but it is very easy to lose because of a weak one.&#10;&#10;Victory is achieved by the player whose nation has the most culture at the end of the modern age.&#10;&#10;",
-    "designers": [
-      "Vlaada Chvátil"
-    ],
-    "editionTitle": "",
-    "maxPlayers": 4,
-    "mechanics": [
-      "Action Points",
-      "Auction/Bidding",
-      "Auction: Dutch",
-      "Card Drafting",
-      "Hand Management"
-    ],
-    "minPlayers": 2,
-    "name": "Through the Ages",
-    "playingTime": 120,
-    "publisher": "Czech Board Games",
-    "rating": 7.9061,
-    "subTitle": "A Story of Civilization",
-    "tags": [],
-    "weight": 4.1751,
-    "year": "2006",
-    "expansions": [],
-    "image": "through_the_ages.25613.full.png",
-    "thumbnail": "through_the_ages.25613.thumbnail.png",
-    "thumbHeight": 250,
-    "thumbWidth": 343,
-    "blurhash": "UMF=8Z{aJDE+jco|RQjG0LJXsjt7NGnOozR-",
-    "sale": "$20 - great condition - minor box corner wear - Very good game. Only selling because I have the new edition.",
-    "slug": "through-the-ages",
     "new": false,
     "forSale": true
   },
@@ -12454,7 +12273,7 @@
     "blurhash": "UqIh$:nOx[of.mWVW=ayt7X9WBfRnOogodj[",
     "sale": "",
     "slug": "long-shot",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13795,6 +13614,52 @@
     "sale": "",
     "slug": "ghosts-of-christmas",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 334065,
+    "categories": [
+      "Card Game",
+      "Environmental",
+      "Puzzle"
+    ],
+    "description": "Verdant is a puzzly spatial card game for 1 to 5 players. You take on the role of a houseplant enthusiast trying to create the coziest interior space by collecting and arranging houseplants and other objects within your home. You must position your plants so that they are provided the most suitable light conditions and take care of them to create the most verdant collection.&#10;&#10;Each turn, you select an adjacent pair of a card and token, then use those items to build an ever-expanding tableau of cards that represents your home. You need to keep various objectives in mind as you attempt to increase plant verdancy by making spatial matches and using item tokens to take various nurture actions. You can also build your &quot;green thumb&quot; skills, which allows you to take additional actions to care for your plants and create the coziest space!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Molly Johnson",
+      "Robert Melvin",
+      "Aaron Mesburne",
+      "Kevin Russ",
+      "Shawn Stankewich"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Grid Coverage",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Verdant",
+    "playingTime": 45,
+    "publisher": "Flatout Games",
+    "rating": 7.31942,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2022",
+    "expansions": [],
+    "image": "verdant.334065.full.png",
+    "thumbnail": "verdant.334065.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UUDdH=t6NFS1??ofWBWBtQR-aiRkouV_kAay",
+    "sale": "",
+    "slug": "verdant",
+    "new": true,
     "forSale": false
   },
   {
