@@ -2699,45 +2699,6 @@
     "forSale": true
   },
   {
-    "bggId": 47185,
-    "categories": [
-      "Card Game",
-      "Collectible Components",
-      "Fantasy",
-      "Fighting",
-      "Mythology"
-    ],
-    "description": "Warhammer: Invasion The Card Game is a two-player card game of intense warfare, clever kingdom management, and epic questing. Players must carefully allocate their resources as they seek to build their kingdom, complete quests, and attack the enemy&rsquo;s capital.&#10;&#10;Set in the rich and diverse Warhammer universe, player's can choose different factions that each have their own style. Will you play the indestructible grudge-bearing Dwarfs, the shrewd and manoeuvrable Empire, the savage and destructive Orcs, or the entropic and mutating forces of Chaos. Or will you cleverly craft an alliance, playing the combined might of the forces of either Order or Destruction?&#10;&#10;Warhammer: Invasion follows a similar model to that of Magic: The Gathering. Players will construct a deck of cards to their liking that they will use to battle against each other by drawing cards and using resources to play them. Cards can consist of monsters or heroes, one-off spells or abilities, and permanent structures, devices, or equipment. However, there are many differences which make W:I very different from Magic. Two of the main differences are in the release model and the ordering of the gameplay area.&#10;&#10;Rather than a blind collecting model, W:I follows Fantasy Flight Games' LCG model. Each expansion or chapter pack is released with the full contents known to the purchaser. Rarity is not a factor.&#10;&#10;Rather than playing your cards into the same area and relying on card draws for resources or extra cards, each player has a 3-zoneCapitol that they must protect and those sides are generally where cards are played. If an opponent causes enough damage to a section of your capitol it is &quot;burned.&quot; If two sides of your capitol are burned you lose. Depending on which side of your capitol you put a card into it will be able to different things. Units and buildings in the Kingdom Zone contribute to your available resource pool while ones in your Quest Zone cotribute to your card draws. Cards played into the Battlefield are used to attack opponents. Also, units in a zone being attacked by an opponent can be used to defend that zone from damage. This adds a large amount of tactical decisions when it comes to playing your cards. You must carefully balance building your economy with the ability to attack and defend.&#10;&#10;Warhammer Invasion LCG Core Set contains:&#10;&#10;* 1 Rulebook&#10;    * 220 Cards representing 4 factions&#10;    * 4 Capital Boards&#10;    * 35 Resource Tokens&#10;    * 60 Damage Tokens&#10;    * 4 Burning Tokens&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Battle Pack Expansion Cycles:&#10;&#10;&#10;&#10;&#10;    &#10;        &#10;1) The Corruption Cycle:&#10;&#10;    The Skavenblight Threat&#10;    Path of the Zealot&#10;    Tooth and Claw&#10;    The Deathmaster's Dance&#10;    The Warpstone Chronicles&#10;    Arcane Fire&#10;&#10;&#10;2) The Enemy Cycle:&#10;&#10;    The Burning of Derricksburg&#10;    The Fall of Karak Grimaz&#10;    The Silent Forge&#10;    Redemption of a Mage&#10;    The Fourth Waystone&#10;    Bleeding Sun&#10;&#10;&#10;&#10;        &#10;3) The Morrslieb Cycle:&#10;&#10;    Omens of Ruin&#10;    The Chaos Moon&#10;    The Twin Tailed Comet&#10;    Signs in the Stars&#10;    The Eclipse of Hope&#10;    Fiery Dawn&#10;&#10;&#10;4) The Capital Cycle:&#10;&#10;    The Inevitable City&#10;    Realm of the Phoenix King&#10;    The Iron Rock&#10;    Karaz-a-Karak&#10;    City of Winter&#10;    The Imperial Throne&#10;&#10;&#10;&#10;        &#10;5) The Bloodquest Cycle:&#10;&#10;    Rising Dawn&#10;    Fragments of Power&#10;    The Accursed Dead&#10;    Vessel of the Winds&#10;    Portent of Doom&#10;    Shield of the Gods&#10;&#10;&#10;6) The Eternal War Cycle:&#10;&#10;    Days of Blood&#10;    Oaths of Vengeance&#10;    Battle for the Old World&#10;    Glory of Days Past&#10;    The Ruinous Hordes&#10;    Faith and Steel          &#10;&#10;&#10;&#10;        &#10;7) Deluxe Expansions:&#10;&#10;    Assault on Ulthuan&#10;    March of the Damned&#10;    Legends&#10;    Cataclysm&#10;    Hidden Kingdoms&#10;&#10;&#10;&#10;    &#10;&#10;&#10;",
-    "designers": [
-      "Eric M. Lang"
-    ],
-    "editionTitle": "",
-    "maxPlayers": 2,
-    "mechanics": [
-      "Hand Management",
-      "Variable Player Powers"
-    ],
-    "minPlayers": 2,
-    "name": "Warhammer",
-    "playingTime": 45,
-    "publisher": "Fantasy Flight Games",
-    "rating": 7.22184,
-    "subTitle": "Invasion",
-    "tags": [],
-    "weight": 2.733,
-    "year": "2009",
-    "expansions": [],
-    "image": "warhammer.47185.full.png",
-    "thumbnail": "warhammer.47185.thumbnail.png",
-    "thumbHeight": 250,
-    "thumbWidth": 250,
-    "blurhash": "UEHA%t-.9bE3NKRk-Tt6}?IWt6xZIoxsxZa#",
-    "sale": "$5 - okay condition - box is partly crushed. components are still in good shape. not aware of any missing pieces",
-    "slug": "warhammer",
-    "new": false,
-    "forSale": true
-  },
-  {
     "bggId": 50750,
     "categories": [
       "City Building",
@@ -6508,7 +6469,7 @@
     "blurhash": "UFQT1HxG_MOraKo0tRSN-;WWD%w_%gWVMxxF",
     "sale": "",
     "slug": "fog-of-love",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13694,6 +13655,47 @@
     "blurhash": "UUJk.eKQ?unNPEaKIrR-0M$|M|ba9Gj;t2%M",
     "sale": "",
     "slug": "armonia",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 345868,
+    "categories": [
+      "Political",
+      "Science Fiction"
+    ],
+    "description": "The universe is organized into many federations which trade, intrigue, develop&hellip; One of these federations, still not fully developed yet (5 member planets so far) wants a new delegation to join them, but you are not the only one having your sights set on the federation. The Federation challenges you to prove your worth for 5 years. During these 5 years, you must develop strategies, deploy tactics, take the best opportunities but also form the right alliances at the right time&hellip; In the end, only 1 delegation will be chosen: the one with the most prestige!&#10;&#10;Federation is an interactive Eurogame with innovative double-sided worker placement mechanic..&#10;&#10;Federation is played over 5 rounds.  Each round is divided into 2 main steps. The first step is player turns where each player plays an Ambasaador's pawn and send a spaceship on a special mission. Once all players have completed their turn, the Executive Phase starts, where players receive their income, fund Major Projects and pass laws.&#10;&#10;At the end of the 5th round, the game ends. The Player with the most prestige points wins the game and joins the Federation. In case of a tie, the victory is shared.&#10;&#10;Your individual board is composed of the 5 federated actions, 1 spy action, some senate actions and some special senate actions giving prestige points.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Dimitri Perrier",
+      "Matthieu Verdier"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Variable Set-up",
+      "Voting",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "minPlayers": 2,
+    "name": "Federation",
+    "playingTime": 120,
+    "publisher": "Explor8",
+    "rating": 8.25263,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.6538,
+    "year": "2022",
+    "expansions": [],
+    "image": "federation.345868.full.png",
+    "thumbnail": "federation.345868.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U8B|{eI_00==HXER.T==qZNzRp-Q$iR*kqxZ",
+    "sale": "",
+    "slug": "federation",
     "new": true,
     "forSale": false
   },
