@@ -10585,7 +10585,7 @@
     "blurhash": "UlPGvsod~qWWNFayxakC^ma#IUkB%NfRM|bF",
     "sale": "",
     "slug": "paint-the-roses",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12827,7 +12827,7 @@
     "blurhash": "UNP?zLT1~BD*,n.7waNK_2OFIU%L-pj]IoNH",
     "sale": "",
     "slug": "sound-box",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13507,6 +13507,42 @@
     "forSale": false
   },
   {
+    "bggId": 331228,
+    "categories": [
+      "Fantasy"
+    ],
+    "description": "Dragons compete in a variety of ways, but one of their favorite ways to compete is by playing trick-taking games.&#10;&#10;In Wicked &amp; Wise, players are either the dragons who are playing a trick-taking game OR they're a mouse allied with a particular dragon to help manipulate the trick-taking game. Over the course of three rounds, each team of mouse and dragon fight over tricks, treasures, and coins to see which team ends up on top!&#10;&#10;The game isn't all about winning tricks; it's about setting goals and utilizing magical treasures. If you can make enough of your goals or sabotage enough of the other team's goals, you'll have the most coins at the end of the game and be crowned king of the caves!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Fertessa Allyse"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Predictive Bid",
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "minPlayers": 2,
+    "name": "Wicked & Wise",
+    "playingTime": 60,
+    "publisher": "Weird Giraffe Games",
+    "rating": 7.21522,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2022",
+    "expansions": [],
+    "image": "wicked_wise.331228.full.png",
+    "thumbnail": "wicked_wise.331228.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 199,
+    "blurhash": "U7ECU[Iu0?s+nWi[N0sp00_N-QIuEr9Dnf$%",
+    "sale": "",
+    "slug": "wicked-and-wise",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 333981,
     "categories": [
       "Economic"
@@ -13620,6 +13656,41 @@
     "blurhash": "UUDdH=t6NFS1??ofWBWBtQR-aiRkouV_kAay",
     "sale": "",
     "slug": "verdant",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 338521,
+    "categories": [
+      "Party Game",
+      "Trivia"
+    ],
+    "description": "CollegeHumor is joining forces with Wiggles 3D to bring you the long-awaited home version of their popular game show, Um, Actually!&#10;&#10;Um, Actually presents you with statements about the fictional worlds of popular movies, TV shows and books. They all sound right... but listen carefully, because each one has a mistake hidden in it somewhere! It's up to you to figure out what's wrong and announce it before anyone else, starting, of course, with the magic phrase: &quot;Um, actually...&quot;&#10;&#10;But even if you know nothing about Sailor Moon or Star Wars, you'll find yourself making wild guesses, stumbling into answers, and having laughs along the way!&#10;&#10;Customize your game experience by building your game deck before you play. Select the categories that interest YOU the most: Fantasy, Cartoons, Comics, Sci-Fi, Games, AND MORE! Each game consists of 12 rounds of play: 9 questions, 2 shiny questions, and one real-life skills question.&#10;&#10;For the regular questions, feel free to butt in with an &quot;Um, Actually&quot; any time you know the answer. For the shiny and real-life skills questions, players will use the whiteboards and markers provided in the game to answer.&#10;&#10;The ultimate party game, Um, Actually's discussion prompts on each card encourage hilarious conversations, witty banter, and nerding-out over your favorite fandoms.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Peter Nesbitt",
+      "Connor Reid",
+      "Mike Trapp"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [],
+    "minPlayers": 3,
+    "name": "Um, Actually…",
+    "playingTime": 25,
+    "publisher": "Wiggles 3D",
+    "rating": 7.2375,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2022",
+    "expansions": [],
+    "image": "um_actually_.338521.full.png",
+    "thumbnail": "um_actually_.338521.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 192,
+    "blurhash": "UKI#0w-C9ct69YAesHRj9~~TaKkWIEv2K0rs",
+    "sale": "",
+    "slug": "um-actually",
     "new": true,
     "forSale": false
   },
