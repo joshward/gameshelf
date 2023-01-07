@@ -11543,6 +11543,44 @@
     "forSale": false
   },
   {
+    "bggId": 276086,
+    "categories": [
+      "City Building",
+      "Economic",
+      "Medieval"
+    ],
+    "description": "When you think of a Village builder you sometimes think of card tableaux or static hex tile grids.&#10;&#10;Think again!&#10;&#10;Lots of buildings, all with different shapes, all fitting together in interesting ways.&#10;&#10;One central Hamlet that the players contribute to, with its own self-forming demand and supply economy.&#10;&#10;Villagers walking through the Hamlet, delivering food to households and building resources to construction sites.&#10;&#10;And one day, the Church will finally be built, and the once-little Hamlet has become a fledgling town.&#10;&#10;Who will be the biggest benefactor when that happens?&#10;&#10; &#10; Including solo mode by Nick Shaw &amp; D&aacute;vid Turczi&#10;&#10;&mdash;description from the designer&#10;&#10;Hamlet is a medium weight competitive village builder where players are communally turning their Hamlet into a bustling little town. In this tile placing game, players construct buildings that everyone can use to create materials, refine resources, earn money and make important deliveries to construct the Hamlet&rsquo;s big landmark - the Church.&#10;&#10;The game features irregular shaped tiles that connect together without a grid to form a village that is completely different every time. The tile placement organically creates interconnecting paths that the villagers use to transport resources across the village. This leads players to construct boards where no two games will ever feel the same. Since the buildings are communal, this also creates a fluid economy, where players are always working hard to provide the village with the resources that are most needed.&#10;&#10;The game is designed by David Chircop (Petrichor, The Pursuit of Happiness). It plays between 1 to 4 players, with a solo mode currently being developed. It will be published by award winning studio Mighty Boards (Excavation Earth, Posthuman Saga).&#10;&#10;",
+    "designers": [
+      "David Chircop"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Network and Route Building",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Hamlet",
+    "playingTime": 90,
+    "publisher": "Mighty Boards",
+    "rating": 7.21565,
+    "subTitle": "The Village Building Game",
+    "tags": [],
+    "weight": 2.7812,
+    "year": "2022",
+    "expansions": [],
+    "image": "hamlet.276086.full.png",
+    "thumbnail": "hamlet.276086.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 251,
+    "blurhash": "UsGSojt6IAoJ%%kBRPay%hoLbGfkR.octRof",
+    "sale": "",
+    "slug": "hamlet",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 277700,
     "categories": [
       "Economic",
@@ -12112,7 +12150,7 @@
     "blurhash": "UpMjwJtRozRjuPRiShkDITNebHt7tQofWBnh",
     "sale": "",
     "slug": "gift-of-tulips",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13424,6 +13462,60 @@
     "blurhash": "UCAdo.nL9b*0%$MdIAbc9bR:xBnMMxbwoxng",
     "sale": "",
     "slug": "my-fathers-work",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 329228,
+    "categories": [
+      "Dice",
+      "Economic",
+      "Science Fiction",
+      "Territory Building"
+    ],
+    "description": "The human race has exhausted all the energy available on planet Earth. If they are to advance into an intergalactic civilisation they must harness the power of a solar system. They must build a dyson sphere.&#10;&#10;Solar Sphere is a dice placement/manipulation game with elements of engine building, resource management, and set collection. Set hundreds of years in the future in a time when competition will move mankind forward, but when collaboration is also sometimes necessary. In Solar Sphere, each player commands a mothership. Their primary task is to build a dyson sphere. But, with crew to hire and aliens attacking the sphere, there are many other ways to earn prestige and become the saviour of mankind.&#10;&#10;In this dice placement game, players can manipulate their dice using drones. However, players have a limited supply of drones, which are also used to upgrade dice placement spots or to support in fights against aliens. Players can always recycle used drones to get them back into their supply. Or, spend them for instant benefits.&#10;&#10;Players simultaneously start the turn by rolling their dice. Dice act as spacecraft and are sent, in payer order, to locations to gather resources, build the dyson sphere, build or recycle drones, upgrade worker spots, hire crew, and fight off aliens.&#10;&#10;Crew come with their own unique benefits that will help players in a variety of areas. Chain crew abilities together to build a good engine, and retire them for extra benefits. Making space for new crew members.&#10;&#10;As the game progresses, more aliens will arrive to defend a sun that they also need. Fight them off alone, or join forces with other players and share the rewards. However, if no one takes on the rebellious aliens, then you all lose points.&#10;&#10;Solar Sphere combines a combination of mechanisms with a powerful theme to bring players an immersive experience.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Ayden Lowther",
+      "Simon Milburn"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Dice Rolling",
+      "Hidden Victory Points",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Worker Placement with Dice Workers"
+    ],
+    "minPlayers": 1,
+    "name": "Solar Sphere",
+    "playingTime": 90,
+    "publisher": "Dranda Games",
+    "rating": 7.56728,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.7,
+    "year": "2022",
+    "expansions": [
+      {
+        "bggId": 355328,
+        "name": "Solar Sphere: Expansions",
+        "year": "2022"
+      },
+      {
+        "bggId": 373926,
+        "name": "Solar Sphere: Kickstarter Promos",
+        "year": "2022"
+      }
+    ],
+    "image": "solar_sphere.329228.full.png",
+    "thumbnail": "solar_sphere.329228.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 185,
+    "blurhash": "UGD+GRnh0mR*-PocE3kB0WR*}Pn~A2kE-Pj[",
+    "sale": "",
+    "slug": "solar-sphere",
     "new": true,
     "forSale": false
   },
