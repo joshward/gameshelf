@@ -3485,6 +3485,44 @@
     "forSale": false
   },
   {
+    "bggId": 121193,
+    "categories": [
+      "Card Game",
+      "Economic"
+    ],
+    "description": "The stakes are high in this high-energy, competitive, and cut-throat, set-collection card game from Grandpa Beck's Games!&#10;&#10;In Cover Your Assets, players compete to become the first millionaire by building towers of matching sets made from 10 different types of asset cards (things like jewels, piggy banks, classic autos, and more). Each new set that is created is stacked crosswise on top of the previous set, covering, and protecting, all the sets beneath it.&#10;&#10;The top set of assets in your pile is vulnerable, and can be stolen by other players if they show you a matching asset card, or wild (which are Silver and Gold cards) from their hand. You can defend your stack by showing the challenger a matching card from your own hand. If you do, they can counter with another matching card of their own. The battle rages back and forth until one player can't respond, or bows out.&#10;&#10;If you win, you keep the set, if the challenger wins, they take the set. Regardless of who wins, ALL the cards used in the challenge are added to the set, increasing its value and allure to other players.&#10;&#10;To keep the set from being stolen by another player, the best thing you can do is to Cover Your Assets, by creating a new pair from your hand, or by stealing a set from the top of another player's stack during your next turn.&#10;&#10;At the end of the round scores are tallied, the cards are shuffled, and a new round begins. The first player to reach $1,000,000 wins!&#10;&#10;Cover Your Assets is quick to learn, and simple to play, yet surprisingly addictive and strategic. The game plays with 4-6 players, and is a great for mixed groups as kids, teens, parents, and grandparents alike can learn the game in minutes and enjoy it for hours.&#10;&#10;The 2021 edition contains advanced rules, new cards, and rules for 2 &amp; 3 players!&#10;&#10;Be warned: This is not a good game for sore losers!&#10;&#10;",
+    "designers": [
+      "Brent Beck",
+      "Jeffrey Beck"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Take That"
+    ],
+    "minPlayers": 2,
+    "name": "Cover Your Assets",
+    "playingTime": 45,
+    "publisher": "Grandpa Beck's Games",
+    "rating": 6.36529,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.1351,
+    "year": "2018",
+    "expansions": [],
+    "image": "cover_your_assets.121193.full.png",
+    "thumbnail": "cover_your_assets.121193.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 173,
+    "blurhash": "U8Ln#zK#00s+qHw|pIOq04Kcy:oz1}R-$*w{",
+    "sale": "",
+    "slug": "cover-your-assets",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 122298,
     "categories": [
       "Card Game",
@@ -4509,6 +4547,44 @@
     "blurhash": "U6CsHoxZ3ZI=3Vs:v%NZrgsp+tR*S7NZKIs;",
     "slug": "captain-carcass",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 150145,
+    "categories": [
+      "Card Game",
+      "Nautical",
+      "Pirates"
+    ],
+    "description": "Skull King is a trick-taking game similar to Oh Hell!, Wizard, Euchre and Spades, with players needing to state how many tricks they think they'll win each round. A unique element of this game is that bidding takes place simultaneously, leading to rounds that are sometimes over, or under-bid. As players must win the exact number of tricks that they bid to earn points, winning too many tricks is just as bad as winning too few and this leads to intense competition where losing a trick can be as exciting as winning one.&#10;&#10;Skull King uses a 66-card deck that consists of five Escape cards, four suits numbered 1-13, five Pirate cards, 1 Tigress card, and 1 Skull King card. The game lasts ten rounds, and in each round, each player is dealt as many cards as the number of the round. All players simultaneously bid on the number of tricks they think they'll take by holding out a fist and on the count of three revealing a certain number of fingers (or possibly a closed fist for a bid of zero tricks).&#10;&#10;Standard rules apply for the playing of cards, with one player leading off a card and other players following suit, if possible, and playing something else if not; however, a player may always choose to play one of the special, unnumbered cards &mdash; and the power of those cards might let you win a trick that otherwise would have gotten away. In more detail, the black Jolly Roger suit trumps the other three suits, a Mermaid trumps all numbered cards, a Pirate trumps the Mermaid, and the Skull King trumps everything &mdash; except if he appears in the same trick with a Mermaid, in which case she captures him and wins instead. An Escape card loses to any other card, and the Tigress card serves as either a pirate or escape card as desired by the player. Whoever wins a trick leads in the next trick.&#10;&#10;If a player makes their bid exactly, they score 20 points per trick; if they collect more or fewer tricks, they lose 10 points per trick they are off. If a player makes a bid of zero tricks, they win points equal to ten times the current round number &mdash; but if they take even a single trick, they lose this many points instead. If a player catches pirates with the Skull King, or the King with a mermaid, they score bonus points. Whoever has the most points after ten rounds wins.&#10;&#10;",
+    "designers": [
+      "Brent Beck",
+      "Jeffrey Beck"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Predictive Bid",
+      "Trick-taking"
+    ],
+    "minPlayers": 2,
+    "name": "Skull King",
+    "playingTime": 30,
+    "publisher": "Grandpa Beck's Games",
+    "rating": 7.48374,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.6954,
+    "year": "2021",
+    "expansions": [],
+    "image": "skull_king.150145.full.png",
+    "thumbnail": "skull_king.150145.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 175,
+    "blurhash": "U7Fh#G:g4{-q$J9E5s-rGwI;00Otm@r;-+Or",
+    "sale": "",
+    "slug": "skull-king",
+    "new": true,
     "forSale": false
   },
   {
@@ -11051,6 +11127,68 @@
     "forSale": false
   },
   {
+    "bggId": 263895,
+    "categories": [
+      "Miniatures",
+      "Science Fiction"
+    ],
+    "description": "City of the Great Machine is a strategy game set in a grim universe of technocratic Victorian steampunk. The game features the conflict between the Great Machine, an artificial intelligence network, and an alliance of Heroes. The Great Machine is either controlled by a player or is automated, which completely changes the gameplay.&#10;&#10;The Great Machine controls the City built on mobile platforms in the sky. As the Great Machine, the player (or game AI) commands a force of perfected Servants and mechanical Guards. The Great Machine's ultimate goal is to suppress social unrest and complete its grandiose Master Plan to perfect the mankind.&#10;&#10;The other players are Heroes working together against the Great Machine to start a revolution. They encourage discontent in the City, enlist the support of famous citizens, and inflame riots. They also attempt to prevent the Great Machine from completing the Master Plan, as it leads to the enslavement of the mankind.&#10;&#10;Game features:&#10;&#10;&#10;     City of the Great Machine may be played as One-vs-Many (2-4 players) or cooperatively/solo (1-3 players).&#10;     Modular board allows for infinite City layouts. The players may reposition the City Districts during the game.&#10;     Hidden movement. Each round, the Heroes secretly choose the Districts they will go to.&#10;     Resource management. Both sides of the conflict have multiple actions to take and pay for them in Trust (Heroes) or Bonds (the Great Machine). The same is true for movement and other tasks.&#10;     Asymmetric gameplay and unique victory conditions. The Heroes need 3 Riots to win, while the Great Machine strives to complete the Master Plan.&#10;     Secrecy. The Heroes need to conceal their plans from the Great Machine, however, they may discuss their intentions only in the presence of the Great Machine.&#10;&#10;&#10;",
+    "designers": [
+      "German Tikhomirov"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Queue",
+      "Area Movement",
+      "Cooperative Game",
+      "Hidden Movement",
+      "Modular Board",
+      "Solo / Solitaire Game",
+      "Team-Based Game"
+    ],
+    "minPlayers": 1,
+    "name": "City of the Great Machine",
+    "playingTime": 90,
+    "publisher": "CrowD Games",
+    "rating": 7.88966,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.5,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 366259,
+        "name": "City of the Great Machine: Stand-In Heroes",
+        "year": "2023"
+      },
+      {
+        "bggId": 366261,
+        "name": "City of the Great Machine: The Confrontation",
+        "year": "2023"
+      },
+      {
+        "bggId": 366258,
+        "name": "City of the Great Machine: The Escalation",
+        "year": "2023"
+      },
+      {
+        "bggId": 366262,
+        "name": "City of the Great Machine: The Escalation – Kickstarter Exclusives pack",
+        "year": "2023"
+      }
+    ],
+    "image": "city_of_the_great_machine.263895.full.png",
+    "thumbnail": "city_of_the_great_machine.263895.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U9Dbs9Iq0f%1~noLIpxtE*xsxZIq0Noe-nNH",
+    "sale": "",
+    "slug": "city-of-the-great-machine",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 264220,
     "categories": [
       "Adventure",
@@ -12123,6 +12261,44 @@
     "forSale": false
   },
   {
+    "bggId": 286559,
+    "categories": [
+      "Ancient",
+      "Card Game",
+      "Civilization"
+    ],
+    "description": "Overview:&#10;&#10;Your goal in Antiquity Quest is to have the highest score a the end of the game. You can choose to play either a single round for a quick game (20-30 min) or a complete game in which you'll tally scores over three rounds (60-90 min)&#10;&#10;Each player is dealt two sets of 10 cards at the start of a round. You'll pick up one set, this is called a hand. The second set, called a cache, remains face down on the table until you've played all of the cards from your hand.&#10;&#10;You'll take turns drawing, playing, and discarding cards as you work on creating your own collections and sabotaging the collections that belong to other players.&#10;&#10;Collections consist of Antiquity and Treasure cards. The six suits of Antiquity cards represent six ancient civilizations. Treasures are their own suit and are more rare and valuable. The more challenging a collection is to create. the more it's worth.&#10;&#10;A round ends once a player has completed at least five collections and played through all of the cards in their hand and cache. That player earns a bonus for going out first. Every other player takes on last turn and then scores are tallied.&#10;&#10;Your score at the end of each round is the combination of bonus points from going out first, points for completing collections ,and points for the cards you play. The player with the highest score at the end of the game wins.&#10;&#10;Here's what to expect in this bold and exciting set collection game:&#10;&#10;     You'll strive to create collections of Antiquities and Treasures.&#10;     The more challenging a collection is to create, the more it's worth.&#10;     Beware! Your competitors can, and will seek to sabotage your efforts.&#10;     Careful planning, brilliant strategy, and a stroke of luck will bring you success!&#10;&#10;&#10;",
+    "designers": [
+      "Jessica Beck",
+      "Harrison Beck"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Hand Management",
+      "Set Collection"
+    ],
+    "minPlayers": 2,
+    "name": "Antiquity Quest",
+    "playingTime": 90,
+    "publisher": "Grandpa Beck's Games",
+    "rating": 6.7035,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.3333,
+    "year": "2021",
+    "expansions": [],
+    "image": "antiquity_quest.286559.full.png",
+    "thumbnail": "antiquity_quest.286559.thumbnail.png",
+    "thumbHeight": 248,
+    "thumbWidth": 350,
+    "blurhash": "U8F4[%=Z000~14SO}r-903oM=s$%aIX8NLNb",
+    "sale": "",
+    "slug": "antiquity-quest",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 286788,
     "categories": [],
     "description": "In Gift of Tulips, tulip enthusiasts explore Amsterdam's tulip festival to build colorful bouquets, give tulips to others (scoring points in the process), and manipulate the value of the market.&#10;&#10;The deck includes tulips of four colors, with values 2-4. Lay out four festival cards based on the player count, with these cards showing the number of points scored for giving away tulips, keeping tulips, and having a majority of certain colors at the end of the game. Draw two cards of different colors, and place them under the festival cards in first and second place based on their value. Deal two cards to each player; keep one card face up in front of you and add the other face down to the &quot;secret festival&quot; pile.&#10;&#10;On a turn, draw a card from the deck and KEEP/GIVE/ADD it, then draw a second card and take one of the actions you didn't just take. The actions:&#10;&#10;&#10;    KEEP: Place the card face up in front of you, scoring points for it if that color is currently ranked third or fourth in the festival.&#10;    GIVE: Give the card to another player, who places it face up in front of themselves; you score &quot;giving&quot; points based on the current ranking of that color in the festival, plus points equal to the value of that tulip.&#10;    ADD: Place the card face down in the secret festival or add it face up to the festival, altering the ranking of colors if needed so that the color with the highest sum is first, etc.&#10;&#10;&#10;When the deck runs out, shuffle the cards in the secret festival, then draw five at random and add them face up to the festival, adjusting the ranking as needed. (If fewer than five cards are in the secret festival, add all of these cards to the festival.) For the three highest ranked colors in the festival, whoever has the most and secondmost cards in these colors scores points as listed on the festival cards; in games with five and six players, the player with the thirdmost cards of a color also scores points. In case of a tie for card count, the tied player with the higher value of a color wins that tie. Whoever has the most points wins.&#10;&#10;",
@@ -12869,7 +13045,7 @@
     "blurhash": "UBDK3@rYUaMb?vyCyBJ~GFbwu5J9$kogOFNF",
     "sale": "",
     "slug": "forgotten-waters",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13428,7 +13604,7 @@
     "blurhash": "U=L|x{jZj[WC_NbHj[j[xaofa}j[M{jZs:ay",
     "sale": "",
     "slug": "stroganov",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13471,7 +13647,7 @@
     "blurhash": "U8O|LY-=-;WBw[t7kXR*00j[IUaz?^ogMxxu",
     "sale": "",
     "slug": "hippocrates",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
