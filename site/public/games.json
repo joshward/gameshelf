@@ -3106,7 +3106,7 @@
     "blurhash": "U88gy;oz00aJ%Nf6M_f+01ae~UkDRNfkbxae",
     "sale": "",
     "slug": "pergamon",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13183,6 +13183,48 @@
     "forSale": false
   },
   {
+    "bggId": 307561,
+    "categories": [],
+    "description": "Once upon a time in the Far East, deep in the mountains of a mythical land, there was a world-renowned Dim Sum restaurant by the name of Steam Up.&#10;&#10;It was the first restaurant of its kind to achieve the three Gold Ingot status. According to the Gold Ingot Guide, Steam Up was best known for its top 5 most popular Dim Sum: juicy shrimp dumpling, tender meat dumpling, soft and fluffy BBQ meat bun, flavorful sticky rice, and exotic phoenix claw. These heavenly tastes drew food enthusiasts and gourmets from all over the world!&#10;&#10;Come join us on a feast of Dim Sum. You are invited!&#10;&#10;&#10;Steam Up: A Feast of Dim Sum is a competitive 2-5 player light-medium weight Dim Sum set collection and action management game offering a delicious cultural experience.&#10;&#10;At the beginning of the game, steamers, filled with different types of Dim Sum, are stacked and placed on a Turntable. Each player takes turns performing 2 different actions each round. Actions include gaining and spending food tokens to purchase Dim Sum in Steamers within their Feast Zone. Players may also play Fortune cards to benefit themselves or affect their opponents. Starting the 2nd round, a Fate card is revealed each round to trigger an event that may affect all players.&#10;&#10;The game ends when a specific number of Steamers is purchased or the Fate deck is emptied. Final scoring is then calculated. The player with the most Hearty Points wins and leaves the table with the fullest stomach!&#10;&#10;",
+    "designers": [
+      "Pauline Kong",
+      "Haymen Lee",
+      "Marie Wong"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Set Collection",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "minPlayers": 2,
+    "name": "Steam Up",
+    "playingTime": 60,
+    "publisher": "Hot Banana Games",
+    "rating": 7.30117,
+    "subTitle": "A Feast of Dim Sum",
+    "tags": [],
+    "weight": 1.7778,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 381875,
+        "name": "Steam Up: Fate & Fortune Cards",
+        "year": "0"
+      }
+    ],
+    "image": "steam_up.307561.full.png",
+    "thumbnail": "steam_up.307561.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UbQ9izRjt.V[o~ogxas:.TV@n3WVVrofg3WB",
+    "sale": "",
+    "slug": "steam-up",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 309105,
     "categories": [
       "Abstract Strategy"
@@ -13214,7 +13256,7 @@
     "blurhash": "UMHV*Rt64:RkyZjYW9R+00WD$%aeElWCspsn",
     "sale": "",
     "slug": "sagani",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14038,7 +14080,7 @@
     "blurhash": "UUJk.eKQ?unNPEaKIrR-0M$|M|ba9Gj;t2%M",
     "sale": "",
     "slug": "armonia",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14120,6 +14162,45 @@
     "sale": "",
     "slug": "dandelions",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 348325,
+    "categories": [
+      "Ancient",
+      "City Building"
+    ],
+    "description": "In Caral all players take on the role of master builders, creating pyramids in a rhythmic cycle of years while influencing the duration of each cycle. The unique progress rhythm allows players to put pressure on each other. Will you master the well-interlocked mechanics in order to win?&#10;&#10;During the game we find ourselves over 4500 years in the past, competing against each other and experiencing ancient Caral in its heyday.&#10;&#10;Caral will surprise you with a fresh gaming experience! What starts out very simple, develops surprisingly complex. For example, Alpacas and resource cards allow you more flexibility on the spiral path. But sacrificing valuable cards in the annual ceremony can give you great advantages over fellow players. It's all a matter of tactics!&#10;&#10;Make Caral your very own game with different modules that allow you to increase game complexity as desired (chronicle style)&mdash;turning Caral into a game you can enjoy with your family and with experienced gamers alike.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Auction: Once Around",
+      "Constrained Bidding",
+      "Movement Points",
+      "Race",
+      "Turn Order: Stat-Based"
+    ],
+    "minPlayers": 2,
+    "name": "Caral",
+    "playingTime": 120,
+    "publisher": "Funtails",
+    "rating": 6.95784,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.5,
+    "year": "2022",
+    "expansions": [],
+    "image": "caral.348325.full.png",
+    "thumbnail": "caral.348325.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 255,
+    "blurhash": "UGIX,2n-u5a$24tPN3oy4TRl9HWC:Nj=Vray",
+    "sale": "",
+    "slug": "caral",
+    "new": true,
     "forSale": false
   },
   {

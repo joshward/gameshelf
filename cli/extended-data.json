@@ -1381,6 +1381,11 @@
     "addedDate": 1625814000000
   },
   {
+    "bggId": 307561,
+    "addedDate": 1679122800000,
+    "versionId": 653340
+  },
+  {
     "bggId": 309105,
     "addedDate": 1664348400000,
     "versionId": 517728
@@ -1484,6 +1489,10 @@
   {
     "bggId": 347883,
     "addedDate": 0
+  },
+  {
+    "bggId": 348325,
+    "addedDate": 1678521600000
   },
   {
     "bggId": 356033,
