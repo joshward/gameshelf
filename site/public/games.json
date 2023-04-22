@@ -7340,7 +7340,7 @@
     "blurhash": "UGL{G7?v}Hvguk9FIosDY,$%OqOX?I%#tlo}",
     "sale": "",
     "slug": "9-lives",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -8076,7 +8076,7 @@
     "blurhash": "UnN9,aem-.kX~Ubve:sl-:o3M|WBKRawNbS5",
     "sale": "",
     "slug": "habitats",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13124,7 +13124,7 @@
     "blurhash": "UIGTHVe.0NjYu6s:R4R*b|WUHqbbdoWXbwja",
     "sale": "",
     "slug": "rolling-realms",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13897,6 +13897,59 @@
     "forSale": false
   },
   {
+    "bggId": 331820,
+    "categories": [
+      "City Building",
+      "Dice",
+      "Industry / Manufacturing"
+    ],
+    "description": "Roll Your Meeples, Build the City.&#10;&#10;It's the 1920's and your career as a general contractor is about to take off. You have just started your business in a rapidly expanding city.&#10;&#10;In Rolling Heights, players roll workers in the form of meeples. Standing meeples work hard that day and provide special actions and building materials, while face-down meeples provide nothing. You can always push your luck for better rolls, but you might lose valuable materials you need to construct new buildings. Completing buildings gains you prestige, as well as new workers to help you construct even larger buildings, including skyscrapers.&#10;&#10;Will you construct the next famous landmark?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "John D. Clair"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Deck, Bag, and Pool Building",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Push Your Luck",
+      "Random Production",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Rolling Heights",
+    "playingTime": 60,
+    "publisher": "Alderac Entertainment Group",
+    "rating": 7.86559,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.4737,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 357801,
+        "name": "Rolling Heights: Bonus Building Tiles",
+        "year": "2023"
+      },
+      {
+        "bggId": 357800,
+        "name": "Rolling Heights: Bonus Mini Game",
+        "year": "2023"
+      }
+    ],
+    "image": "rolling_heights.331820.full.png",
+    "thumbnail": "rolling_heights.331820.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UcJH:TIUn4E2?wM{jFWB?HV@o#n$b_s.ofn$",
+    "sale": "",
+    "slug": "rolling-heights",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 333981,
     "categories": [
       "Economic"
@@ -14010,6 +14063,46 @@
     "blurhash": "UUDdH=t6NFS1??ofWBWBtQR-aiRkouV_kAay",
     "sale": "",
     "slug": "verdant",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 334590,
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Fantasy",
+      "Print & Play"
+    ],
+    "description": "For Northwood! Is a solo hand management and precision trick-taking game. Your objective is to peacefully unify the kingdom of Northwood through conversations with their rulers.  Over eight rounds, you must visit eight animal fiefs and engage their rulers in dialogue (tricks). Each ruler's suit represents the trump for that fief. Each ruler also requires you to win an exact number of tricks to join your alliance, so the game gets harder as your options dwindle.&#10;&#10;You start with four allies, each with an ability that you can use once per visit. These abilities can make you draw, discard, or otherwise manipulate your hand to help you hit the target score. Once you've won a ruler over, you can pull them in to substitute temporarily for one of your allies, if you need a more specific set of abilities to tackle the harder fiefs.&#10;&#10;With multiple difficulty levels, 24 rulers (12 used per game), and a 16-scenario challenge booklet, For Northwood! offers hours of gameplay with a new puzzle every time!&#10;&#10;Winner of *Best Overall Game* and *Jury Prize* in the 2021 BGG 54-card contest.&#10;Also winner of *Best Art*, *Best Solo Game*, and *Best New Designer*!&#10;&#10;-description from designer&#10;&#10;",
+    "designers": [
+      "Wilhelm Su"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 1,
+    "mechanics": [
+      "Hand Management",
+      "Predictive Bid",
+      "Solo / Solitaire Game",
+      "Trick-taking"
+    ],
+    "minPlayers": 1,
+    "name": "For Northwood! A Solo Trick-Taking Game",
+    "playingTime": 30,
+    "publisher": "Side Room Games",
+    "rating": 8.00603,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.9167,
+    "year": "2022",
+    "expansions": [],
+    "image": "for_northwood_a_solo_trick_taking_game.334590.full.png",
+    "thumbnail": "for_northwood_a_solo_trick_taking_game.334590.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 258,
+    "blurhash": "UpQk+.IorpV[.TxGwbj@JBS#kVj[#*oMWWW.",
+    "sale": "",
+    "slug": "for-northwood-a-solo-trick-taking-game",
     "new": true,
     "forSale": false
   },
@@ -14276,7 +14369,7 @@
     "blurhash": "UbOT^Hj[=wNcqEWWozbI?GWBo}xZTdjtxaX7",
     "sale": "",
     "slug": "basketboss",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14316,6 +14409,105 @@
     "blurhash": "U4EMm?Hq0;+XL[-=4,Sk00x^01OU_M9DtT8w",
     "sale": "",
     "slug": "smitten",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 369898,
+    "categories": [],
+    "description": "Create a lush garden of beautiful blooms in order to attract helpful pollinators to their favorite flowers in this abstract tile laying game.&#10;&#10;Plant Flowers - Place a garden card next to at least one pollinator token&#10;&#10;Attract Pollinators - Form a line with a garden card in another player's color, draw a pollinator token and place it next to the newly created line!&#10;&#10;Pollinate Flowers - When a pollinator token is encircled by flowers, it's attracted to that player's garden! Add up the values on flower cards that match the pollinator.&#10;&#10;Become the Best Garden - When any type of scoring token runs out, all pollinator tokens have been placed, or all players have run out of garden cards, the game ends and it's time to score.&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Pollen",
+    "playingTime": 45,
+    "publisher": "Allplay",
+    "rating": 7.53846,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.3333,
+    "year": "2023",
+    "expansions": [],
+    "image": "pollen.369898.full.png",
+    "thumbnail": "pollen.369898.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UAFOMkY3=MIoBUO?5rM#}qoZE30%-YxoM,;4",
+    "sale": "",
+    "slug": "pollen",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 369899,
+    "categories": [],
+    "description": "Come one, come all to Big Top! Hire the wildest and most wonderful acts to attract crowds of delighted spectators.&#10;&#10;In this fast-paced auction game you&rsquo;ll bid on show-stopping acts to draw crowds to your circus, but beware - each winning bid will make your competition that much richer.&#10;&#10;But that&rsquo;s not all! Even the attractions you&rsquo;ve already won will affect bids in future auctions. Each attraction card lists a number - bid that amount in any auction to place a coin on that card and gain the points! That means you don't need to win an auction - or even WANT to win it - to benefit from bidding!&#10;&#10;In this competitive world of circuses, you&rsquo;ll have to keep a close eye not just on your winnings, but on all of your opponents' bids.&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Taiki Shinzawa (新澤 大樹)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [],
+    "minPlayers": 3,
+    "name": "Big Top",
+    "playingTime": 40,
+    "publisher": "Allplay",
+    "rating": 6.92727,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2023",
+    "expansions": [],
+    "image": "big_top.369899.full.png",
+    "thumbnail": "big_top.369899.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UGJ?.]Iq~BS$?akCM|of^*tRM{s8wuR-WEV@",
+    "sale": "",
+    "slug": "big-top",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 370193,
+    "categories": [],
+    "description": "In this beautifully illustrated roll and write, you'll take on the role of a young woman going on a once-in-a-lifetime journey around the world. Travel to incredible landmarks all over the globe - from the Pyramid of Giza to the Matterhorn. Follow the young artist&rsquo;s journey through her postcards, sent back home to her family to recount the details of her trip.&#10;&#10;Try to be the first player to fill in enough boxes to make it to the top of the landmark in this roll-and-write.&#10;&#10;All players will pull from the same pool of numbers rolled on the active dice, using the values to make their way up from the bottom to the top of each landmark. Numbers must increase as you climb, so combine the values carefully!&#10;&#10;Each location card will bring a series of unique rules, mixing up play and adding to the challenge! At the end of each round, use the action die to change the dice pool and continue your race to the top!&#10;&#10;Featuring many of the classic Roll to the Top landmarks, this new edition provides new-and-improved game mechanics plus all-new illustrations by artist Horia Tundrea.&#10;&#10;",
+    "designers": [
+      "Peter Joustra",
+      "Corné van Moorsel"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [],
+    "minPlayers": 1,
+    "name": "Roll to the Top",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 6.42837,
+    "subTitle": "Journeys",
+    "tags": [],
+    "weight": 1,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 372775,
+        "name": "Roll to the Top: Adventures",
+        "year": "2022"
+      }
+    ],
+    "image": "roll_to_the_top.370193.full.png",
+    "thumbnail": "roll_to_the_top.370193.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UeP6~qWV_4sm%2oeR*Rj_3s:M_W=ITWBoMoe",
+    "sale": "",
+    "slug": "roll-to-the-top",
     "new": true,
     "forSale": false
   }

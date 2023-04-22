@@ -1,5 +1,5 @@
 {
-  "count": 337,
+  "count": 342,
   "sale": true,
   "games": [
     {
@@ -35,7 +35,7 @@
       "name": "9 Lives",
       "subTitle": "",
       "editionTitle": "",
-      "new": true,
+      "new": false,
       "tags": [],
       "slug": "9-lives",
       "blurhash": "UGL{G7?v}Hvguk9FIosDY,$%OqOX?I%#tlo}",
