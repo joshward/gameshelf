@@ -14373,6 +14373,52 @@
     "forSale": false
   },
   {
+    "bggId": 359764,
+    "categories": [
+      "City Building",
+      "Puzzle"
+    ],
+    "description": "Welcome, city planners! Design the best city block using patterns from the new and exciting &quot;Cube Shaker&quot;. You'll place a mix of tiles to help grow the thriving city. The best design wins the game!&#10;&#10;Shake That City is a family puzzly tile-laying game for 1-4 players, that plays under an hour! The game is played over a series of rounds. The active player shakes the Cube Shaker and presses its slider to reveal a 3x3 pattern, based on which they need to place the corresponding building tiles of a single color of their choice on their board. The building tiles correspond to roads, factories, shops, parks and of course, homes. The other players then pick any building color other than the one the active player picked, then place matching colored tiles in the matching pattern on their board. Players earn points for tile-placement combinations and for the completed bonus point tiles around the edge of their board.&#10;&#10;&bull; Roads wants to connect to an edge of the board.&#10;&bull; Factories wants to be next to other factories and roads.&#10;&bull; Homes want to be placed in clusters that are as small as possible &mdash; the smallest being a single tile &mdash; so long as they're not next to a factory.&#10;&bull; Parks wants to be next to homes and factories.&#10;&bull; Shops score increasingly more the closer they are placed to the city center, but if they're not placed on an edge, they need to be adjacent to a road connected to the board's edge in order to score. Without road access, you'll have no products to sell!&#10;&#10;At game's end, players earn points for tile-placement combinations and for the completed bonus point tiles around the edge of their board.&#10;&#10;",
+    "designers": [
+      "Mads Fløe",
+      "Kåre Torndahl Kjær"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Bingo",
+      "Grid Coverage",
+      "Pattern Building",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Shake That City",
+    "playingTime": 40,
+    "publisher": "Alderac Entertainment Group",
+    "rating": 7.45136,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.8333,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 391694,
+        "name": "Shake That City: Wild Nights Micro-Expansion",
+        "year": "2023"
+      }
+    ],
+    "image": "shake_that_city.359764.full.png",
+    "thumbnail": "shake_that_city.359764.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UfJ[eW$xjKaK~Enig3t6x]a$S%bvx^xtR%aw",
+    "sale": "",
+    "slug": "shake-that-city",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 369634,
     "categories": [
       "Card Game",
