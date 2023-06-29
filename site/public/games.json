@@ -4995,6 +4995,50 @@
     "forSale": false
   },
   {
+    "bggId": 156546,
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Mature / Adult",
+      "Party Game",
+      "Print & Play"
+    ],
+    "description": "Monikers is a party game based on the public domain game Celebrities, where players take turns attempting to get their teammates to guess names by describing or imitating well-known people.&#10;&#10;In the first round, clue givers can say anything they want, except for the name itself. For the second round, clue givers can only say one word. And in the final round, clue givers can&rsquo;t say anything at all: they can only use gestures and charades.&#10;&#10;",
+    "designers": [
+      "Alex Hague",
+      "Justin Vickers"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 16,
+    "mechanics": [
+      "Acting",
+      "Communication Limits",
+      "Open Drafting",
+      "Role Playing",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "minPlayers": 4,
+    "name": "Monikers",
+    "playingTime": 60,
+    "publisher": "CMYK",
+    "rating": 7.78247,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.0845,
+    "year": "2015",
+    "expansions": [],
+    "image": "monikers.156546.full.png",
+    "thumbnail": "monikers.156546.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 168,
+    "blurhash": "UFI}kj-CXUR6O@E2r=xuUHPAE1bHT2-p-St7",
+    "sale": "",
+    "slug": "monikers",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 157403,
     "categories": [
       "Nautical",
@@ -10176,7 +10220,7 @@
     "blurhash": "UKNR$0xZ}Yr?YQRjEgkVGuX8VsjGq]smxaNH",
     "sale": "",
     "slug": "railroad-rivals",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13857,7 +13901,7 @@
     "blurhash": "UPIh7#IUE2IV~pIpawxCE,axt5V[%xRjV]WE",
     "sale": "",
     "slug": "mosaic",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14063,7 +14107,7 @@
     "blurhash": "UUDdH=t6NFS1??ofWBWBtQR-aiRkouV_kAay",
     "sale": "",
     "slug": "verdant",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14214,7 +14258,7 @@
     "blurhash": "U8B|{eI_00==HXER.T==qZNzRp-Q$iR*kqxZ",
     "sale": "",
     "slug": "federation",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14293,6 +14337,47 @@
     "blurhash": "UGIX,2n-u5a$24tPN3oy4TRl9HWC:Nj=Vray",
     "sale": "",
     "slug": "caral",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 355224,
+    "categories": [
+      "American West",
+      "Card Game",
+      "Trains"
+    ],
+    "description": "Welcome to the Isle of Trains, where you are the conductor, and constructor of one of the island&rsquo;s locomotives. You&rsquo;ll build trains and load a range of goods to complete contracts across the island, and also deliver passengers to their destinations.&#10;&#10;Isle of Trains: All Aboard is a card-based engine building game where cards have multiple uses: You can use cards as locomotives, freight cars, passenger cars, or buildings to improve the effectiveness and abilities of your train. Cards can also be spent to pay for the construction of your new train cars and buildings, or you can use your cards as cargo and load them onto available freight cars.&#10;&#10;You will also have a range of passengers who want to be taken to different destinations. You will draw these passengers at random from a bag when you build passenger cars and certain locomotives. You can then load passengers into any available passenger car. When passengers are delivered to their destinations, they will give you an instant powerful bonus!&#10;&#10;Loading cargo and passengers into opponents&rsquo; trains is important on the Isle of Trains as it&rsquo;ll also gain you extra bonuses that turn! But this will help the other train conductors get a little closer to completing their goals, by giving them the cargo or passengers, which they can then use for deliveries and big end game points!&#10;&#10;The game ends when a certain number of contracts have been completed, or a certain number of passengers are delivered. You win by scoring the most points, which you earn by building up your train, completing contracts, and delivering passengers.&#10;&#10;Isle of Trains: All Aboard is all about balancing the need to upgrade your train, with loading cargo or passengers onto opponent&rsquo;s train for big bonuses, and delivering cargo and passengers to their destinations before anyone else. Build your engine effectively enough to be remembered as the greatest train conductor on the Isle of Trains!&#10;&#10;",
+    "designers": [
+      "Seth Jaffee",
+      "Dan Keltner"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Contracts",
+      "Hand Management",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Isle of Trains",
+    "playingTime": 45,
+    "publisher": "Dranda Games",
+    "rating": 7.22222,
+    "subTitle": "All Aboard",
+    "tags": [],
+    "weight": 2.1429,
+    "year": "2023",
+    "expansions": [],
+    "image": "isle_of_trains.355224.full.png",
+    "thumbnail": "isle_of_trains.355224.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 339,
+    "blurhash": "UiJRBXM|xuR-.TkBbvkCp0s.aiWBafV@ofae",
+    "sale": "",
+    "slug": "isle-of-trains",
     "new": true,
     "forSale": false
   },
@@ -14554,6 +14639,50 @@
     "blurhash": "UeP6~qWV_4sm%2oeR*Rj_3s:M_W=ITWBoMoe",
     "sale": "",
     "slug": "roll-to-the-top",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 372559,
+    "categories": [
+      "Animals",
+      "Dice"
+    ],
+    "description": "Spots is a casual push your luck game from CMYK. It was designed by Jon Perry, along with Alex Hague and Justin Vickers, and features dozens of adorable dog illustrations from the artist John Bond.&#10;&#10;On your turn in Spots, you'll be rolling and placing dice onto dog cards. Dice you can't place get buried in your yard. Bury too many dice and you bust. Complete 6 dogs and you win!&#10;&#10;-description from designer&#10;&#10;",
+    "designers": [
+      "Alex Hague",
+      "Jon Perry",
+      "Justin Vickers"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Drafting",
+      "Contracts",
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Re-rolling and Locking",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Spots",
+    "playingTime": 30,
+    "publisher": "CMYK",
+    "rating": 6.98412,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.4348,
+    "year": "2022",
+    "expansions": [],
+    "image": "spots.372559.full.png",
+    "thumbnail": "spots.372559.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 180,
+    "blurhash": "U6Eo_f-:00R*?bR+M{t80Kfh~oad?HWC4oWU",
+    "sale": "",
+    "slug": "spots",
     "new": true,
     "forSale": false
   }
