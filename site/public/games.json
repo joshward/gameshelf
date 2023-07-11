@@ -3110,6 +3110,45 @@
     "forSale": false
   },
   {
+    "bggId": 92415,
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Party Game"
+    ],
+    "description": "Edited description from Bruno Faidutti's write-up of the game in his Ideal Game Library:&#10;&#10;Skull &amp; Roses is the quintessence of bluffing, a game in which everything is played in the players' heads. Each player plays a face-down card, then each player in turn adds one more card &ndash; until someone feels safe enough to state that he can turn a number of cards face up and get only roses. Other players can then overbid him, saying they can turn even more cards face up. The highest bidder must then turn that number of cards face up, starting with his own. If he shows only roses, he wins; if he reveals a skull, he loses, placing one of his cards out of play. Two successful challenges wins the game. Skull &amp; Roses is not a game of luck; it's a game of poker face and meeting eyes.&#10;&#10;Skull &amp; Roses Red features the same gameplay as Skull &amp; Roses, with the only change being alternate rules that allow each player to control two biker gangs. Both Skull &amp; Roses Red and Skull are playable on their own, with each game containing six different biker gangs. Each Skull or Skull &amp; Roses set can be combined with another to allow for games with more than six players.&#10;&#10;",
+    "designers": [
+      "Hervé Marly"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Auction/Bidding",
+      "Bids As Wagers",
+      "Hand Management",
+      "Player Elimination"
+    ],
+    "minPlayers": 3,
+    "name": "Skull",
+    "playingTime": 45,
+    "publisher": "Space Cowboys",
+    "rating": 7.19523,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.1179,
+    "year": "2023",
+    "expansions": [],
+    "image": "skull.92415.full.png",
+    "thumbnail": "skull.92415.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 199,
+    "blurhash": "UIMO:R+0L$p]}wSwoaXm00xuX+RQ%LnQa3n4",
+    "sale": "",
+    "slug": "skull",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 92852,
     "categories": [
       "Humor",
@@ -9293,6 +9332,46 @@
     "forSale": false
   },
   {
+    "bggId": 225694,
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Party Game",
+      "Spies/Secret Agents",
+      "Word Game"
+    ],
+    "description": "Players compete in two teams in Decrypto, with each trying to correctly interpret the coded messages presented to them by their teammates while cracking the codes they intercept from the opposing team.&#10;&#10;In more detail, each team has their own screen, and in this screen they tuck four cards in pockets numbered 1-4, letting everyone on the same team see the words on these cards while hiding the words from the opposing team. In the first round, each team does the following: One team member takes a code card that shows three of the digits 1-4 in some order, e.g., 4-2-1. They then give a coded message that their teammates must use to guess this code. For example, if the team's four words are &quot;pig&quot;, &quot;candy&quot;, &quot;tent&quot;, and &quot;son&quot;, then I might say &quot;Sam-striped-pink&quot; and hope that my teammates can correctly map those words to 4-2-1. If they guess correctly, great; if not, we receive a black mark of failure.&#10;&#10;Starting in the second round, a member of each team must again give a clue about their words to match a numbered code. If I get 2-4-3, I might now say, &quot;sucker-prince-stake&quot;. The other team then attempts to guess our numbered code. If they're correct, they receive a white mark of success; if not, then my team must guess the number correctly or take a black mark of failure. (Guessing correctly does nothing except avoid failure and give the opposing team information about what our hidden words might be.)&#10;&#10;The rounds continue until a team collects either its second white mark (winning the game) or its second black mark (losing the game). Games typically last between 4-7 rounds. If neither team has won after eight rounds, then each team must attempt to guess the other team's words; whichever team guesses more words correctly wins.&#10;&#10;",
+    "designers": [
+      "Thomas Dagenais-Lespérance"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Communication Limits",
+      "Targeted Clues",
+      "Team-Based Game"
+    ],
+    "minPlayers": 3,
+    "name": "Decrypto",
+    "playingTime": 45,
+    "publisher": "Le Scorpion Masqué",
+    "rating": 7.77918,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.8112,
+    "year": "2018",
+    "expansions": [],
+    "image": "decrypto.225694.full.png",
+    "thumbnail": "decrypto.225694.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 174,
+    "blurhash": "UIMQq^%gNHx]8^%2tlRPrrNax]tR?^RPoz%M",
+    "sale": "",
+    "slug": "decrypto",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 226312,
     "categories": [
       "Dice"
@@ -11761,7 +11840,7 @@
     "blurhash": "UsGSojt6IAoJ%%kBRPay%hoLbGfkR.octRof",
     "sale": "",
     "slug": "hamlet",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12413,7 +12492,7 @@
     "blurhash": "UbNukhE#M}%0|xs:s+X717wvkBNJj]ODRms-",
     "sale": "",
     "slug": "canvas",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13937,7 +14016,7 @@
     "blurhash": "U7ECU[Iu0?s+nWi[N0sp00_N-QIuEr9Dnf$%",
     "sale": "",
     "slug": "wicked-and-wise",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14131,22 +14210,22 @@
       "Trick-taking"
     ],
     "minPlayers": 1,
-    "name": "For Northwood! A Solo Trick-Taking Game",
+    "name": "For Northwood!",
     "playingTime": 30,
     "publisher": "Side Room Games",
-    "rating": 8.00603,
-    "subTitle": "",
+    "rating": 8.09553,
+    "subTitle": "A Solo Trick-Taking Game",
     "tags": [],
-    "weight": 1.9167,
+    "weight": 1.9545,
     "year": "2022",
     "expansions": [],
-    "image": "for_northwood_a_solo_trick_taking_game.334590.full.png",
-    "thumbnail": "for_northwood_a_solo_trick_taking_game.334590.thumbnail.png",
+    "image": "for_northwood_.334590.full.png",
+    "thumbnail": "for_northwood_.334590.thumbnail.png",
     "thumbHeight": 250,
     "thumbWidth": 258,
     "blurhash": "UpQk+.IorpV[.TxGwbj@JBS#kVj[#*oMWWW.",
     "sale": "",
-    "slug": "for-northwood-a-solo-trick-taking-game",
+    "slug": "for-northwood",
     "new": true,
     "forSale": false
   },
@@ -14182,7 +14261,7 @@
     "blurhash": "UKI#0w-C9ct69YAesHRj9~~TaKkWIEv2K0rs",
     "sale": "",
     "slug": "um-actually",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14218,6 +14297,59 @@
     "sale": "",
     "slug": "armonia",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 341945,
+    "categories": [
+      "Dice",
+      "Economic",
+      "Farming"
+    ],
+    "description": "La Granja: Deluxe Master Set is an upgraded and expanded version of the 2014 game La Granja in which 1&ndash;4 players manage small farms by the Alpich pond near the village of Esporles on Majorca.&#10;&#10;The players must carefully consider the decisions of which dice to draft, which cards to play, when and where to deliver goods to various markets, and how best to utilize the flexible powers afforded by several &quot;anytime&quot; actions.&#10;&#10;The multi-use cards offer four different options for players to choose from. Decide whether you want to use the card as an extension to your fields (increasing your ability to grow olives, grain, or grapes), as an extension to your farm (increasing the number of pigs you can house, the deliveries you can make, or the coins you will earn each round), as a market barrow (providing a personal contract you can fulfill for valuable rewards), or as a hired helper (each providing a unique and powerful ability to improve your actions).&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Game Round&#10;&#10;Each game round follows a consistent and simple structure.&#10;&#10;&#10;     Farm Phase&#10;         Play a farm card (optional)&#10;         Draw new card(s)&#10;         Take income&#10;         Farm growth (harvest goods and pigs)&#10;         Purchase roof markers (optional)&#10;    &#10;     Revenue Phase&#10;         Roll revenue dice&#10;         Draft a revenue die and perform the associated action (in turn order; repeated once)&#10;         Common action (undrafted revenue die)&#10;    &#10;     Transportation Phase&#10;         Choose donkey marker&#10;         Advance on siesta track and reset turn order&#10;         Deliver goods to common markets in the village, or to fulfill personal contracts&#10;    &#10;     Scoring Phase&#10;         Score victory points based on your position on the siesta track&#10;         Reset the siesta track&#10;    &#10;&#10;&#10;At the end of the sixth game round, the game ends, wherafter the players convert remaining farm goods and coin into victory points. The player with the most victory points is crowned the winner.&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Deluxe Master Set&#10;&#10;While La Granja Deluxe Master Set reimplements the beloved original game, it also adds a lot of never-before seen content, including modular expansion content designed by Michael Keller and Andreas &quot;ode.&quot; Odendahl themselves.&#10;&#10;Additional expansion modules have been designed by Stefan Feld, Adam Kwapi&#197;&#132;ski, and Andrei Novac.&#10;&#10;Many others have also participated in designing promo cards for La Granja Deluxe Master Set, including Tony Boydell, Mike Murphy, and David Waybright.&#10;&#10;This Deluxe Master Set features brand new artwork, redesigned multi-layer player boards, high quality upgraded components, metal coins, and more.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Michael Keller (II)",
+      "Andreas \"ode.\" Odendahl",
+      "Tony Boydell",
+      "Stefan Feld",
+      "Błażej Kubacki",
+      "Adam Kwapiński",
+      "Andrei Novac"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Drafting",
+      "Area Majority / Influence",
+      "Automatic Resource Growth",
+      "Dice Rolling",
+      "Hand Management",
+      "Income",
+      "Market",
+      "Open Drafting",
+      "Turn Order: Stat-Based",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Victory Points as a Resource"
+    ],
+    "minPlayers": 1,
+    "name": "La Granja",
+    "playingTime": 120,
+    "publisher": "Board&Dice",
+    "rating": 8.49163,
+    "subTitle": "Deluxe Master Set",
+    "tags": [],
+    "weight": 3.5833,
+    "year": "2023",
+    "expansions": [],
+    "image": "la_granja.341945.full.png",
+    "thumbnail": "la_granja.341945.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U?JuDaRjaway?wjYxsWC%4bIxaofs,t7WFfk",
+    "sale": "",
+    "slug": "la-granja",
+    "new": true,
     "forSale": false
   },
   {
@@ -14639,6 +14771,49 @@
     "blurhash": "UeP6~qWV_4sm%2oeR*Rj_3s:M_W=ITWBoMoe",
     "sale": "",
     "slug": "roll-to-the-top",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 371535,
+    "categories": [
+      "Dice",
+      "Farming",
+      "Party Game"
+    ],
+    "description": "Pop open the tube and start chucking dice with family and friends! In Chicken!, players will be rolling dice each turn&mdash;pressing their luck to score more Chickens while avoiding those foxes.&#10;&#10;On a turn, a player must choose to roll all the dice passed to them or &quot;Chicken Out&quot; to roll fewer dice. Players will score points from the Chickens they roll, but they will bust (and score no points) if 3 or more foxes appear across their dice.&#10;&#10;For each Egg symbol rolled, a die is hatched from the Coop and then the active player will choose to reroll all of their blanks, eggs, and newly hatched dice, or they may score their points and pass the dice to the next player. If a player chooses to &quot;Chicken Out&quot; at the start of their turn, they lose a point for being a chicken, but they get to place all Yellow and Orange dice back into the Coop.&#10;&#10;The first player to reach 25 Points from their Chickens wins the game!&#10;&#10;&mdash;description from designer&#10;&#10;",
+    "designers": [
+      "Scott Almes"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck"
+    ],
+    "minPlayers": 2,
+    "name": "Chicken!",
+    "playingTime": 20,
+    "publisher": "Keymaster Games",
+    "rating": 7.01008,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 391180,
+        "name": "Chicken!: Eggspansion",
+        "year": "2023"
+      }
+    ],
+    "image": "chicken_.371535.full.png",
+    "thumbnail": "chicken_.371535.thumbnail.png",
+    "thumbHeight": 197,
+    "thumbWidth": 350,
+    "blurhash": "UOQGO4,CNsXS|HM|wfr?VGo|Shr@w4X9WXOr",
+    "sale": "",
+    "slug": "chicken",
     "new": true,
     "forSale": false
   },
