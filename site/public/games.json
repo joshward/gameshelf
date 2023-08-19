@@ -13901,7 +13901,7 @@
     "blurhash": "UGD+GRnh0mR*-PocE3kB0WR*}Pn~A2kE-Pj[",
     "sale": "",
     "slug": "solar-sphere",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14636,6 +14636,44 @@
     "forSale": false
   },
   {
+    "bggId": 368017,
+    "categories": [
+      "Card Game",
+      "City Building"
+    ],
+    "description": "From the team that brought you the smash hit Point Salad, Point City is a card-drafting, engine-building game with more than 150 unique building cards, giving you the opportunity to create a completely different city each time you play!&#10;&#10;The rules are simple: Take two adjacent cards from the dynamic city grid and add them to your expanding city. Use your resource cards and bonuses to construct building cards that require specific combinations. Build special civic structures to multiply your city's points and be the top urban planner!&#10;&#10;Point City takes the same simple concept of drafting cards and building the best combinations, then adds new layers of resource management and engine building to the mix &mdash; making the game easy to learn, but challenging for everyone!&#10;&#10;&mdash;description from designer&#10;&#10;",
+    "designers": [
+      "Molly Johnson",
+      "Robert Melvin",
+      "Shawn Stankewich"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Open Drafting",
+      "Set Collection"
+    ],
+    "minPlayers": 1,
+    "name": "Point City",
+    "playingTime": 30,
+    "publisher": "Flatout Games",
+    "rating": 7.50117,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.625,
+    "year": "2023",
+    "expansions": [],
+    "image": "point_city.368017.full.png",
+    "thumbnail": "point_city.368017.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 186,
+    "blurhash": "UQF%-,a~YjkULNodkVV]#QWUnOofY5nmi{bE",
+    "sale": "",
+    "slug": "point-city",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 369634,
     "categories": [
       "Card Game",
@@ -14858,6 +14896,44 @@
     "blurhash": "U6Eo_f-:00R*?bR+M{t80Kfh~oad?HWC4oWU",
     "sale": "",
     "slug": "spots",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 376747,
+    "categories": [
+      "Animals",
+      "Nautical"
+    ],
+    "description": "Deep Dive is a press-your-luck set-collection game in which you use your waddle of penguins to dive deep into the ocean to amass the most bountiful collection of food!&#10;&#10;Turns are simple: Flip over an ocean tile, and see what you reveal. You can take what you reveal in the shallows or dive deeper, hoping for a larger catch &mdash; but the deeper you go, the more plentiful the predators become. As you surface with food, you build sets of three colors. Target the colors you need to complete sets and score the maximum number of points.&#10;&#10;When one of the depths of the ocean has been fully explored, the game ends and the penguin waddle with the best sets of food wins!&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "designers": [
+      "Molly Johnson",
+      "Robert Melvin",
+      "Shawn Stankewich"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "minPlayers": 1,
+    "name": "Deep Dive",
+    "playingTime": 20,
+    "publisher": "Flatout Games",
+    "rating": 6.81334,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2023",
+    "expansions": [],
+    "image": "deep_dive.376747.full.png",
+    "thumbnail": "deep_dive.376747.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 186,
+    "blurhash": "UhJJMexaD*kD~poextoK$Kflt6f6-nj@RlWX",
+    "sale": "",
+    "slug": "deep-dive",
     "new": true,
     "forSale": false
   }
