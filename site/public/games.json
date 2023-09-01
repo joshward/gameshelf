@@ -3558,7 +3558,7 @@
     "blurhash": "U8Ln#zK#00s+qHw|pIOq04Kcy:oz1}R-$*w{",
     "sale": "",
     "slug": "cover-your-assets",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -4623,7 +4623,7 @@
     "blurhash": "U7Fh#G:g4{-q$J9E5s-rGwI;00Otm@r;-+Or",
     "sale": "",
     "slug": "skull-king",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -11308,7 +11308,7 @@
     "blurhash": "U9Dbs9Iq0f%1~noLIpxtE*xsxZIq0Noe-nNH",
     "sale": "",
     "slug": "city-of-the-great-machine",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12418,7 +12418,7 @@
     "blurhash": "U8F4[%=Z000~14SO}r-903oM=s$%aIX8NLNb",
     "sale": "",
     "slug": "antiquity-quest",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13344,7 +13344,7 @@
     "blurhash": "UbQ9izRjt.V[o~ogxas:.TV@n3WVVrofg3WB",
     "sale": "",
     "slug": "steam-up",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14469,7 +14469,7 @@
     "blurhash": "UGIX,2n-u5a$24tPN3oy4TRl9HWC:Nj=Vray",
     "sale": "",
     "slug": "caral",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14934,6 +14934,204 @@
     "blurhash": "UhJJMexaD*kD~poextoK$Kflt6f6-nj@RlWX",
     "sale": "",
     "slug": "deep-dive",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 377420,
+    "categories": [
+      "Dice",
+      "Medical",
+      "Puzzle"
+    ],
+    "description": "Mind Space is a thoughtful game in which players are trying to achieve serenity by adding emotions to their Brain Board.&#10;&#10;Each emotion is represented by a polyomino shape. Five of the possible Seventeen emotion cards will be available each round, and five rolled dice will determine which colors can be used to add those shapes to a Brain Board.&#10;&#10;After 12 rounds, the game is scored, and points can be earned by completing sections of the brain, achieving public goal cards, and meeting the organizational criteria of each color. The one section of each Brain Board with the most unfilled squares will result in a deduction of 1 point for each unfilled square in that section.&#10;&#10;",
+    "designers": [
+      "Nao Shimamura (シマムラナオ)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Dice Rolling",
+      "Drawing",
+      "Line Drawing",
+      "Pattern Building",
+      "Simultaneous Action Selection"
+    ],
+    "minPlayers": 1,
+    "name": "Mind Space",
+    "playingTime": 30,
+    "publisher": "Allplay",
+    "rating": 7.28265,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2023",
+    "expansions": [],
+    "image": "mind_space.377420.full.png",
+    "thumbnail": "mind_space.377420.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U9PEo37AEkPTYzzBTJslK#vh$i%f{yWFMzrs",
+    "sale": "",
+    "slug": "mind-space",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 377449,
+    "categories": [
+      "Animals",
+      "Environmental"
+    ],
+    "description": "The era of the dinosaurs is here! Your goal in Chomp is to form herds of dinos and make sure they are all fed. Herbivores and carnivores both need food sources, but if the carnies are not properly fed, they don't mind chomping an herbie to fill their bellies!&#10;&#10;Gameplay involves dual rows of goal tiles and dino tiles, and each turn players select one tile to add to their personal arrangement. Goal tiles stay off to the side for endgame scoring, and dino tiles are arranged in front of each player. Dino tiles include three sizes each of herbivores and carnivores. Each tile must overlap previous ones, either on top of a quarter tile, half tile, or even a whole tile, ensuring that any covered dinos are completely hidden.&#10;&#10;Adjacent dinos of the same species form herds, which will eat together if connected to a single food source &mdash; or die together if they are unfed, adjacent to a tar pit, or next to an otherwise unfed carnivore!&#10;&#10;At the end of the game, each living and fed dino scores 1-3 points depending on its size, and the player with the highest score wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Clarence Simpson"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Open Drafting",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Chomp",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 7.05926,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 400009,
+        "name": "Chomp: Flyers & Scavengers",
+        "year": "2023"
+      }
+    ],
+    "image": "chomp.377449.full.png",
+    "thumbnail": "chomp.377449.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 249,
+    "blurhash": "UqM6@ZniIBkV~Ut5R%V[M{j@ofniIWjGS5X8",
+    "sale": "",
+    "slug": "chomp",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 377470,
+    "categories": [
+      "Card Game",
+      "Pirates"
+    ],
+    "description": "Strap up your piratical boots, and navigate your ship through turbulent waters in Sail, a co-operative trick-taking game for two players. Reach the end of this dangerous deep end, and avoid taking damage from the Kraken to win the game together...or your crew will be sleeping with the fish!&#10;&#10;Before each round begins, players exchange cards, then play a series of tricks. Different game actions will be triggered depending on who wins each trick in combination with the unique character skills. However, the crashing sea water and the roaring Kraken make for a deafening situation, and players are unable to communicate about tactics and card information from the moment cards are dealt to the end of the action phase.&#10;&#10;Players win the game as a team if they sail their ship into the final token before the Kraken reaches the Death tile or the Kraken deck is exhausted.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Akiyama Koryo",
+      "Korzu Yusei"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Track Movement",
+      "Trick-taking"
+    ],
+    "minPlayers": 2,
+    "name": "Sail",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 7.58402,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 393101,
+        "name": "Sail: Map Hazards & Character Cards",
+        "year": "2023"
+      }
+    ],
+    "image": "sail.377470.full.png",
+    "thumbnail": "sail.377470.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UVEhm~ogTcNax$sjNbkC1UR.nAs.-LW?$^aL",
+    "sale": "",
+    "slug": "sail",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 377716,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Take on the role of a fashion model as you hit the runways in New York, Paris, and Tokyo to build your career.&#10;&#10;In Couture, players seek to win cards through auctions in New York, Paris, and Tokyo. New cards are available to draft in each city, allowing the winning player first pick of Iconic Poses, Signature Walks, a personal Glam Squad, and much more.&#10;&#10;Once the seventh round has concluded, players determine their total score, with magazine cover awards bringing bonus points. The model with the highest score wins the game and with it all the fame of a global spotlight!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Open Drafting"
+    ],
+    "minPlayers": 3,
+    "name": "Couture",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 7.21852,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2023",
+    "expansions": [],
+    "image": "couture.377716.full.png",
+    "thumbnail": "couture.377716.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 249,
+    "blurhash": "U8MG@u.800%100Rj.mof00WB+bNHG[M_*|Rj",
+    "sale": "",
+    "slug": "couture",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 383701,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Tricky Time Crisis is a trick-taking game for 3-5 players with a Superhero and Time theme. It is a can't follow trick-taking game, where each player must play a different suit to the trick. If more that one card of the same suit would be played to a trick, two copies of the same person are in the same timeline and a paradox occurs with the hand ending early.&#10;&#10;In this game a time-jumping super villain named Dr. Tricky-Time is trying to destroy the timeline and it&rsquo;s up to a group of heroes named Kid Cuckoo (the rookie), Double Take and Double Time (a pair of twins with the powers to double the speed of time or slow it by half), Doc Tock (a scientist in the body of a dog or perhaps just a dog that became a scientist), and the Daylight Saver (leader of the team) to try and stop him.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Jon Barron"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Tricky Time Crisis",
+    "playingTime": 45,
+    "publisher": "Baron Jon Games",
+    "rating": 6.9697,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2023",
+    "expansions": [],
+    "image": "tricky_time_crisis.383701.full.png",
+    "thumbnail": "tricky_time_crisis.383701.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 163,
+    "blurhash": "U7ECLL;n01paICIo-OIC0IF|=:$j8|Me9vtL",
+    "sale": "",
+    "slug": "tricky-time-crisis",
     "new": true,
     "forSale": false
   }

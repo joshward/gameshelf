@@ -1,5 +1,5 @@
 {
-  "count": 352,
+  "count": 357,
   "sale": true,
   "games": [
     {
@@ -105,7 +105,7 @@
       "name": "Antiquity Quest",
       "subTitle": "",
       "editionTitle": "",
-      "new": true,
+      "new": false,
       "tags": [],
       "slug": "antiquity-quest",
       "blurhash": "U8F4[%=Z000~14SO}r-903oM=s$%aIX8NLNb",
