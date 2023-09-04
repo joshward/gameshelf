@@ -12496,6 +12496,42 @@
     "forSale": false
   },
   {
+    "bggId": 291453,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "SCOUT is a ladder-climbing game in which cards have two potential values, players may not rearrange their hand of cards, and players may pass their turn to take a card from the current high set of cards into their hand.&#10;&#10;More specifically, cards are dual-indexed, with different values on each half of the card, with the 45 cards having all possible combinations of the numbers 1-10. During set-up, whoever is shuffling the cards should randomize both the order of the cards in the deck and their orientation. Once each player has been dealt their entire hand of cards, they pick up that hand without rearranging any of the cards; if they wish, they can rotate their entire hand of cards in order to use the values on the other end of each card, but again they cannot rearrange the order of cards in their hand.&#10;&#10;On a turn, a player takes one of two actions:&#10;&#10;&bull; Play: A player chooses one or more adjacent cards in their hand that have all the same value or that have values in consecutive order (whether ascending or descending), then they play this set of cards to the table. They can do this only if the table is empty (as on the first turn) or the set they're playing is ranked higher than the set currently on the table; a set is higher if it has more cards or has cards of the same value instead of consecutive cards or has a set of the same quantity and type but with higher values. In this latter case when a player overplays another set, the player captures the cards in this previous set and places them face down in front of themselves.&#10;&#10;&bull; Scout: A player takes a card from either end of the set currently on the table and places it anywhere they wish in their hand in either orientation. Whoever played this previous set receives a 1 VP token as a reward for playing a set that wasn't beaten.&#10;&#10;Once per round, a player can scout, then immediately play.&#10;&#10;When a player has emptied their hand of cards or all but one player have scouted instead of playing, the round ends. Players receive 1 VP for each face-down card, then subtract one point for each card in their hand (except if they were the player scouted repeatedly to end the game). Play as many rounds as the number of players, then whoever has the most points wins.&#10;&#10;",
+    "designers": [
+      "Kei Kajino (梶野 桂)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Score-and-Reset Game"
+    ],
+    "minPlayers": 2,
+    "name": "SCOUT",
+    "playingTime": 15,
+    "publisher": "Oink Games",
+    "rating": 7.7931,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.3571,
+    "year": "2019",
+    "expansions": [],
+    "image": "scout.291453.full.png",
+    "thumbnail": "scout.291453.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 142,
+    "blurhash": "UmL_thoLs+oc}QazxVjsovfQahj?$_a#R.j?",
+    "sale": "",
+    "slug": "scout",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 291508,
     "categories": [
       "Fantasy",
@@ -14069,7 +14105,7 @@
     "blurhash": "UcJH:TIUn4E2?wM{jFWB?HV@o#n$b_s.ofn$",
     "sale": "",
     "slug": "rolling-heights",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
