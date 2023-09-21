@@ -14672,6 +14672,48 @@
     "forSale": false
   },
   {
+    "bggId": 361788,
+    "categories": [
+      "Aviation / Flight",
+      "Industry / Manufacturing",
+      "Racing"
+    ],
+    "description": "First in Flight is a push-your-luck, deck-building game about the race to early flight. Players take on the roles of the Wright Brothers, Samuel Langley, and other flight pioneers, racing to build and pilot the &ldquo;flyers&rdquo; that preceded modern airplanes.&#10;&#10;Each player&rsquo;s flyer design is represented by a deck of cards that they can steadily improve and refine, and which may include unknown design flaws that threaten their success.&#10;&#10;Flying is a blackjack-style challenge to test a design, break new records, and gain experience -- hopefully without crashing. Then, players head back to the workshop to refine their flyers and improve their chances on future flights. There are dozens of available technologies, pilot skills, and friends in the field available for players to customize their own play style and strategy.&#10;&#10;",
+    "designers": [
+      "Matthew O'Malley",
+      "Ben Rosset"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Push Your Luck",
+      "Race",
+      "Rondel",
+      "Turn Order: Time Track",
+      "Variable Player Powers"
+    ],
+    "minPlayers": 1,
+    "name": "First in Flight",
+    "playingTime": 75,
+    "publisher": "Artana",
+    "rating": 7.75357,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.25,
+    "year": "2023",
+    "expansions": [],
+    "image": "first_in_flight.361788.full.png",
+    "thumbnail": "first_in_flight.361788.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 192,
+    "blurhash": "UQMG04VZt7ogcbxtRlNG16tkM{e-x@sqRkM|",
+    "sale": "",
+    "slug": "first-in-flight",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 368017,
     "categories": [
       "Card Game",
@@ -14888,6 +14930,44 @@
     "blurhash": "UOQGO4,CNsXS|HM|wfr?VGo|Shr@w4X9WXOr",
     "sale": "",
     "slug": "chicken",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 371873,
+    "categories": [
+      "Fantasy",
+      "Humor"
+    ],
+    "description": "Trolls are not big and stupid, as many would have you believe. Not long ago they lived among us and they used their cunning magic to look like us humans.&#10;They lived with their cattle in the mountains. Their caves were beautiful and luxurious with a lot of silver, gold, gems, and a table full of delicious food. In Sweden, there is an expression for this &ldquo;Rich as a troll&rdquo;.&#10;Trolls were not evil if you didn&rsquo;t treat them badly, they could even be helpful to those who treated them well. But they often played tricks on humans. Their magic power (trollkraft) could distort the vision of humans so the troll looked like a human, an animal, a log, and a stone and even become invisible. But they also had some weaknesses. They couldn&rsquo;t stand the sounds of church bells or steel, not to mention the sight of sun.&#10;&#10;Trolls &amp; Princesses is a &ldquo;worker movement&rdquo; game. You play as one of four troll clans and to get the mountains king&rsquo;s favour, you try to impress him. The players get favour (in the form of victory points) when they do what trolls usually do: swap changelings, &ldquo;hire&rdquo; humans, tear down church bells, kidnap princesses, build their cave, and use troll magic. To succeed, the players must collect resources and move around their trolls to do different actions. The player with the most victory points at the end can crown himself the ultimate troll clan leader.&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "designers": [
+      "Pim Thunborg"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Points",
+      "Set Collection",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Trolls & Princesses",
+    "playingTime": 120,
+    "publisher": "Game Brewer",
+    "rating": 7.5324,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.5,
+    "year": "2023",
+    "expansions": [],
+    "image": "trolls_princesses.371873.full.png",
+    "thumbnail": "trolls_princesses.371873.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 237,
+    "blurhash": "U3Bo~iM{01=_8|xZRUE300og~BEM-jV?-;?G",
+    "sale": "",
+    "slug": "trolls-and-princesses",
     "new": true,
     "forSale": false
   },
