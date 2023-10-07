@@ -12614,6 +12614,52 @@
     "forSale": false
   },
   {
+    "bggId": 294263,
+    "categories": [
+      "Exploration",
+      "Fantasy",
+      "Nautical"
+    ],
+    "description": "In ancient times, powerful angels held strong against the demonic creatures crawling out of the abyss on the Island of EOS. One day, though, they were tricked: The angelic guardians were turned into stone and demons flood the world ever since.&#10;Eons later, a captain named Kareem found a petrified angel on a remote rock off the shores of an island. Kareem managed to awake the angel Leanas, who told him about the island of EOS and gifted him with immortality. In return, Kareem swore an oath: To awake Leanas' brothers and sisters, who were still petrified on EOS. Together they would fight back the demons, forcing them to return to the abyss they came from and freeing the world of their dark powers once again.&#10;&#10;EOS - Island of Angels is an exciting engine builder board game for 2-5 players, which also includes some worker placement mechanics. &#10;Players hire a unique, asymmetrical crew and set sail to the island of EOS, to free the angels of old and leave their mark on this mythical world's chronicle. Be wary though: While exploring the ocean, vicious demons will attack the ships and crews. Fighting them and their powerful demon lords will bring players glory and help restore the angels' power. Through awakening angels, players can gain powerful blessings that pose as an advantage to their strategy, while demons sabotage the ship, resulting in disadvantages.&#10;EOS - Island of Angels is a fast paced game, which allows for a thrilling adventure, while players optimize their strategies on the go.&#10;&#10;Finding the perfect balance between progressing on their journey and fighting demons while improving their ship and crew is key for players to gain the most victory points.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Till Bröstl",
+      "Felix Mertikat"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Open Drafting",
+      "Point to Point Movement",
+      "Roles with Asymmetric Information",
+      "Worker Placement"
+    ],
+    "minPlayers": 2,
+    "name": "EOS",
+    "playingTime": 120,
+    "publisher": "King Racoon Games",
+    "rating": 8.25,
+    "subTitle": "Island of Angels",
+    "tags": [],
+    "weight": 3.3333,
+    "year": "2023",
+    "expansions": [
+      {
+        "bggId": 399009,
+        "name": "EOS: Island of Angels – Deluxe Upgrade",
+        "year": "2023"
+      }
+    ],
+    "image": "eos.294263.full.png",
+    "thumbnail": "eos.294263.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UfJI-AI^?wt6_MjqtmWY9~xDIUR*o}f9Rjo0",
+    "sale": "",
+    "slug": "eos",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 295374,
     "categories": [
       "Racing",
@@ -14820,7 +14866,7 @@
     "blurhash": "UAFOMkY3=MIoBUO?5rM#}qoZE30%-YxoM,;4",
     "sale": "",
     "slug": "pollen",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14850,7 +14896,7 @@
     "blurhash": "UGJ?.]Iq~BS$?akCM|of^*tRM{s8wuR-WEV@",
     "sale": "",
     "slug": "big-top",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14887,7 +14933,7 @@
     "blurhash": "UeP6~qWV_4sm%2oeR*Rj_3s:M_W=ITWBoMoe",
     "sale": "",
     "slug": "roll-to-the-top",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
