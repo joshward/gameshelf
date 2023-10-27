@@ -14308,7 +14308,7 @@
     "blurhash": "UpQk+.IorpV[.TxGwbj@JBS#kVj[#*oMWWW.",
     "sale": "",
     "slug": "for-northwood",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14636,6 +14636,41 @@
     "forSale": false
   },
   {
+    "bggId": 356952,
+    "categories": [
+      "Ancient",
+      "Civilization"
+    ],
+    "description": "You lead a grand civilization at the height of its influence, but can you save it from collapse? In Empire's End, 2-4 players compete to keep calamity at bay. Empire's End marries the intuitive and elegant mechanism of reverse-bidding with engine-building, long-term planning, and strategic depth. The result is a game with a quick tempo, abundant tension, and multiple challenging paths to victory.&#10;&#10;Players begin with a civilization at the height of its power. Play proceeds through a series of phases, varying as you progress through the game. During the Disaster phase, players face a common threat such as famine, a flood, or barbarians. The player who ends the bidding must take the disaster, which devastates one of their territories.&#10;&#10;With each disaster that befalls an empire, its people grow in wisdom and resilience. In the style of the modern classic game No Thanks, resources bid by all players will end up in the hands of the player who ultimately takes the disaster card. That player also gains a new ability, an innovation that reflects their empire's ability to adapt in the face of challenging times.&#10;&#10;Each turn, players move along a progress track that dictates whether they will face a disaster or another type of phase. Players can gain new resources during Production phases, rebuild lost territories during Industry phases, and challenge one another during Military phases. At the end of the progress track, the game is concluded and the winner is the civilization with the greatest number of victory points. Intact territories contribute points, but innovations and military successes can provide alternative ways to win.&#10;&#10;",
+    "designers": [
+      "John D. Clair"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Auction/Bidding"
+    ],
+    "minPlayers": 2,
+    "name": "Empire's End",
+    "playingTime": 60,
+    "publisher": "Brotherwise Games",
+    "rating": 7.16946,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.5,
+    "year": "2023",
+    "expansions": [],
+    "image": "empires_end.356952.full.png",
+    "thumbnail": "empires_end.356952.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UUHUtY.757D*_NozM{RP5qso-TxZIpt6xuo}",
+    "sale": "",
+    "slug": "empires-end",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 358812,
     "categories": [
       "Economic",
@@ -14714,7 +14749,7 @@
     "blurhash": "UfJ[eW$xjKaK~Enig3t6x]a$S%bvx^xtR%aw",
     "sale": "",
     "slug": "shake-that-city",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14756,6 +14791,51 @@
     "blurhash": "UQMG04VZt7ogcbxtRlNG16tkM{e-x@sqRkM|",
     "sale": "",
     "slug": "first-in-flight",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 366013,
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "description": "Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!&#10;&#10;Drivers can compete in a single race or use the &quot;Championship System&quot; to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Asger Harding Granerud",
+      "Daniel Skjold Pedersen"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Catch the Leader",
+      "Hand Management",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Heat",
+    "playingTime": 60,
+    "publisher": "Days of Wonder",
+    "rating": 8.11738,
+    "subTitle": "Pedal to the Metal",
+    "tags": [
+      "fav"
+    ],
+    "weight": 2.1716,
+    "year": "2023",
+    "expansions": [],
+    "image": "heat.366013.full.png",
+    "thumbnail": "heat.366013.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UYJau=RPItx]~Bi_tPt6={adXQRkNa%fRoWB",
+    "sale": "",
+    "slug": "heat",
     "new": true,
     "forSale": false
   },
