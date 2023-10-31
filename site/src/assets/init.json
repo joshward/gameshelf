@@ -1,5 +1,5 @@
 {
-  "count": 363,
+  "count": 365,
   "sale": true,
   "games": [
     {
@@ -129,6 +129,20 @@
       "forSale": false
     },
     {
+      "bggId": 400314,
+      "name": "Apiary",
+      "subTitle": "",
+      "editionTitle": "",
+      "new": true,
+      "tags": [],
+      "slug": "apiary",
+      "blurhash": "UHJkGr~U4.J602iw=}Ip1556MJ-UOmS#$y%1",
+      "thumbHeight": 250,
+      "thumbWidth": 250,
+      "thumbnail": "apiary.400314.thumbnail.png",
+      "forSale": false
+    },
+    {
       "bggId": 159508,
       "name": "AquaSphere",
       "subTitle": "",
@@ -156,20 +170,6 @@
       "thumbHeight": 250,
       "thumbWidth": 179,
       "thumbnail": "arboretum.140934.thumbnail.png",
-      "forSale": false
-    },
-    {
-      "bggId": 144797,
-      "name": "Argent",
-      "subTitle": "The Consortium",
-      "editionTitle": "",
-      "new": false,
-      "tags": [],
-      "slug": "argent",
-      "blurhash": "U7I4Lr0y0J~X00?HbeDi00-A=~S2$%4.x]?a",
-      "thumbHeight": 250,
-      "thumbWidth": 250,
-      "thumbnail": "argent.144797.thumbnail.png",
       "forSale": false
     }
   ]

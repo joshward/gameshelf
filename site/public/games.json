@@ -14555,6 +14555,45 @@
     "forSale": false
   },
   {
+    "bggId": 352418,
+    "categories": [
+      "American West",
+      "Print & Play"
+    ],
+    "description": "Fliptown is a flip-and-write game in which you are trying to earn stars by exploring a wild west town. The game uses a standard poker deck to drive an open world-style of game play, along with dry erase boards or print-and-play sheets that serves as each player's map.&#10;&#10;Each turn, flip over three cards, assigning one card to represent your suit, one card to represent your value, and one card to represent your poker card. The suit dictates which of four regions you activate, the value dictates which site within that region you get to circle, and the poker card goes toward a five-card poker hand that is resolved at the end of each round. Each of the four regions &mdash; Trail, Badlands, Mine, and Town &mdash; offers a different puzzle to master, while each site within a region provides a unique reward such as cash, gold, helpful items like guns, horses and tools, or bonus actions to create powerful combinations.&#10;&#10;For solo play, you can play to achieve a high score or compete against one of four &quot;cowbot&quot; robot opponents, each with its own motivation.&#10;&#10;For multiplayer play, players use &quot;community cards&quot; in the center of play, with players resolving each turn simultaneously. Additionally, bounty cards add competitive goals that players are racing to achieve.&#10;&#10;In addition to the standard game, you can play as one of 14 wild west characters. Each character has a unique set of starting resources and a unique special ability.&#10;&#10;&mdash;description from designer&#10;&#10;",
+    "designers": [
+      "Steven Aramini"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "End Game Bonuses",
+      "Paper-and-Pencil",
+      "Solo / Solitaire Game",
+      "Tech Trees / Tech Tracks",
+      "Track Movement"
+    ],
+    "minPlayers": 1,
+    "name": "Fliptown",
+    "playingTime": 30,
+    "publisher": "Write Stuff Games",
+    "rating": 7.75453,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.3636,
+    "year": "2023",
+    "expansions": [],
+    "image": "fliptown.352418.full.png",
+    "thumbnail": "fliptown.352418.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 264,
+    "blurhash": "UXOU06V@ENI;~UWBaKsmxZoyxYn$nNt7WWae",
+    "sale": "",
+    "slug": "fliptown",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 355224,
     "categories": [
       "American West",
@@ -14592,7 +14631,7 @@
     "blurhash": "UiJRBXM|xuR-.TkBbvkCp0s.aiWBafV@ofae",
     "sale": "",
     "slug": "isle-of-trains",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15056,7 +15095,7 @@
     "blurhash": "UOQGO4,CNsXS|HM|wfr?VGo|Shr@w4X9WXOr",
     "sale": "",
     "slug": "chicken",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15374,6 +15413,45 @@
     "blurhash": "U7ECLL;n01paICIo-OIC0IF|=:$j8|Me9vtL",
     "sale": "",
     "slug": "tricky-time-crisis",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 400314,
+    "categories": [
+      "Science Fiction"
+    ],
+    "description": "In a far-distant future, humans no longer inhabit Earth. The cause of their disappearance (or perhaps their demise) is unknown, but their absence left a void ready to be filled by another sentient species.&#10;&#10;Over the span of untold generations, one species of the humble honeybee evolved to fill that void. They grew in size and intelligence to become a highly advanced society. They call themselves Mellifera, and they have made substantial technological advances in addition to the technology they adapted from human ruins, up to and including space travel.&#10;&#10;In Apiary, each player controls one of twenty unique factions. Your faction starts the game with a hive, a few resources, and worker bees. A worker-placement, hive-building challenge awaits you: explore planets, gather resources, develop technologies, and create carvings to demonstrate your faction's strengths (measured in victory points) over one year's Flow. However, the Dearth quickly approaches, and your workers can take only a few actions before they must hibernate! Can you thrive or merely survive?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Connie Vogelmann"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Income",
+      "Multi-Use Cards",
+      "Solo / Solitaire Game",
+      "Tile Placement",
+      "Variable Player Powers",
+      "Worker Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Apiary",
+    "playingTime": 90,
+    "publisher": "Stonemaier Games",
+    "rating": 7.93542,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.6667,
+    "year": "2023",
+    "expansions": [],
+    "image": "apiary.400314.full.png",
+    "thumbnail": "apiary.400314.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UHJkGr~U4.J602iw=}Ip1556MJ-UOmS#$y%1",
+    "sale": "",
+    "slug": "apiary",
     "new": true,
     "forSale": false
   }
