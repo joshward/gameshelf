@@ -3145,7 +3145,7 @@
     "blurhash": "UIMO:R+0L$p]}wSwoaXm00xuX+RQ%LnQa3n4",
     "sale": "",
     "slug": "skull",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -5074,7 +5074,7 @@
     "blurhash": "UFI}kj-CXUR6O@E2r=xuUHPAE1bHT2-p-St7",
     "sale": "",
     "slug": "monikers",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -9204,6 +9204,47 @@
     "forSale": false
   },
   {
+    "bggId": 224037,
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Spies/Secret Agents",
+      "Word Game"
+    ],
+    "description": "Codenames Duet keeps the basic elements of Codenames &mdash; give one-word clues to try to get someone to identify your agents among those on the table &mdash; but now you're working together as a team to find all of your agents. (Why you don't already know who your agents are is a question that Congressional investigators will get on your back about later!)&#10;&#10;To set up play, lay out 25 word cards in a 5&times;5 grid. Place a key card in the holder so that each player sees one side of the card. Each player sees a 5&times;5 grid on the card, with nine of the squares colored green (representing your agents) and three squares colored black (representing assassins). Three of the nine squares on each side are also green on the other side, one assassin is black on both sides, one is green on the other side and the other is an innocent bystander on the other side.&#10;&#10;Collectively, you need to reveal all fifteen agents &mdash; without revealing an assassin &mdash; before time runs out in order to win the game. Either player can decide to give the first one-word clue to the other player, along with a number. Whoever receives the clue places a finger on a card to identify that agent. If correct, they can attempt to identify another one. If they identify a bystander, then their guessing time ends. If they identify an assassin, you both lose! Unlike regular Codenames, they can keep guessing as long as they keep identifying an agent each time; this is useful for going back to previous clues and finding ones they missed earlier. After the first clue is given, players alternate giving clues.&#10;&#10;",
+    "designers": [
+      "Vlaada Chvátil",
+      "Scot Eaton"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Memory",
+      "Push Your Luck"
+    ],
+    "minPlayers": 2,
+    "name": "Codenames",
+    "playingTime": 30,
+    "publisher": "Czech Games Edition",
+    "rating": 7.45057,
+    "subTitle": "Duet",
+    "tags": [],
+    "weight": 1.3617,
+    "year": "2017",
+    "expansions": [],
+    "image": "codenames.224037.full.png",
+    "thumbnail": "codenames.224037.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 174,
+    "blurhash": "UDC*TmNG02oy_MayIUoM0Wk8;ToeIVoMt8WB",
+    "sale": "",
+    "slug": "codenames",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 224517,
     "categories": [
       "Economic",
@@ -9368,7 +9409,7 @@
     "blurhash": "UIMQq^%gNHx]8^%2tlRPrrNax]tR?^RPoz%M",
     "sale": "",
     "slug": "decrypto",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14710,6 +14751,49 @@
     "forSale": false
   },
   {
+    "bggId": 358320,
+    "categories": [
+      "Adventure",
+      "Exploration",
+      "Fantasy",
+      "Mythology"
+    ],
+    "description": "San Francisco, 1937: Your cargo plane flies through a portal in the sky, transporting you to a rugged landscape filled with bizarre creatures, scheming gods, and untold dangers. But can you find your way back before the portal closes?&#10;&#10;Sleeping Gods: Distant Skies is a standalone sequel set in the world of Sleeping Gods. As in the original game, you and your friends trek through a vast landscape as you read branching storylines and meet vivid characters, but in this game you interact with the atlas on a deeper level &mdash; camping, exploring, overcoming obstacles, and searching for lost relics. The new action system allows you even greater agency while you travel and explore.&#10;&#10;In addition to the exploration and quest system from the original game, Sleeping Gods: Distant Skies features a fresh spin on combat. Players now build a combat deck from which they draw a varied hand of cards to play, making each combat encounter a fresh and dynamic puzzle.&#10;&#10;Although Sleeping Gods: Distant Skies builds on story elements in the first game, you do not need to play Sleeping Gods to enjoy this sequel. The game features new characters and storylines, explaining concepts from the original game as you encounter them.&#10;&#10;Return to the world of Sleeping Gods and experience a thrilling tale that hinges on your choices in a truly open-world experience!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Ryan Laukat"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Points",
+      "Cooperative Game",
+      "Deck, Bag, and Pool Building",
+      "Narrative Choice / Paragraph",
+      "Push Your Luck",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "minPlayers": 1,
+    "name": "Sleeping Gods",
+    "playingTime": 600,
+    "publisher": "Red Raven Games",
+    "rating": 8.85084,
+    "subTitle": "Distant Skies",
+    "tags": [],
+    "weight": 2.75,
+    "year": "2023",
+    "expansions": [],
+    "image": "sleeping_gods.358320.full.png",
+    "thumbnail": "sleeping_gods.358320.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UDG,eP:~00OY?b.TSjM|00Io#7yEIqWCI@R4",
+    "sale": "",
+    "slug": "sleeping-gods",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 358812,
     "categories": [
       "Economic",
@@ -14917,6 +15001,46 @@
     "forSale": false
   },
   {
+    "bggId": 368432,
+    "categories": [
+      "Animals",
+      "Dice"
+    ],
+    "description": "In 1958, Demitri Belyaev and Lyudmila Trut started an experiment on domestication. From a large group of foxes, they selected the ones that reacted to humans with more curiosity and less aggression. In each generation, they selected only the friendliest pups to become parents &mdash; hoping to recreate the process that originally led to domestication thousands of years ago. The experiment made stunning progress. Even though the foxes were chosen only for their friendliness, they soon started to get many of the physical traits that we associate with domesticated animals &mdash; like spots, floppy ears, and curly tails. As communication opened up, the foxes made major contributions to our understanding of how these traits are expressed. The experiment continues to this day.&#10;&#10;In The Fox Experiment, you&rsquo;ll breed your own domesticated foxes. In each round you'll select a pair of fox parents who have certain traits. You'll gain those specific trait dice, roll them, then try to move them around to make complete trait symbols which you'll then mark off on your pup card. You'll then gain trait tokens depending on how many traits you marked off which you'll use to upgrade tracks on your personal player board.&#10;&#10;At the end of the round, the previous generation of foxes will be cleared and all of the new pups will be moved to the kennel &mdash; thus becoming candidates to be chosen as parents in the next round. The game ends after 5 rounds and you'll gain points for pleasing patrons (end of game scoring bonuses), studies completed (personal player objectives), if you ever won the friendliest fox award, upgrades on your personal player board, and extra tokens. The player with the most points wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Jeff Fraser",
+      "Elizabeth Hargrave"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Open Drafting",
+      "Solo / Solitaire Game",
+      "Turn Order: Claim Action"
+    ],
+    "minPlayers": 1,
+    "name": "The Fox Experiment",
+    "playingTime": 60,
+    "publisher": "Pandasaurus Games",
+    "rating": 7.27764,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.3846,
+    "year": "2023",
+    "expansions": [],
+    "image": "fox_experiment.368432.full.png",
+    "thumbnail": "fox_experiment.368432.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 333,
+    "blurhash": "U5F}_$0001N300~U01yD?iV[=~E202-:?sRP",
+    "sale": "",
+    "slug": "the-fox-experiment",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 369634,
     "categories": [
       "Card Game",
@@ -15056,6 +15180,44 @@
     "forSale": false
   },
   {
+    "bggId": 371077,
+    "categories": [
+      "Animals",
+      "Fantasy"
+    ],
+    "description": "Welcome to the world of Arborea. You are a Patron Spirit, guiding your villagers to heal and grow the landscape around them by sending them on pilgrimages and building your personal Ecosystem.&#10;&#10;Arborea is a worker placement euro game where time, and planning ahead, is key.&#10;&#10;During the game, players will place workers on Action Tracks (&quot;Pilgrimage&quot;). These tracks will then advance, moving all workers with them. The farther the Action Tracks move, the better the Rewards gained when workers are activated.&#10;&#10;These rewards may help Players to contribute to the Shared Resource Track, make offerings to the great and wise Sages to invest in future gifts, or attract animals to the land of Arborea. Explore different Seasons each game for new opportunities and paths to take.&#10;&#10;Take from the Shared Resources to build your personal Ecosystem, overlaying terrain cards to build habitats and placing animals for end game Victory Points.&#10;&#10;&mdash;description from publisher&#10;&#10;",
+    "designers": [
+      "Dani Garcia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Market",
+      "Tile Placement",
+      "Variable Set-up",
+      "Worker Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Arborea",
+    "playingTime": 120,
+    "publisher": "Alley Cat Games",
+    "rating": 7.61865,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.6,
+    "year": "2023",
+    "expansions": [],
+    "image": "arborea.371077.full.png",
+    "thumbnail": "arborea.371077.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 144,
+    "blurhash": "URKdoL9F%gMx-;WARia}_NIAV@%MoeofWBRj",
+    "sale": "",
+    "slug": "arborea",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 371535,
     "categories": [
       "Dice",
@@ -15177,7 +15339,7 @@
     "blurhash": "U6Eo_f-:00R*?bR+M{t80Kfh~oad?HWC4oWU",
     "sale": "",
     "slug": "spots",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {

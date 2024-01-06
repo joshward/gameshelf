@@ -1,5 +1,5 @@
 {
-  "count": 365,
+  "count": 369,
   "sale": true,
   "games": [
     {
@@ -159,17 +159,17 @@
       "forSale": false
     },
     {
-      "bggId": 140934,
-      "name": "Arboretum",
+      "bggId": 371077,
+      "name": "Arborea",
       "subTitle": "",
       "editionTitle": "",
-      "new": false,
+      "new": true,
       "tags": [],
-      "slug": "arboretum",
-      "blurhash": "UgLXuyt7~psmNKWUt8Wr_2WCRQkBW8t6aKni",
+      "slug": "arborea",
+      "blurhash": "URKdoL9F%gMx-;WARia}_NIAV@%MoeofWBRj",
       "thumbHeight": 250,
-      "thumbWidth": 179,
-      "thumbnail": "arboretum.140934.thumbnail.png",
+      "thumbWidth": 144,
+      "thumbnail": "arborea.371077.thumbnail.png",
       "forSale": false
     }
   ]
