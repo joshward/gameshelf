@@ -14472,7 +14472,7 @@
     "blurhash": "U?JuDaRjaway?wjYxsWC%4bIxaofs,t7WFfk",
     "sale": "",
     "slug": "la-granja",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14914,6 +14914,45 @@
     "blurhash": "UQMG04VZt7ogcbxtRlNG16tkM{e-x@sqRkM|",
     "sale": "",
     "slug": "first-in-flight",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 362164,
+    "categories": [
+      "American West",
+      "Trains"
+    ],
+    "description": "In Pioneer Rails, you represent a railroad owner who has seen an opportunity to expand your empire across the new lands of the frontier. You'll compete against other railroad owners to plan your railway in the best way possible to connect establishments to the railroad and satisfy the demands of the locals.&#10;&#10;In this flip-and-write game, you use poker cards to extend your railway tracks and build a poker hand at the same time. Each turn, you choose one of the revealed poker cards. The suit of the card helps you extend your railway, connecting you to new towns and surrounding features. When you connect to a town, you gain the ability to do a one-time bonus. When you surround a feature with your tracks, you activate it for endgame scoring. The value of the card is added to your poker hand, for which you'll score additional points at the end of the round.&#10;&#10;Three common goals are also in play each game, giving you incentives to build in different directions.&#10;&#10;The mechanism of surrounding features to activate them gives Pioneer Rails a satisfying &quot;puzzley&quot; feel to the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Jeffrey D. Allers",
+      "Matthew Dunstan"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 80,
+    "mechanics": [
+      "Contracts",
+      "Line Drawing",
+      "Network and Route Building",
+      "Paper-and-Pencil"
+    ],
+    "minPlayers": 1,
+    "name": "Pioneer Rails",
+    "playingTime": 45,
+    "publisher": "Dranda Games",
+    "rating": 7.4256,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2023",
+    "expansions": [],
+    "image": "pioneer_rails.362164.full.png",
+    "thumbnail": "pioneer_rails.362164.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UXIEFKXSI@oz?^s.I;bu.8X9kqS4E,oyo}R+",
+    "sale": "",
+    "slug": "pioneer-rails",
     "new": true,
     "forSale": false
   },
