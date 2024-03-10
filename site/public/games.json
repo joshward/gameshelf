@@ -10012,6 +10012,45 @@
     "forSale": false
   },
   {
+    "bggId": 233867,
+    "categories": [
+      "City Building"
+    ],
+    "description": "As an architect in Welcome To..., you want to build the best new town in the United States of the 1950s by adding resources to a pool, hiring employees, and more.&#10;&#10;Welcome To... plays like a roll-and-write dice game in which you mark results on a score-sheet...but without dice. Instead you flip cards from three piles to make three different action sets with both a house number and a corresponding action from which everyone chooses one. You use the number to fill in a house on your street in numerical order. Then you take the action to increase the point value of estates you build or score points at the end for building parks and pools. Players also have the option of taking actions to alter or duplicate their house numbers. And everyone is racing to be the first to complete public goals. There's lots to do and many paths to becoming the best suburban architect in Welcome To...!&#10;&#10;Because of the communal actions, game play is simultaneous and thus supports large groups of players. With many varying strategies and completely randomized action sets, no two games will feel the same!&#10;&#10;",
+    "designers": [
+      "Benoit Turpin"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 100,
+    "mechanics": [
+      "Bingo",
+      "Contracts",
+      "Paper-and-Pencil",
+      "Pattern Building",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Welcome To...",
+    "playingTime": 25,
+    "publisher": "Blue Cocker Games",
+    "rating": 7.54197,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.8357,
+    "year": "2018",
+    "expansions": [],
+    "image": "welcome_to.233867.full.png",
+    "thumbnail": "welcome_to.233867.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 248,
+    "blurhash": "UKOyk8H@}+tR-:%1a{R-^Ht7OYRQxCf8NHjs",
+    "sale": "",
+    "slug": "welcome-to",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 233955,
     "categories": [
       "American West",
@@ -12372,6 +12411,47 @@
     "forSale": false
   },
   {
+    "bggId": 286063,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Exploration"
+    ],
+    "description": "The 7th Citadel is an all-new cooperative exploration and adventure game from the creators of The 7th Continent.&#10;&#10;In this post-apocalyptic medieval fantasy world, you play as a &ldquo;slave-gardener&rdquo; who escapes from the Citadel of Necrodruid Ninidazir&rsquo;, only to find yourself confronted by an even greater Threat!&#10;&#10;Explore the Collapsing Lands freely by gradually unveiling the board using numbered terrain and event cards. Interact with your environment, converse with its inhabitants, and build a city that will signal the renewal of this desolate world....&#10;&#10;As the scenarios unfold, your choices, for better or worse, will lead you inexorably to the epic finale against the Threat!&#10;&#10;",
+    "designers": [
+      "Ludovic Roudy",
+      "Bruno Sautter"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Cooperative Game",
+      "Grid Movement",
+      "Hand Management",
+      "Modular Board",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "The 7th Citadel",
+    "playingTime": 1000,
+    "publisher": "Serious Poulp",
+    "rating": 8.759,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.8077,
+    "year": "2024",
+    "expansions": [],
+    "image": "7th_citadel.286063.full.png",
+    "thumbnail": "7th_citadel.286063.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 181,
+    "blurhash": "U5J*n$Rk%ht6~pofD*WC~qfQ00of00az_3oe",
+    "sale": "",
+    "slug": "the-7th-citadel",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 286096,
     "categories": [
       "Civilization"
@@ -13247,6 +13327,45 @@
     "forSale": false
   },
   {
+    "bggId": 302524,
+    "categories": [
+      "Dice"
+    ],
+    "description": "In Super-Skill Pinball: 4-Cade, Geoff Engelstein brings the arcade classic to the tabletop with art, atmosphere, and roll-and-write mechanisms.&#10;&#10;Choose one of the four unique tables and matching backglass for scorekeeping, then roll a shared pair of dice and get the pinballs rolling! You'll select one of the two die results, then move your pinball to a bumper or spinner, or target one level below with a matching number. Once you reach the lowest level, pick which flipper's roll to use to send the ball right back to the top. Play well, and you'll unlock bonuses like multiball, score multipliers, and more to help you get the high score!&#10;&#10;The 4-Cade comes with four different tables, each with its own unique art and challenges. In &quot;Carniball&quot;, the intro table, you shoot ducks, pop balloons, and ring the bell in the test of strength! In &quot;Cyberhack&quot;, steal data from an evil corporation and earn Hacks to help you when you activate the RUN mini-game. In &quot;Dance Fever&quot;, return to the 1970s with lots of spinner action as you try to manage the main playfield and a mini-pin at the same time. In &quot;Dragon Slayer&quot;, take on the role of a young wizard and defeat enemies for big bonuses; hit drop targets to level up, and learn new spells that let you manipulate the dice and trigger bonuses like multiball.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Geoff Engelstein"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Bingo",
+      "Dice Rolling",
+      "Paper-and-Pencil",
+      "Roll / Spin and Move",
+      "Simulation",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Super-Skill Pinball",
+    "playingTime": 30,
+    "publisher": "WizKids (I)",
+    "rating": 7.11011,
+    "subTitle": "4-Cade",
+    "tags": [],
+    "weight": 2.2391,
+    "year": "2020",
+    "expansions": [],
+    "image": "super_skill_pinball.302524.full.png",
+    "thumbnail": "super_skill_pinball.302524.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 167,
+    "blurhash": "UBGun97%MME1}j}t9]E4qsIUXNRkz;5r-=Na",
+    "sale": "",
+    "slug": "super-skill-pinball",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 302723,
     "categories": [
       "Adventure",
@@ -13694,6 +13813,59 @@
     "blurhash": "U39%^~xu00E2~VE1Iq%M4.%gxWIA00W?%0IT",
     "slug": "the-sherlock-files",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 317582,
+    "categories": [
+      "Adventure",
+      "City Building",
+      "Civilization",
+      "Fantasy",
+      "Farming",
+      "Mythology"
+    ],
+    "description": "Mythwind is a cooperative &amp; solo &quot;cozy&quot; board game with unique characters, magical sprites, engaging story and an unending adventure.&#10;&#10;During the game, the characters are working together to establish and build a new town in the magical Mythwind Valley. They work to achieve various goals by constructing buildings within the town, adventuring throughout the region, navigating relationships with the mysterious sprites who inhabit the valley, and developing their character-specific professions.&#10;&#10;As an open-ended game, Mythwind has no distinct conclusion. Although many players may find a natural end point to their game at the conclusion of the story, players can continue to play the game for as long as they would like over as many game sessions as they wish. As players progress through the game, their town will develop and grow, reacting to changing seasons and to the members of the community over time. Progress made can be easily saved using the provided game trays, which offer a quick and easy solution for both tear-down of the current game and setup of future games.&#10;&#10;Crafter: The Crafter&rsquo;s goal is to make items for the townsfolk. As the Crafter perfects their craft, they can bolster their reputation and sell their items for a greater profit.&#10;&#10;Farmer: The Farmer&rsquo;s goal is to plant and grow crops to sell for a profit. Crops are polyomino pieces that the Farmer must manage within their farming area.&#10;&#10;Merchant: The Merchant&rsquo;s goal is to buy and sell goods within the marketplace. They must pay attention to the supply and demand of the various goods while also competing with rival merchants.&#10;&#10;Ranger: The Ranger&rsquo;s goal is to explore and collect resources for the town. The Ranger spends their time preparing for and embarking on expeditions throughout the valley.&#10;&#10;",
+    "designers": [
+      "Nathan Lige",
+      "Brendan McCaskell"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Cooperative Game",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers",
+      "Worker Placement",
+      "Worker Placement with Dice Workers"
+    ],
+    "minPlayers": 1,
+    "name": "Mythwind",
+    "playingTime": 60,
+    "publisher": "Open Owl Studios",
+    "rating": 7.87863,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.9231,
+    "year": "2024",
+    "expansions": [
+      {
+        "bggId": 371625,
+        "name": "Mythwind: Winds of Magic",
+        "year": "2023"
+      }
+    ],
+    "image": "mythwind.317582.full.png",
+    "thumbnail": "mythwind.317582.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "URG+~lDgM}tR~qMwxwV?o$ROWEoftSRhRjbJ",
+    "sale": "",
+    "slug": "mythwind",
+    "new": true,
     "forSale": false
   },
   {
@@ -15036,7 +15208,7 @@
     "blurhash": "UQF%-,a~YjkULNodkVV]#QWUnOofY5nmi{bE",
     "sale": "",
     "slug": "point-city",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15416,7 +15588,7 @@
     "blurhash": "UhJJMexaD*kD~poextoK$Kflt6f6-nj@RlWX",
     "sale": "",
     "slug": "deep-dive",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15614,6 +15786,86 @@
     "blurhash": "U7ECLL;n01paICIo-OIC0IF|=:$j8|Me9vtL",
     "sale": "",
     "slug": "tricky-time-crisis",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 386937,
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "description": "Lacuna is a game for 2 players about collecting flowers on a pond at night. It takes seconds to set up and plays entirely on a cloth mat.&#10;&#10;The rules are simple: draw an imaginary line between 2 flowers, place a pawn, and collect both flowers.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Mark Gerrits"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Zone of Control"
+    ],
+    "minPlayers": 2,
+    "name": "Lacuna",
+    "playingTime": 15,
+    "publisher": "CMYK",
+    "rating": 7.63612,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.0526,
+    "year": "2023",
+    "expansions": [],
+    "image": "lacuna.386937.full.png",
+    "thumbnail": "lacuna.386937.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U9B{D,jt}cay~Aj[%3ay9=WqOqWX^PazK5WV",
+    "sale": "",
+    "slug": "lacuna",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 390163,
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "description": "In Avant Carde, you want to build a collection of stunning cubist artwork. Each player starts with a deck of ten so-so cards: 1s and 2s in six colors that don't match and four high-value cards, each in a different color. Each player draws a hand of seven cards, then puts on the best exhibition possible by matching colors and numbers, e.g. red 11, red 1, purple 1, purple 13.&#10;&#10;Each card you play earns you $1, and in turn players can buy cards from the gallery stacks: a 2 costs $2, a 3 $3, etc. Once per turn, you can bury a top card in a gallery stack on the bottom of that stack. If you don't spend all of your money and don't already have a change token, take a change token from the bank; it's worth $1 when you decide to spend it. End your turn by discarding all played cards and cards still in hand, then draw a hand of seven cards, shuffling your discard pile when necessary.&#10;&#10;Six patrons numbered 2-7 are in play, and they give cards additional powers. If you played the most 2s, for example, you have an extra $1 to spend; if you played a 3, you can trash a card from your hand or played area; when you play a 4, you can change either its color or number. Avant Carde includes multiple sets of patrons, and you can use the cards from a single set or mix them.&#10;&#10;Why are you building this collection? To gain awards! If you earn at least $6, you gain an award, and higher amounts net you more awards. Earning $11 is worth four awards, and while you might wonder how you can earn $11, a 7 patron lets you draw additional cards on a turn and a 5 patron lets you earn an extra $1 for each 5.&#10;&#10;When the deck of awards runs out, whoever has collected the most awards wins.&#10;&#10;",
+    "designers": [
+      "Mary Flanagan",
+      "Max Seidman"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Matching",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Variable Set-up"
+    ],
+    "minPlayers": 1,
+    "name": "Avant Carde",
+    "playingTime": 35,
+    "publisher": "Resonym",
+    "rating": 7.21385,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2024",
+    "expansions": [
+      {
+        "bggId": 412121,
+        "name": "Avant Carde: Londoners",
+        "year": "2024"
+      }
+    ],
+    "image": "avant_carde.390163.full.png",
+    "thumbnail": "avant_carde.390163.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 187,
+    "blurhash": "UIJj}QPLnPs;1nJqaipH8{v}KjM#$,KN$yxW",
+    "sale": "",
+    "slug": "avant-carde",
     "new": true,
     "forSale": false
   },
