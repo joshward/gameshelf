@@ -55,6 +55,11 @@
     "versionId": 106374
   },
   {
+    "bggId": 503,
+    "addedDate": 1713596400000,
+    "versionId": 684220
+  },
+  {
     "bggId": 521,
     "addedDate": 0,
     "versionId": 468127
@@ -490,6 +495,10 @@
   {
     "bggId": 146508,
     "addedDate": 0
+  },
+  {
+    "bggId": 147020,
+    "addedDate": 1714374000000
   },
   {
     "bggId": 147151,
@@ -1217,6 +1226,10 @@
     "versionId": 432795
   },
   {
+    "bggId": 266083,
+    "addedDate": 1712991600000
+  },
+  {
     "bggId": 266192,
     "addedDate": 0
   },
@@ -1534,6 +1547,10 @@
     "versionId": 568372
   },
   {
+    "bggId": 341519,
+    "addedDate": 1713596400000
+  },
+  {
     "bggId": 341945,
     "addedDate": 1689058800000,
     "versionId": 570160
@@ -1590,6 +1607,15 @@
     "addedDate": 1704268800000
   },
   {
+    "bggId": 363614,
+    "addedDate": 1713596400000,
+    "versionId": 680593
+  },
+  {
+    "bggId": 365742,
+    "addedDate": 1713942000000
+  },
+  {
     "bggId": 366013,
     "addedDate": 1698303600000,
     "versionId": 680887
@@ -1597,6 +1623,11 @@
   {
     "bggId": 368017,
     "addedDate": 1692255600000
+  },
+  {
+    "bggId": 368061,
+    "addedDate": 1713942000000,
+    "versionId": 626169
   },
   {
     "bggId": 368432,
@@ -1642,6 +1673,10 @@
     "versionId": 635521
   },
   {
+    "bggId": 374173,
+    "addedDate": 1712991600000
+  },
+  {
     "bggId": 376747,
     "addedDate": 1692255600000
   },
@@ -1662,6 +1697,18 @@
     "addedDate": 1693119600000
   },
   {
+    "bggId": 383450,
+    "addedDate": 1713942000000
+  },
+  {
+    "bggId": 383452,
+    "addedDate": 1713942000000
+  },
+  {
+    "bggId": 383529,
+    "addedDate": 1713942000000
+  },
+  {
     "bggId": 383701,
     "addedDate": 1692342000000
   },
@@ -1674,7 +1721,47 @@
     "addedDate": 1707552000000
   },
   {
+    "bggId": 393672,
+    "addedDate": 1707033600000
+  },
+  {
+    "bggId": 396332,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396333,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396334,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396335,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396337,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396338,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 396339,
+    "addedDate": 1709539200000
+  },
+  {
+    "bggId": 399987,
+    "addedDate": 1713596400000
+  },
+  {
     "bggId": 400314,
     "addedDate": 1698735600000
+  },
+  {
+    "bggId": 401216,
+    "addedDate": 1713596400000
   }
 ]

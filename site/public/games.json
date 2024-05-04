@@ -413,6 +413,53 @@
     "forSale": false
   },
   {
+    "bggId": 503,
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Arabian"
+    ],
+    "description": "Each player attempts to score the most points by snaking caravan routes through the desert, trying to reach oases and blocking off sections of the desert. Many people feel that it is reminiscent of Go.&#10;&#10;Publisher's Description&#10;From the award-winning game designer Reiner Knizia comes a game of strategy, patience, and cool plastic camels! The desert is still treacherous, mysterious, and without mercy. But for those willing to risk the dangers of the shifting, sun-baked sands, the desert holds riches beyond compare.&#10; In Through the Desert, two to five players each control a tribe of nomads vying for control of the desert. By establishing caravans and taking over oases, the players gain points as their tribes increase in power.&#10; Strategy is essential in deciding how and where to build your tribe's caravans. There are multiple ways to gain points and several ways to win. Should you try to build the longest caravan? Or should you dominate the desert's oases? Don't forget to keep an eye on your opponents' caravans, or you may find your own tribe cut off from valuable water holes.&#10;&#10;Through the Desert is part of the so called Knizia tile-laying trilogy.&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Enclosure",
+      "Hexagon Grid",
+      "Hidden Victory Points",
+      "Network and Route Building"
+    ],
+    "minPlayers": 2,
+    "name": "Through the Desert",
+    "playingTime": 45,
+    "publisher": "Allplay",
+    "rating": 7.09931,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.2013,
+    "year": "2024",
+    "expansions": [
+      {
+        "bggId": 399973,
+        "name": "Through the Desert: Bazaar",
+        "year": "2024"
+      }
+    ],
+    "image": "through_the_desert.503.full.png",
+    "thumbnail": "through_the_desert.503.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UBDu}nEe?JIU0%VXOHV?HXM{s8Na~p-;s*Rj",
+    "sale": "",
+    "slug": "through-the-desert",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 521,
     "categories": [
       "Action / Dexterity"
@@ -4294,6 +4341,50 @@
     "blurhash": "UnRC}N~W9GxuxuRjt7WBxuNGj@t7WVofayae",
     "slug": "time-stories",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 147020,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Science Fiction"
+    ],
+    "description": "Star Realms is a spaceship combat deck-building game by Magic Hall of Famers Darwin Kastle (The Battle for Hill 218) and Rob Dougherty (Ascension Co-designer).&#10;&#10;Star Realms is a fast paced deck-building card game of outer space combat. It combines the fun of a deck-building game with the interactivity of Trading Card Game style combat. As you play, you make use of Trade to acquire new Ships and Bases from the cards being turned face up in the Trade Row from the Trade Deck. You use the Ships and Bases you acquire to either generate more Trade or to generate Combat to attack your opponent and their bases. When you reduce your opponent&rsquo;s score (called Authority) to zero, you win!&#10;&#10;Multiple decks of Star Realms and/or Star Realms: Colony Wars, one for every two people, allows up to six players to play a variety of scenarios. Also, in the newest version, there are new ways to play that allow up to 6 players with modes like Boss, Hunter, and Free for All. You can also add Star Realms Colony Wars to the deck to make it 4 players. This is the first game of the Star Realms series. When you play Star Realms, you will be able to acquire and use Ships and Bases of any and all of the four factions. Many cards have powerful Ally abilities that reward you for using Ships and Bases of the same faction together, however.&#10;&#10;As you acquire cards using Trade, you put them into your discard pile, to be later shuffled into your personal deck. When you draw Ships, you do what they say and they get placed into your discard pile at the end of your turn. When you draw a Base, you play it face up in front of you and may use its abilities once every turn. In addition to Combat being the way you reduce your opponent&rsquo;s Authority to zero and win the game, it&rsquo;s also useful for destroying your opponent&rsquo;s Bases. Some Bases are designated as Outposts. Your opponent&rsquo;s Outposts must be destroyed before you can use Combat to attack your opponent&rsquo;s Authority directly.&#10;&#10;Star Realms is easy to learn, especially if you&rsquo;re familiar with deck-building games, but it&rsquo;s a game that takes time to master. Each time you play, the game is filled with various strategic decision points. Should I take the best card for me or the best card for my opponent? Should I focus on taking cards of a particular faction or on taking the best card available? Should I be focusing on acquiring more Trade or more Combat? Should I attack my opponent&rsquo;s Base or their Authority? These are just some of the many choices you&rsquo;ll be faced with. New players needn&rsquo;t agonize over these choices just to play, but as they become more advanced players, they will find this depth of strategy leads to great replayability.&#10;&#10;",
+    "designers": [
+      "Robert Dougherty",
+      "Darwin Kastle"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Delayed Purchase",
+      "Hand Management",
+      "Income",
+      "Open Drafting",
+      "Tags",
+      "Take That",
+      "Variable Set-up"
+    ],
+    "minPlayers": 2,
+    "name": "Star Realms",
+    "playingTime": 20,
+    "publisher": "Wise Wizard Games",
+    "rating": 7.56274,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.9238,
+    "year": "2014",
+    "expansions": [],
+    "image": "star_realms.147020.full.png",
+    "thumbnail": "star_realms.147020.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 179,
+    "blurhash": "UFEVsi?cT}?bRoRjD$WU4.rXveIWR4X4x]t6",
+    "sale": "",
+    "slug": "star-realms",
+    "new": true,
     "forSale": false
   },
   {
@@ -9241,7 +9332,7 @@
     "blurhash": "UDC*TmNG02oy_MayIUoM0Wk8;ToeIVoMt8WB",
     "sale": "",
     "slug": "codenames",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -11540,6 +11631,44 @@
     "forSale": true
   },
   {
+    "bggId": 266083,
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "description": "In LLAMA, you want to dump cards from your hand as quickly as you can, but you might not be able to play what you want, so do you quit and freeze your hand or draw and hope to keep playing?&#10;&#10;Each player starts a round with six cards in hand; the deck consists of llama cards and cards numbered 1-6, with eight copies of each. On a turn, the active player can play a card, draw a card, or quit. To play a card, you must play the same number as the top card of the discard pile or one number higher. If a 6 is on the discard pile, you can play a 6 or a llama, and if a llama is on top, you can play another llama or a 1. If you quit, you place your remaining cards face down and take no further actions in the round. If all players have quit but one, that player can continue to play, but cannot draw more cards.&#10;&#10;The round ends when one player empties their hand or all players have quit. In either case, players collect tokens based on the cards in their hand. Each different number card in hand gets you white tokens (each worth 1 point) equal to the value of the card while one or more llamas gets you a black token (worth 10 points). (You can exchange ten white tokens for one black token at any time.) If you played all your cards, you can return one token (white or black) that you previously collected to the supply. You then shuffle all the cards and begin a new round, in which the first player to play will be the one who emptied their hand or was the last one to quit in the previous round.&#10;&#10;The game ends at the end of the round where at least one player has forty or more total points. Whoever has the fewest points wins!&#10;&#10;The original title of this game is a German acronym and stands for Lege alle Minuspunkte ab, that is, &quot;discard all minus points&quot;, with &quot;Lama&quot; also being the German spelling of &quot;llama&quot;.&#10;&#10;The Polish game Lato z Komarami features gameplay nearly identical to LLAMA except that the game has one less &quot;llama&quot; card, and the penalty for llama cards in hand is 10 points per card, instead of being 10 points for one or more llama cards.&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Matching",
+      "Push Your Luck"
+    ],
+    "minPlayers": 2,
+    "name": "L.L.A.M.A.",
+    "playingTime": 20,
+    "publisher": "AMIGO",
+    "rating": 6.48947,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.0526,
+    "year": "2019",
+    "expansions": [],
+    "image": "llama.266083.full.png",
+    "thumbnail": "llama.266083.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 195,
+    "blurhash": "UJKBEx$BortJ-tS~t7X8%gKOJCR;Kla*WGxa",
+    "sale": "",
+    "slug": "llama",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 266192,
     "categories": [
       "Animals",
@@ -12448,7 +12577,7 @@
     "blurhash": "U5J*n$Rk%ht6~pofD*WC~qfQ00of00az_3oe",
     "sale": "",
     "slug": "the-7th-citadel",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12649,7 +12778,7 @@
     "blurhash": "UmL_thoLs+oc}QazxVjsovfQahj?$_a#R.j?",
     "sale": "",
     "slug": "scout",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -12777,7 +12906,7 @@
     "blurhash": "UfJI-AI^?wt6_MjqtmWY9~xDIUR*o}f9Rjo0",
     "sale": "",
     "slug": "eos",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13865,7 +13994,7 @@
     "blurhash": "URG+~lDgM}tR~qMwxwV?o$ROWEoftSRhRjbJ",
     "sale": "",
     "slug": "mythwind",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14595,6 +14724,47 @@
     "forSale": false
   },
   {
+    "bggId": 341519,
+    "categories": [
+      "Adventure",
+      "Deduction",
+      "Fantasy",
+      "Murder/Mystery",
+      "Puzzle"
+    ],
+    "description": "Your friend&rsquo;s mysterious disappearance results in the discovery of an unusual item, leading you to embark on a journey through time and memory. In this narrative puzzle adventure, an intimate coming-of-age story is told through an object that serves as a tarot deck, a puzzle game, and a work of art. You will need to manipulate cards, find hidden messages, and solve logic and word problems in order to uncover the deck&rsquo;s secrets.&#10;&#10;The tarot deck contains 78 cards--56 Minor Arcana and 22 Major Arcana, the latter of which each represent a puzzle. Puzzles are solved using sets of  Minor Arcana cards and clues from the story booklet and result in solution keywords that lead players to discover new pieces of the narrative. Some story passages grant items which can be later used to unlock extra scenes, and some puzzles have multiple answers, allowing players to unlock more of the story if they find all the solutions.&#10;&#10;Packed with gorgeous illustrations, resonant storytelling, and unique puzzles, The Light in the Mist can be played solo or cooperatively in a small group. It&rsquo;s non-linear structure and varied puzzle difficulty will engage players of all experience levels with over five hours of gameplay. Do you have what it takes to overcome the challenges thrown your way without getting lost in the mist?&#10;&#10;",
+    "designers": [
+      "Jack Fallows",
+      "Rita Orlov"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "The Light in the Mist",
+    "playingTime": 500,
+    "publisher": "PostCurious",
+    "rating": 8.25992,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.9167,
+    "year": "2022",
+    "expansions": [],
+    "image": "light_in_the_mist.341519.full.png",
+    "thumbnail": "light_in_the_mist.341519.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 172,
+    "blurhash": "U79jiW-.04bv~n?FM}aeIq%e?Yaf4qt5~RkC",
+    "sale": "",
+    "slug": "the-light-in-the-mist",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 341945,
     "categories": [
       "Dice",
@@ -14803,7 +14973,7 @@
     "blurhash": "UXOU06V@ENI;~UWBaKsmxZoyxYn$nNt7WWae",
     "sale": "",
     "slug": "fliptown",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14919,7 +15089,7 @@
     "blurhash": "UUHUtY.757D*_NozM{RP5qso-TxZIpt6xuo}",
     "sale": "",
     "slug": "empires-end",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14962,7 +15132,7 @@
     "blurhash": "UDG,eP:~00OY?b.TSjM|00Io#7yEIqWCI@R4",
     "sale": "",
     "slug": "sleeping-gods",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15086,7 +15256,7 @@
     "blurhash": "UQMG04VZt7ogcbxtRlNG16tkM{e-x@sqRkM|",
     "sale": "",
     "slug": "first-in-flight",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15125,6 +15295,76 @@
     "blurhash": "UXIEFKXSI@oz?^s.I;bu.8X9kqS4E,oyo}R+",
     "sale": "",
     "slug": "pioneer-rails",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 363614,
+    "categories": [
+      "Number"
+    ],
+    "description": "In Connect37, players place tiles numbered 1 to 37 into a hexagonal grid. When they place a tile, they may also place one of their chips onto it. At the end of the game, players check for groups of tiles on the board with consecutive numbers such that you can trace a sequential path; any player chips on these tiles are worth points. The player with the most points wins.&#10;&#10;Switchbacks keeps the same gameplay as the original release, but with players now going on a mountain-trekking expedition and marking the trail along the way, ideally building connected paths.&#10;&#10;",
+    "designers": [
+      "Susumu Kawasaki"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Switchbacks",
+    "playingTime": 15,
+    "publisher": "Allplay",
+    "rating": 6.74913,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2024",
+    "expansions": [],
+    "image": "switchbacks.363614.full.png",
+    "thumbnail": "switchbacks.363614.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UiI};Q-OMyNH.TW=n$s.72I[tRoIM{n$S$I=",
+    "sale": "",
+    "slug": "switchbacks",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 365742,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Bacon is a fixed-partnerships climbing game for 4 or 6 players that is all about going out early as a team. The only team that will score is the team that goes out first, but their score will depend on when the rest of the team goes out. If your team does NOT go out first, your job is simple: make the other team go out as late as possible.&#10;&#10;The rules also include the Applewood variant for 3 to 6 players: this is the no-partnerships version of Bacon. There are no teams; it&rsquo;s every person for themselves. Your score will depend solely on the position you go out so go out early.&#10;&#10;",
+    "designers": [
+      "Sean Ross (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Team-Based Game"
+    ],
+    "minPlayers": 3,
+    "name": "Bacon",
+    "playingTime": 90,
+    "publisher": "Allplay",
+    "rating": 7.1853,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.5556,
+    "year": "2023",
+    "expansions": [],
+    "image": "bacon.365742.full.png",
+    "thumbnail": "bacon.365742.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UJNTt4tQy?%No{r=RPeoNGb^nPn5TKoznNoe",
+    "sale": "",
+    "slug": "bacon",
     "new": true,
     "forSale": false
   },
@@ -15170,7 +15410,7 @@
     "blurhash": "UYJau=RPItx]~Bi_tPt6={adXQRkNa%fRoWB",
     "sale": "",
     "slug": "heat",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15212,6 +15452,50 @@
     "forSale": false
   },
   {
+    "bggId": 368061,
+    "categories": [
+      "Animals",
+      "Negotiation",
+      "Political"
+    ],
+    "description": "What if the animals were the ones who ran the zoo?&#10;&#10;&hellip;Presumably, this wild government would be built upon the support of fellow creatures and fueled by the fame, attention, and prestige of wide-eyed visitors.  Naturally, the most aspirational beasts would lobby for a position in the star exhibit, and the lead star would be elected Zoo Mascot.&#10;&#10;In order to join the star exhibit, each species must campaign its way up the hierarchy of enclosures with the majority support of animal voters.  And the lead star will be the species that has earned the most laurels from both raving fans and jealous rivals along the way.&#10;&#10;How does one gain support and earn laurels?  Through crafty politicking, clever negotiations, and ruthless schemes.  There can only be one Zoo Mascot, after all.&#10;&#10;Where are you going? That is the ultimate question of Zoo Vadis.&#10;&#10;Zoo Vadis is an evolution of Reiner Knizia&rsquo;s classic negotiation game, Quo Vadis? It retains the elegant, political gameplay that fans have come to love while introducing many innovations and improvements by:&#10;&#10;&#10;     Enhancing the 3-player game and tailoring the board to all player counts through neutral, bribable figures&mdash;roaming peacocks&#10;     Widening the player count with a second game board for 6-7 players&#10;     Expanding the possibilities for strategic negotiation with asymmetric animal abilities&#10;     Increasing tactical opportunities with new special laurel tokens&#10;     Broadening the appeal of the theme and presentation with vibrant zoo art by Kwanchai Moriya and Brigette Indelicato&#10;     Enlivening the production with chunky animal figures and functional player screens&#10;&#10;&#10;Like the original design, the game ends immediately when the Star Exhibit is full. Only the animals who have reached the Star Exhibit qualify for victory, and the winner is the player with the most laurels.&#10;&#10;&ndash;description from publisher&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 7,
+    "mechanics": [
+      "Bribery",
+      "Hidden Victory Points",
+      "Negotiation",
+      "Once-Per-Game Abilities",
+      "Point to Point Movement",
+      "Trading",
+      "Variable Player Powers",
+      "Victory Points as a Resource",
+      "Voting"
+    ],
+    "minPlayers": 3,
+    "name": "Zoo Vadis",
+    "playingTime": 40,
+    "publisher": "Bitewing Games",
+    "rating": 7.7309,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.0488,
+    "year": "2023",
+    "expansions": [],
+    "image": "zoo_vadis.368061.full.png",
+    "thumbnail": "zoo_vadis.368061.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 179,
+    "blurhash": "UUK^KZjb.8WB~poLxuWB?HkCRkj]ShWBNat6",
+    "sale": "",
+    "slug": "zoo-vadis",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 368432,
     "categories": [
       "Animals",
@@ -15248,7 +15532,7 @@
     "blurhash": "U5F}_$0001N300~U01yD?iV[=~E202-:?sRP",
     "sale": "",
     "slug": "the-fox-experiment",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15425,7 +15709,7 @@
     "blurhash": "URKdoL9F%gMx-;WARia}_NIAV@%MoeofWBRj",
     "sale": "",
     "slug": "arborea",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15506,7 +15790,7 @@
     "blurhash": "U3Bo~iM{01=_8|xZRUE300og~BEM-jV?-;?G",
     "sale": "",
     "slug": "trolls-and-princesses",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15551,6 +15835,47 @@
     "sale": "",
     "slug": "spots",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 374173,
+    "categories": [
+      "Card Game",
+      "Fighting",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "description": "The Rebel Alliance fights valiantly against the tyranny of the Galactic Empire. Each new victory brings the Rebels hope, and each heroic sacrifice strengthens their resolve. Still, the Empire's resources are vast, and the firepower of its Empire Navy is unmatched. With neither side willing to accept defeat, their war rages across the galaxy...&#10;&#10;In Star Wars: The Deckbuilding Game, a head-to-head game for two players, the galaxy-spanning war between the Galactic Empire and the Rebel Alliance comes alive on your tabletop. In this easy-to-learn game, you and your opponent each choose a side, playing as either the Empire or the Rebels, and as the game progresses you both strengthen the power of your starting decks and work to destroy each other's bases. The first player to destroy three of their opponent's bases wins.&#10;&#10;In more detail, each player starts with a unique ten-card deck, with seven of those cards providing only resources to acquire new cards. Six cards from a galaxy deck are always on display, with Rebel cards facing the Rebel player, Empire cards the Empire player, and neutral cards turned sideways. You can spend resources to acquire cards in the galaxy row that don't belong to the opponent, and you can use attack power to take out cards that do belong to them, gaining a reward in the process.&#10;&#10;Each player starts with a base that lacks abilities (Dantooine for the Rebels and Lothal for the Empire), but when that base is destroyed, you get to choose a replacement from your base deck, with each base having a special ability. Choose wisely to counter your opponent's plans! In addition to having special abilities, capital ships absorb damage meant for your base.&#10;&#10;Players also fight for control of a Force track to gain additional resources or make use of &quot;If the Force is with you...&quot; abilities on their cards.&#10;&#10;",
+    "designers": [
+      "Caleb Grace"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Open Drafting",
+      "Tug of War"
+    ],
+    "minPlayers": 2,
+    "name": "Star Wars",
+    "playingTime": 30,
+    "publisher": "Fantasy Flight Games",
+    "rating": 7.92251,
+    "subTitle": "The Deckbuilding Game",
+    "tags": [
+      "fav"
+    ],
+    "weight": 2.0237,
+    "year": "2023",
+    "expansions": [],
+    "image": "star_wars.374173.full.png",
+    "thumbnail": "star_wars.374173.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 191,
+    "blurhash": "UGC?Wa%N00Io~qad9FoytlM{V?xZt6ozIooh",
+    "sale": "",
+    "slug": "star-wars",
+    "new": true,
     "forSale": false
   },
   {
@@ -15628,7 +15953,7 @@
     "blurhash": "U9PEo37AEkPTYzzBTJslK#vh$i%f{yWFMzrs",
     "sale": "",
     "slug": "mind-space",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15671,7 +15996,7 @@
     "blurhash": "UqM6@ZniIBkV~Ut5R%V[M{j@ofniIWjGS5X8",
     "sale": "",
     "slug": "chomp",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15716,7 +16041,7 @@
     "blurhash": "UVEhm~ogTcNax$sjNbkC1UR.nAs.-LW?$^aL",
     "sale": "",
     "slug": "sail",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15752,6 +16077,113 @@
     "blurhash": "U8MG@u.800%100Rj.mof00WB+bNHG[M_*|Rj",
     "sale": "",
     "slug": "couture",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 383450,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Pies is a quick and tasty trick-taking game in which players play fruit cards over the course of three rounds with the goal of collecting combinations of ingredients to prepare the tastiest pies&#10;&#10;Each round consists of six tricks (five in a five-player game). One card is played by each player, with the person playing the highest-value card drafting one card from the trick into their display, with others following in order of descending card value, with the last player also receiving a Plum card. Special actions can be triggered at this point, allowing players to steal fruit cards or call the dog to protect their fruit from other thieves!&#10;&#10;At the end of the game, the player with the most valuable pie mixes wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Matthias Cramer"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Open Drafting",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Pies",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 6.37101,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2023",
+    "expansions": [],
+    "image": "pies.383450.full.png",
+    "thumbnail": "pies.383450.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UDI}Ff-5IUIB?w-oR4xtAdi^$wIT=|xBE2k9",
+    "sale": "",
+    "slug": "pies",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 383452,
+    "categories": [
+      "Animals",
+      "Card Game"
+    ],
+    "description": "Lunar is a quick-playing, trick-taking game for two or four players in which players combine the phases of the moon and nocturnal animals to form cards played into tricks, which are combined to determine their value within each trick.&#10;&#10;Each round consists of twelve tricks played, and at the end of each round, a score is awarded based on the number of tricks and cards acquired. Once one player (or team) reaches 30 points, the game ends, and the side with the most points wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Masato Uesugi"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "minPlayers": 2,
+    "name": "Lunar",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 7.22035,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.9,
+    "year": "2023",
+    "expansions": [],
+    "image": "lunar.383452.full.png",
+    "thumbnail": "lunar.383452.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U69@t|bI00jE=|V@krtR00og~WRP00ay_Nay",
+    "sale": "",
+    "slug": "lunar",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 383529,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Mori is the Latin word for death and the Japanese word for forest. Both of these interpretations are represented in this artwork of this card game.&#10;&#10;Mori is a quick-playing trick-taking game that asks players to carefully manipulate their hand of cards by playing tricks and using dice to find their way to the best possible score.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Daniel Newman"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Mori",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 6.77925,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.5,
+    "year": "2023",
+    "expansions": [],
+    "image": "mori.383529.full.png",
+    "thumbnail": "mori.383529.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UMG*$i~n9s9H;|RQNHxZR%Ipofozo|xutRR%",
+    "sale": "",
+    "slug": "mori",
     "new": true,
     "forSale": false
   },
@@ -15820,7 +16252,7 @@
     "blurhash": "U9B{D,jt}cay~Aj[%3ay9=WqOqWX^PazK5WV",
     "sale": "",
     "slug": "lacuna",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15866,6 +16298,387 @@
     "blurhash": "UIJj}QPLnPs;1nJqaipH8{v}KjM#$,KN$yxW",
     "sale": "",
     "slug": "avant-carde",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 393672,
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy",
+      "Fighting",
+      "Miniatures"
+    ],
+    "description": "Gloomhaven: Buttons &amp; Bugs is a solo play game, with an original campaign story written by Isaac Childres, that features a playstyle similar to Gloomhaven in a fraction of the size.&#10;&#10;Gloomhaven: Buttons &amp; Bugs is set after the events of Gloomhaven and Forgotten Circles. The Aesther recluse Hail has earned a reputation for being highly instrumental in saving the city from recurring disasters, and she absolutely hates it. Wannabe heroes are constantly barging in on her studies at the Crooked Bone, looking for help in becoming famous themselves &mdash; not to mention all the demons that come by looking for vengeance. She briefly considered moving, but as that would require effort, she instead just placed an enchantment on her front door: Anyone who attempts to open it becomes miniaturized and therefore is no longer a problem.&#10;&#10;Your character is one such wannabe hero. In an ill-advised attempt at fame, they try to visit Hail, and poof. Now they're the size of a mouse and have entered an entirely different realm of lawlessness and self-preservation. They must find a new way into the Crooked Bone to convince Hail to return them to their previous size.&#10;&#10;Each scenario is a single card, pitting one mercenary against a handful of enemies with simplified actions and AI. Each mercenary has a hand of just four double-sided cards, but they can be used twice &mdash; both the front and the back &mdash; before they are discarded. Attacks are resolved using a die in conjunction with a modifier table, and both the table and the mercenary ability cards can be improved as you level up throughout the campaign.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Joe Klipfel",
+      "Nikki Valens"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 1,
+    "mechanics": [
+      "Campaign / Battle Card Driven",
+      "Card Play Conflict Resolution",
+      "Critical Hits and Failures",
+      "Grid Movement",
+      "Hand Management",
+      "Hexagon Grid",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Storytelling",
+      "Variable Player Powers"
+    ],
+    "minPlayers": 1,
+    "name": "Gloomhaven",
+    "playingTime": 30,
+    "publisher": "Cephalofair Games",
+    "rating": 7.74366,
+    "subTitle": "Buttons & Bugs",
+    "tags": [],
+    "weight": 3.0952,
+    "year": "2024",
+    "expansions": [],
+    "image": "gloomhaven.393672.full.png",
+    "thumbnail": "gloomhaven.393672.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 327,
+    "blurhash": "U6IC~6m-03$j}?^j0MIq0rNE-jxtrqOY^fxs",
+    "sale": "",
+    "slug": "gloomhaven",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 396332,
+    "categories": [
+      "Card Game",
+      "Racing",
+      "Sports"
+    ],
+    "description": "In this micro Long Shot card game, players bet and perform actions at the track while the race unfolds. Your secret bets and clever horse moves are key to winning the most cash at the end of the race!&#10;&#10;The Active Player reveals the 4 Run cards, flipping them over 1 at a time to form a row.&#10;&#10;The game ends immediately after a third horse crosses the finished line (Track space 9). Players then reveal their Starting Bets and multiply them with the 3 finished horses&rsquo; Odds. Next, do the same for any Bets placed at the Bookie card and add any remaining Cash for a final total. The player with the most money wins!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action/Event",
+      "Alliances",
+      "Betting and Bluffing",
+      "Grid Movement",
+      "Race"
+    ],
+    "minPlayers": 2,
+    "name": "WIN",
+    "playingTime": 40,
+    "publisher": "Perplext",
+    "rating": 7.375,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "win.396332.full.png",
+    "thumbnail": "win.396332.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UmL4sQjFn$js*0WVS4fk%KkVR+bHWEofs,fi",
+    "sale": "",
+    "slug": "win",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396333,
+    "categories": [
+      "Abstract Strategy",
+      "Aviation / Flight",
+      "Card Game",
+      "Deduction",
+      "Exploration",
+      "Memory",
+      "Racing",
+      "Science Fiction"
+    ],
+    "description": "In this race for time, players race their Airships around a clock, capturing face-up Time Capsule cards for points at the end of the game. &#10;Each round, the clock ticks one hour, flipping over the card in that hour's position. Players draft Action cards, then perform precise movements and card or Airship rotations in order to position themselves to capture the most Time Capsules at the end of the round. &#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#9;&#9;&#10;&#10;Time Capsules are numbered 1-12 and reward their face value in points. The player with the most points wins!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 3,
+    "mechanics": [
+      "Action Drafting",
+      "Closed Drafting",
+      "Map Reduction",
+      "Memory",
+      "Multi-Use Cards"
+    ],
+    "minPlayers": 2,
+    "name": "YET",
+    "playingTime": 30,
+    "publisher": "Perplext",
+    "rating": 6.88889,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2024",
+    "expansions": [],
+    "image": "yet.396333.full.png",
+    "thumbnail": "yet.396333.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UtK_Lat7x]of}=oeogayIWWXRjWBt,WCWVkC",
+    "sale": "",
+    "slug": "yet",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396334,
+    "categories": [
+      "Card Game",
+      "Math",
+      "Science Fiction"
+    ],
+    "description": "In this trick-taking game, winning a Trick isn&rsquo;t always desired because each card has a &lsquo;Science&rsquo; (+) and &lsquo;Madness&rsquo; (-) side that could challenge the balance of players&rsquo; Score Piles. Trick winners take an opponent&rsquo;s card into one of their matching Score Piles - 2 suits of which are imbalanced from the start - with the goal to reduce each suit to 0. The lowest total score wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "John Brieger",
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Events",
+      "Hand Management",
+      "Highest-Lowest Scoring",
+      "Multi-Use Cards",
+      "Set Collection",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "MAD",
+    "playingTime": 45,
+    "publisher": "Perplext",
+    "rating": 8.16667,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "mad.396334.full.png",
+    "thumbnail": "mad.396334.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UDI:dxG9Me$eorIWr_oy4mXmxHo|~BozIprr",
+    "sale": "",
+    "slug": "mad",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396335,
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Card Game",
+      "Environmental"
+    ],
+    "description": "In this 2-player battle for the Bog, you&rsquo;ll play Frogs from your hand and move them around on Lily Pads (playing area). Land on flies to draw more cards and on opposing Frogs to earn points. Complete Frog &lsquo;Routes&rsquo; and score Frog &lsquo;Formations&rsquo; for even more points. The player with the most points at the end of the game is the winner!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 2,
+    "mechanics": [
+      "Force Commitment",
+      "Hand Management",
+      "Movement Template",
+      "Physical Removal",
+      "Programmed Movement",
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "BOG",
+    "playingTime": 25,
+    "publisher": "Perplext",
+    "rating": 7.54,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2024",
+    "expansions": [],
+    "image": "bog.396335.full.png",
+    "thumbnail": "bog.396335.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "U,JI2yfRNGax~qWCoeoex^k9s:floLofa~WW",
+    "sale": "",
+    "slug": "bog",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396337,
+    "categories": [
+      "Abstract Strategy",
+      "Card Game",
+      "Fantasy",
+      "Medieval",
+      "Renaissance",
+      "Territory Building"
+    ],
+    "description": "Build out your domain by adding a card to the Kingdom each turn. At the end of the game, each player scores the largest area of each of the four land types from their point of view - your seat at the table matters!&#10;Expand carefully, as you can only score land if at least one unobstructed edge of that land is facing you. Your King and Queen can control land ANYWHERE in the Kingdom. However, land that is larger than 5 cards is too vast to score!  &#10;The player with the most points rules the kingdom!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Area Majority / Influence",
+      "Map Addition",
+      "Pieces as Map",
+      "Push Your Luck",
+      "Tile Placement",
+      "Worker Placement"
+    ],
+    "minPlayers": 2,
+    "name": "FAR",
+    "playingTime": 25,
+    "publisher": "Perplext",
+    "rating": 6.66667,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "far.396337.full.png",
+    "thumbnail": "far.396337.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UwL}4@S#o#sVyGoMkCbb-3jZWBbFE3R*j[jG",
+    "sale": "",
+    "slug": "far",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396338,
+    "categories": [
+      "Abstract Strategy"
+    ],
+    "description": "Play cards and create connected clusters that match the colors you've played in your Scoring Pile. Block and disrupt opponents' patterns to tank their scores. Determine player majorities for each color/symbol then reward points based on Clusters in the Center Area.&#10;&#10;The player with the most points wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Alliances",
+      "Area Majority / Influence",
+      "Semi-Cooperative Game",
+      "Set Collection",
+      "Stock Holding"
+    ],
+    "minPlayers": 2,
+    "name": "IRK",
+    "playingTime": 25,
+    "publisher": "Perplext",
+    "rating": 6.75,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "irk.396338.full.png",
+    "thumbnail": "irk.396338.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UESidJxv-;xGxaaeRkbH~qoIV@tR$%t7X8jF",
+    "sale": "",
+    "slug": "irk",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 396339,
+    "categories": [
+      "Animals",
+      "Bluffing"
+    ],
+    "description": "Players try to protect their Hens at the Hen House while also playing their Foxes to gobble up opponents' Hens.&#10;&#10;On your turn, perform ONE of THREE ACTIONS:&#10;LAY: Place a card from your hand (face down)&#10;to any unoccupied space at a Hen House.&#10;&#10;EXPOSE: Choose one facedown card at the Hen House belonging to an&#10;opponent, declare that you believe it&rsquo;s their Fox, then flip it&#10;face up. If it&rsquo;s a Fox, take it and place it in front of you to score&#10;at the end of the game. If it&rsquo;s a Hen, it becomes Safe and scores points based on the value of the Hen House Space.&#10;&#10;3. REVEAL: Select cards around the Hen House(s) and flip&#10;them face up ONE AT A TIME.&#10;OUTCOMES FROM REVEAL: The owner of the Fox gobbles (takes) the&#10;highest ranked Hen and places it in front of themself. The highest&#10;ranked remaining Hen becomes Safe - rotate it to the &radic; side.&#10;Return any remaining Foxes and Hens to their owners' hands.&#10;HENS ONLY: Only the highest ranked Hen becomes Safe. Return&#10;the others to their owners' hands.&#10;FOXES ONLY: Return all Foxes to their owners' hands.&#10;TIED HENS or MULTIPLE FOXES: If tied Hens or multiple Foxes&#10;are revealed, the Active Player's card is ranked higher,&#10;followed by the player to their left, and so on.&#10;&#10;The game ends immediately when either occurs:&#10;&bull; A player holds just 1 card in their hand at the start of their turn.&#10;Then, flip over all face down cards around the Hen House(s).&#10;Foxes around Hen Houses have no value. All Hens there are Safe.&#10;&bull; All card spaces at the Hen House(s) are occupied, AND face up.&#10;SCORING:&#10;1. Owners of Safe Hens at Hen House(s) earn points relative to&#10;the 1, 2, 3 or 4 valued spaces around the Hen House.&#10;2. Gobbled Hens are worth their face value. If you gobbled a Hen&#10;of your own, it is negative points instead.&#10;3. Captured Foxes are worth points equal to the number of&#10;players (2, 3 or 4)&#10;&#10;The player with the most points from Safe Hens, exposed enemy Foxes, and gobbled Hens will be the winner!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Chris Handy (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Betting and Bluffing",
+      "Highest-Lowest Scoring",
+      "Kill Steal",
+      "Push Your Luck",
+      "Worker Placement, Different Worker Types"
+    ],
+    "minPlayers": 2,
+    "name": "SLY",
+    "playingTime": 25,
+    "publisher": "Perplext",
+    "rating": 6.8125,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "sly.396339.full.png",
+    "thumbnail": "sly.396339.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 84,
+    "blurhash": "UsMjmqxsJ$oeYRn,t8oLE3s:nmW;r;n$WAbb",
+    "sale": "",
+    "slug": "sly",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 399987,
+    "categories": [
+      "Deduction",
+      "Number",
+      "Science Fiction",
+      "Word Game"
+    ],
+    "description": "In A Message From the Stars, a team of scientists seeks to decipher cryptic messages from an extraterrestrial civilization.&#10;&#10;Set against a backdrop of cosmic mystery, players take on the roles of brilliant scientists tasked with decoding a series of perplexing satellite transmissions. These transmissions are believed to contain vital messages from an alien race that could hold the key to the destiny of Earth. The catch? The messages are incomprehensible, written in an entirely unknown alien language.&#10;&#10;Using engrossing deduction mechanics, players will collaborate with their fellow scientists to send messages back to the extraterrestrial senders. By exchanging these messages, you hope to unravel the intricate linguistic code that conceals the true intentions of the alien entity. Each interaction yields a numerical value, a piece of the puzzle that you'll need to solve the riddle of the alien language.&#10;&#10;Players can engage in cooperative gameplay, where all scientists pool their collective intellect to crack the alien code and unveil the hidden message. Alternatively, delve into team play, with two alien players sending messages across the galaxy.&#10;&#10;The future of interstellar relations lies in your hands!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Clarence Simpson"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 8,
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Induction",
+      "Pattern Recognition",
+      "Spelling",
+      "Team-Based Game"
+    ],
+    "minPlayers": 2,
+    "name": "A Message From the Stars",
+    "playingTime": 45,
+    "publisher": "Allplay",
+    "rating": 7.51707,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3,
+    "year": "2024",
+    "expansions": [],
+    "image": "a_message_from_the_stars.399987.full.png",
+    "thumbnail": "a_message_from_the_stars.399987.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 158,
+    "blurhash": "UDAB9cnh9bkDmjxvIpt7xARP9bR*%%D$IVR+",
+    "sale": "",
+    "slug": "a-message-from-the-stars",
     "new": true,
     "forSale": false
   },
@@ -15905,6 +16718,45 @@
     "blurhash": "UHJkGr~U4.J602iw=}Ip1556MJ-UOmS#$y%1",
     "sale": "",
     "slug": "apiary",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 401216,
+    "categories": [
+      "Renaissance"
+    ],
+    "description": "The kingdom is shattered, its towns are divided, and its people are distrusting.  The newly crowned ruler, El Cascadero, seeks to reunite the land, but he can&rsquo;t do it alone. Thus, he appoints four ministers to visit the people and restore civil harmony. While the ministers are obligated to bring prosperity to the entire land, each of them also has one dedicated responsibility: Farming, Crafting, Mining, and Markets.  El Cascadero also records in his book the successes of his ministers&hellip;&#10;&#10;Cascadero is the next epic tile placement strategy game from acclaimed designer Reiner Knizia.  Ministers visit towns by placing their envoys adjacent to them; but towns are distrusting of single envoys, so newly placed envoys will only trigger town scoring when they are part of an established group or carry an official seal from El Cascadero himself. Towns with Royal Messengers at them or a history of envoy visits are even more valuable, as they willingly collaborate for even greater successes.&#10;&#10;Players must decide between two competing strategies: build long chains of their envoys to achieve synergies and objectives, or establish smaller, separate groups of envoys to trigger timely town scoring. Both will award victory points, yet your victory points will mean nothing if you don&rsquo;t also reach the end of your appointed success column.&#10;&#10;By triggering town scoring, you&rsquo;ll advance along that town&rsquo;s matching success column, gaining bonuses as you pass over them.  Bonuses include earning victory points, advancing further on any success column, claiming an official seal, repositioning an envoy, or even acquiring an additional turn. Through careful timing and clever plans, players can trigger a cascading combo of exciting bonuses that swing momentum in their favor.&#10;&#10;Cascadero provides a wealth of replayability through emergent player interaction, variable board and tile setups, and an advanced player mode featuring traveling heralds.  Yet the game will always end in one of two ways: when one player reaches fifty victory points or must place a tile but has no tiles left.  The players who reached the end of their appointed success column qualify for victory, and whoever among them has the most victory points wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Chaining",
+      "Connections",
+      "Hexagon Grid",
+      "Once-Per-Game Abilities",
+      "Tile Placement",
+      "Track Movement"
+    ],
+    "minPlayers": 2,
+    "name": "Cascadero",
+    "playingTime": 60,
+    "publisher": "Bitewing Games",
+    "rating": 7.60565,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.25,
+    "year": "2024",
+    "expansions": [],
+    "image": "cascadero.401216.full.png",
+    "thumbnail": "cascadero.401216.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 178,
+    "blurhash": "UTID${S5s.V@}pkDr?n$$zs:IVn$NHWBNdRk",
+    "sale": "",
+    "slug": "cascadero",
     "new": true,
     "forSale": false
   }
