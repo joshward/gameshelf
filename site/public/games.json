@@ -14197,6 +14197,47 @@
     "forSale": false
   },
   {
+    "bggId": 324413,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Somewhere on a doomed and distant planet, life has emerged, competing for supremacy until the world&rsquo;s inevitable destruction. The object of the game is to score the most points by the time the world ends. Score points by playing Traits for your Doomlings&rsquo; species, making them more adaptable, resilient, and mischievous. As your Doomlings assert their dominance, Catastrophes will befall the planet, causing setbacks for each competing species. When the third Catastrophe inevitably strikes, the world ends, and the Doomlings with the strongest set of traits gets to look the Apocalypse in the eye and declare&hellip;&ldquo;I scored the most points!&rdquo;&#10;&#10;Throughout the game, players draw Trait cards from a community pile, and then play them for points. Traits can also have special abilities and bonuses, allowing players to build a wide range of winning combinations. The game is played in rounds, using Age cards, which have different rules that players must follow. But be warned, hidden in the Ages are Catastrophes: special rounds with adverse effects that force players to adapt their strategy.&#10;&#10;Doomlings adds a fun twist to hand management, by introducing the &ldquo;Gene Pool&rdquo; mechanic. Your Gene Pool is your hand size: it is unique to you, and it can increase or decrease through special Traits, or even Catastrophes. Doomlings includes 6 colorful Gene Pool counter cards, elegantly tracking how many cards you should hold at the end of your turn. There are opportunities to increase your Gene Pool (hand size), which can give your species a leg up by providing a larger pool of Traits to select from each turn.&#10;&#10;A lightweight card game for 2-6 players, Doomlings can be played casually amongst friends, or competitively by the gaming enthusiast family. Because there are no duplicate cards, and Age cards are chosen randomly, no two games are ever the same. While the game itself can be learned in 5 minutes or less, don&rsquo;t be fooled: with 100+ unique Traits&mdash;in Red, Blue, Green, Purple and Colorless&mdash;and rare, powerful Dominant Traits, there are countless combinations of play to be discovered.&#10;&#10;A typical game takes between 20-45 minutes, depending on the number of players and sequence of events. Advanced-play expansion packs are also available, including a Hidden Objective expansion for a fun twist to the game. Doomlings requires no dice or additional pieces, just a jolly embrace of the inevitable end of the world!&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Justus Meyer",
+      "Andrew Meyer (I)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "End Game Bonuses",
+      "Events",
+      "Finale Ending",
+      "Hand Management",
+      "Move Through Deck",
+      "Set Collection",
+      "Take That"
+    ],
+    "minPlayers": 2,
+    "name": "Doomlings",
+    "playingTime": 45,
+    "publisher": "Doomlings LLC",
+    "rating": 6.8437,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.6939,
+    "year": "2022",
+    "expansions": [],
+    "image": "doomlings.324413.full.png",
+    "thumbnail": "doomlings.324413.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U}MaR{V@t8ozRkWBoLj[~qWVWAn%s+W=ayoJ",
+    "sale": "",
+    "slug": "doomlings",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 327971,
     "categories": [
       "Ancient",
@@ -14237,6 +14278,43 @@
     "sale": "",
     "slug": "hippocrates",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 328826,
+    "categories": [
+      "Dice"
+    ],
+    "description": "Super-Skill Pinball: Ramp it Up! is a standalone sequel to Super-Skill Pinball: 4-Cade that you can play solo, with up to four people in a single box, or with even more people with multiple copies. To play, choose one of the four unique tables and matching backglass for scorekeeping, then roll a shared pair of dice and get the pinballs rolling! You'll select one of the two die results, then move your pinball to a bumper or spinner, or target one level below with a matching number. Once you reach the lowest level, pick which flipper's roll to use to send the ball right back to the top. Play well, and you'll unlock bonuses like multiball, score multipliers, and more to help you get the high score!&#10;&#10;Super-Skill Pinball: Ramp it Up! features these four new tables:&#10;&#10;&#10;    Gofer Gold introduces the new extra flipper and provides a great starting point for new players! Strike it rich by panning for gold, or ride Fool's Folly into the backglass where you ride the log flume, search the lost mine, and navigate the falls!&#10;    In Pin Pals, wrestlers enter the ring in tag-teams of two, each teammate with a slightly different table. As you play, you activate bonuses for each other and build extra multipliers when you enter the cage together. Coordination is key if you want to beat the high score!&#10;    High Roller Heist packs all the action of a classic casino caper into two rounds, making it one of the fastest tables in Super-Skill Pinball! Recruit your crew, choose your target, and execute your plan without getting caught by security! Includes three different possible targets for your heist, each represented by a unique backglass mini-game.&#10;    Top Speed turns your pinball into a race car and opens up an all-new challenge for experienced players with adjustable speed! Add 1, 2, or 3 to your dice rolls, building big numbers and even bigger bonuses &mdash; but if you go too fast, the flippers won't be able to stop you!&#10;&#10;&#10;",
+    "designers": [
+      "Geoff Engelstein"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Bingo",
+      "Cooperative Game",
+      "Roll / Spin and Move",
+      "Solo / Solitaire Game"
+    ],
+    "minPlayers": 1,
+    "name": "Super-Skill Pinball",
+    "playingTime": 20,
+    "publisher": "WizKids (I)",
+    "rating": 7.26613,
+    "subTitle": "Ramp it Up!",
+    "tags": [],
+    "weight": 2.1667,
+    "year": "2021",
+    "expansions": [],
+    "image": "super_skill_pinball.328826.full.png",
+    "thumbnail": "super_skill_pinball.328826.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 188,
+    "blurhash": "UCHx4{D-axt1KnWa$LtR01a0xcr?@qadXR$~",
+    "sale": "",
+    "slug": "super-skill-pinball",
+    "new": true,
     "forSale": false
   },
   {
@@ -15215,6 +15293,63 @@
     "sale": "",
     "slug": "shake-that-city",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 359871,
+    "categories": [
+      "Negotiation",
+      "Science Fiction",
+      "Wargame"
+    ],
+    "description": "Arcs is a sharp sci-fi strategy game for 2&ndash;4 players, set in a dark yet silly universe. Ready yourself for dramatic twists and turns as you launch into this galactic struggle.&#10;&#10;Seize the initiative: &#10;Take actions with multi-use cards. Copy the leader, pivot to new tactics, or take the initiative for next round. Timing is everything.&#10;&#10;Declare ambitions: &#10;In each game, you define the objectives that everyone competes over to win.&#10;&#10;Crush your foes: &#10;Amass your navy for battle, plan your strategy with three kinds of dice, then roll them all at once to resolve the battle in a flash.&#10;&#10;Each game contains a hundred wooden ships and agents, 18 custom engraved dice, a beautiful six-panel board, and tons of cards with over 60 pieces of unique art.&#10;&#10;",
+    "designers": [
+      "Cole Wehrle"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Negotiation",
+      "Trick-taking",
+      "Turn Order: Claim Action",
+      "Variable Player Powers"
+    ],
+    "minPlayers": 2,
+    "name": "Arcs",
+    "playingTime": 120,
+    "publisher": "Leder Games",
+    "rating": 8.38459,
+    "subTitle": "",
+    "tags": [],
+    "weight": 3.3962,
+    "year": "2024",
+    "expansions": [
+      {
+        "bggId": 419279,
+        "name": "Arcs: Leaders and Lore Pack",
+        "year": "2024"
+      },
+      {
+        "bggId": 363757,
+        "name": "Arcs: The Blighted Reach Expansion",
+        "year": "2024"
+      }
+    ],
+    "image": "arcs.359871.full.png",
+    "thumbnail": "arcs.359871.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "U4Bfw$O@Dh%1F2tlJ-j]00D*xvRQ}UDii_rr",
+    "sale": "",
+    "slug": "arcs",
+    "new": true,
     "forSale": false
   },
   {
