@@ -10138,7 +10138,7 @@
     "blurhash": "UKOyk8H@}+tR-:%1a{R-^Ht7OYRQxCf8NHjs",
     "sale": "",
     "slug": "welcome-to",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -11665,7 +11665,7 @@
     "blurhash": "UJKBEx$BortJ-tS~t7X8%gKOJCR;Kla*WGxa",
     "sale": "",
     "slug": "llama",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -13491,7 +13491,7 @@
     "blurhash": "UBGun97%MME1}j}t9]E4qsIUXNRkz;5r-=Na",
     "sale": "",
     "slug": "super-skill-pinball",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -14446,6 +14446,52 @@
     "blurhash": "UNI:|E-7M$}lTwjcRP$edqR-t6R,Tds,V@s.",
     "slug": "red-rising",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 329500,
+    "categories": [
+      "Medical"
+    ],
+    "description": "In the early 1900s, the Austrian neurologist Sigmund Freud established a revolutionary theory called psychoanalysis, related to the study of the unconscious mind. As his work took hold, supporters met at Freud's apartment every Wednesday to discuss psychology and dream symbolism. This group&mdash;the Wednesday Psychological Society&mdash;marked the beginning of the worldwide psychoanalytic movement. As a member of this society, you aim to formulate new therapeutic techniques, establish a practice, grow your clientele, and become Freud&rsquo;s most distinguished contemporary. To best accomplish this, you&rsquo;ll need to share insights, discuss ideas with peers, and publish theories. And to stay invigorated, you&rsquo;ll likely need some coffee&mdash;lots of coffee.&#10;&#10;Unconscious Mind is a euro-style game featuring worker placement, engine building, multiple rondels, and cascading effects. On your turn, you may place one or two Ideas (workers) on a central Meeting Table to access a variety of actions, such as adding tiles to your player board, drafting and playing cards, and moving around the city of Vienna. Where you place your Ideas also determines how far to advance your rondel&rsquo;s inkpot, activating a row or column of tile effects on your player board.&#10;&#10;To treat your clients and interpret their dreams, you must work with a supply of Insight resources, which you&rsquo;ll manage on a multi-level dial. As you work through surface-level Manifest dreams into deep-seated Latent dreams, these Insights will help your clients reach catharsis. This is represented by lifting transparent layers from the client cards&mdash;unlocking their ongoing special abilities and end-game scoring opportunities.&#10;&#10;Once the group has solidified its reputation, the end of the game is signaled, and the member with the most points wins.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Laskas",
+      "Jonny Pac",
+      "Yoma",
+      "Antonio Zax"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Contracts",
+      "End Game Bonuses",
+      "Melding and Splaying",
+      "Open Drafting",
+      "Programmed Movement",
+      "Rondel",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Tags",
+      "Worker Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Unconscious Mind",
+    "playingTime": 120,
+    "publisher": "Fantasia Games",
+    "rating": 8.03133,
+    "subTitle": "",
+    "tags": [],
+    "weight": 4.06,
+    "year": "2024",
+    "expansions": [],
+    "image": "unconscious_mind.329500.full.png",
+    "thumbnail": "unconscious_mind.329500.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 265,
+    "blurhash": "UHCsy;xD4U%0UaM|Dk%KH[SitkRkml%K?GIV",
+    "sale": "",
+    "slug": "unconscious-mind",
+    "new": true,
     "forSale": false
   },
   {
@@ -16010,6 +16056,49 @@
     "blurhash": "UGC?Wa%N00Io~qad9FoytlM{V?xZt6ozIooh",
     "sale": "",
     "slug": "star-wars",
+    "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 376740,
+    "categories": [
+      "Educational",
+      "Environmental"
+    ],
+    "description": "For over 300 million years, trees have traded nutrients with fungi in a vast underground network. Scientists continue to make new discoveries about this hidden world.&#10;&#10;In Undergrove, you are a towering evergreen with an ancient symbiotic connection to the fungi in your forest. As new mushrooms appear, your options expand for converting nutrients and helping your seedlings. Using cube conversion, tile placement, area control, and a tiny bit of engine building, you&rsquo;ll need to claim the most advantageous locations and optimize your actions to leave the best legacy in the forest.  The player with the  greatest number of successful seedlings, wins!&#10;&#10;&#226;&#151;&#143; Build a shared forest containing mushrooms with diverse abilities.&#10;&#226;&#151;&#143; Trade with the mushrooms to get resources based on the partnerships you&rsquo;ve made.&#10;&#226;&#151;&#143; Place your seedings in the most advantageous positions to score the most points.&#10;&#10;Inspired by real mycorrhizal trading networks, Undergrove brings a hidden world to life with stunning artwork and engaging gameplay. Shape the destiny of your forest with every decision!&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Elizabeth Hargrave",
+      "Mark Wootton"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Action Retrieval",
+      "Area Majority / Influence",
+      "End Game Bonuses",
+      "Map Addition",
+      "Pick-up and Deliver",
+      "Tile Placement"
+    ],
+    "minPlayers": 1,
+    "name": "Undergrove",
+    "playingTime": 75,
+    "publisher": "Alderac Entertainment Group",
+    "rating": 7.13847,
+    "subTitle": "",
+    "tags": [
+      "w-fav"
+    ],
+    "weight": 2.6,
+    "year": "2024",
+    "expansions": [],
+    "image": "undergrove.376740.full.png",
+    "thumbnail": "undergrove.376740.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "UTG+gbxv9]I;Thx]NIoypvX9xGnPn5oeniWT",
+    "sale": "",
+    "slug": "undergrove",
     "new": true,
     "forSale": false
   },
@@ -16357,6 +16446,75 @@
     "forSale": false
   },
   {
+    "bggId": 385643,
+    "categories": [
+      "Word Game"
+    ],
+    "description": "We've applied a fresh coat of paint to this deckbuilding word game, including brand new novel covers from a variety of artists.&#10;New starting decks add more decision making and variety to the first few turns of the game.&#10;&#10;The brand new Genre mode gives players unique tech trees that open up novel ways to play.&#10;&#10;A quick-paced Deadline variant adds drafting to Paperback and allows for zippy simultaneous play.&#10;&#10;Typos let you nab that card that's just out of reach, but you'll pay for it later with a hard-to-use letter.&#10;&#10;Want to play solo? The new Spy mode pits you against an automata enemy spy who creates problems you need to address until your deck is strong enough to end the game.&#10;&#10;Unlockable cards that continue to expand the card pool and introduce new abilities..&#10;&#10;A classic variant pack so that you can still play Paperback the classic way.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Tim Fowers"
+    ],
+    "editionTitle": "10th Anniversary Edition",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Deck, Bag, and Pool Building"
+    ],
+    "minPlayers": 1,
+    "name": "Paperback",
+    "playingTime": 60,
+    "publisher": "Fowers Games",
+    "rating": 7.82811,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.5,
+    "year": "2024",
+    "expansions": [],
+    "image": "paperback.385643.full.png",
+    "thumbnail": "paperback.385643.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 188,
+    "blurhash": "ULI|]wIB$~Iv~onkx[oy$ipIt7xBtlr;xvVs",
+    "sale": "",
+    "slug": "paperback",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 385645,
+    "categories": [
+      "Word Game"
+    ],
+    "description": "Spell words, flip your typewriter keys, and build combos in this new game in the Paperback series. This travel-ready game comes in a small box, and can even be stored in the included zipper bag. Acrylic tiles instead of cards mean even a bit of rain or ocean spray won't dampen your fun.&#10;&#10;Every turn, you will spell a word with the tiles in front of you. Use all your starting tiles in the word to send a tile to your scoring stack. And at the end of each round you'll grab a shiny new tile for yourself from the offer. Since you can only take a tile from the offer after your turn, you can start spelling out your next word while the other players take their turns.&#10;&#10;Sounds simple enough. But there's one more twist: every time you spell a word, you'll flip all the tiles in that word, revealing new letters and a completely new puzzle.&#10;&#10;The tiles you take might have potent abilities that can be recharged by using a letter in your word to flip them back over, or you might grab tiles that help you score set collection points at the end of the game. Other tiles are bigrams that let you claim common vowels, and sometimes a tile just has a real tough letter that can score for real big points.&#10;&#10;&mdash;description from the designer&#10;&#10;",
+    "designers": [
+      "Tim Fowers"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Deck, Bag, and Pool Building",
+      "Set Collection"
+    ],
+    "minPlayers": 2,
+    "name": "Typewriter",
+    "playingTime": 45,
+    "publisher": "Fowers Games",
+    "rating": 7.63279,
+    "subTitle": "",
+    "tags": [],
+    "weight": 0,
+    "year": "2024",
+    "expansions": [],
+    "image": "typewriter.385645.full.png",
+    "thumbnail": "typewriter.385645.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 188,
+    "blurhash": "URH.ow0jQnn#~1b_bbwI:$Rkt8tQ}PM}O@r?",
+    "sale": "",
+    "slug": "typewriter",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 386937,
     "categories": [
       "Abstract Strategy"
@@ -16521,7 +16679,7 @@
     "blurhash": "UmL4sQjFn$js*0WVS4fk%KkVR+bHWEofs,fi",
     "sale": "",
     "slug": "win",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16566,7 +16724,7 @@
     "blurhash": "UtK_Lat7x]of}=oeogayIWWXRjWBt,WCWVkC",
     "sale": "",
     "slug": "yet",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16608,7 +16766,7 @@
     "blurhash": "UDI:dxG9Me$eorIWr_oy4mXmxHo|~BozIprr",
     "sale": "",
     "slug": "mad",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16650,7 +16808,7 @@
     "blurhash": "U,JI2yfRNGax~qWCoeoex^k9s:floLofa~WW",
     "sale": "",
     "slug": "bog",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16694,7 +16852,7 @@
     "blurhash": "UwL}4@S#o#sVyGoMkCbb-3jZWBbFE3R*j[jG",
     "sale": "",
     "slug": "far",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16732,7 +16890,7 @@
     "blurhash": "UESidJxv-;xGxaaeRkbH~qoIV@tR$%t7X8jF",
     "sale": "",
     "slug": "irk",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16771,7 +16929,7 @@
     "blurhash": "UsMjmqxsJ$oeYRn,t8oLE3s:nmW;r;n$WAbb",
     "sale": "",
     "slug": "sly",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16814,6 +16972,40 @@
     "blurhash": "UDAB9cnh9bkDmjxvIpt7xARP9bR*%%D$IVR+",
     "sale": "",
     "slug": "a-message-from-the-stars",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 400113,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Players collect and discard cards in an attempt to build a set in their hand. The deck consists of cards from A to G with varying number of copies. You win if you start your turn with a completed set on your hand and say &quot;Meow!&quot; If you don't have a set, you may either draw a card from the deck, take a card from an opponent's discard pile, or discard a card from your hand. If you discard an &quot;A&quot; card, each player must pass one of the cards from their hand to the player on their left.&#10;&#10;Collect, discard, swap, meow!&#10;&#10;",
+    "designers": [
+      "宮野 華也 (Kaya Miyano)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Hand Management"
+    ],
+    "minPlayers": 2,
+    "name": "Panda Panda",
+    "playingTime": 15,
+    "publisher": "Allplay",
+    "rating": 6.82768,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2024",
+    "expansions": [],
+    "image": "panda_panda.400113.full.png",
+    "thumbnail": "panda_panda.400113.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 148,
+    "blurhash": "UQKwkI;L-qsqNQoHWFwM}sJBEgkXx[OAJ$On",
+    "sale": "",
+    "slug": "panda-panda",
     "new": true,
     "forSale": false
   },
@@ -16892,6 +17084,42 @@
     "blurhash": "UTID${S5s.V@}pkDr?n$$zs:IVn$NHWBNdRk",
     "sale": "",
     "slug": "cascadero",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 408545,
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "description": "Every round, reveal a new card. Simultaneously, all players choose a hand gesture to guess how the card relates to the previous one (? for higher value, ? for lower value, ? for same suit, or &#226;&#156;&#138; to guess  a fairy).&#10;&#10;Guess the correct value relation and get two points. Guess same suit correctly and get four points. Call one of the three fairies in the deck? That's seven points!&#10;&#10;Any wrong guess loses you a point. First player to fifteen wins!&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "ましう (Mashiu)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 10,
+    "mechanics": [
+      "Betting and Bluffing",
+      "Simultaneous Action Selection"
+    ],
+    "minPlayers": 2,
+    "name": "Fairy",
+    "playingTime": 10,
+    "publisher": "Allplay",
+    "rating": 6.10651,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1,
+    "year": "2024",
+    "expansions": [],
+    "image": "fairy.408545.full.png",
+    "thumbnail": "fairy.408545.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 148,
+    "blurhash": "U6Bi]0E2~pXk-q=~%2t4=~OZl5wMxLImb.oh",
+    "sale": "",
+    "slug": "fairy",
     "new": true,
     "forSale": false
   }
