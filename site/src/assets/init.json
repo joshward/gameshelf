@@ -1,5 +1,5 @@
 {
-  "count": 406,
+  "count": 412,
   "sale": true,
   "games": [
     {
@@ -49,7 +49,7 @@
       "name": "A Message From the Stars",
       "subTitle": "",
       "editionTitle": "",
-      "new": true,
+      "new": false,
       "tags": [],
       "slug": "a-message-from-the-stars",
       "blurhash": "UDAB9cnh9bkDmjxvIpt7xARP9bR*%%D$IVR+",

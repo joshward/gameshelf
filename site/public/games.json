@@ -456,7 +456,7 @@
     "blurhash": "UBDu}nEe?JIU0%VXOHV?HXM{s8Na~p-;s*Rj",
     "sale": "",
     "slug": "through-the-desert",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -7386,6 +7386,44 @@
     "forSale": false
   },
   {
+    "bggId": 188530,
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Humor",
+      "Party Game"
+    ],
+    "description": "My Favourite Things, first released as &#230;&#155;&#150;&#230;&#152;&#167;&#227;&#131;&#149;&#227;&#130;&#167;&#227;&#130;&#164;&#227;&#131;&#144;&#227;&#131;&#170;&#227;&#131;&#131;&#227;&#131;&#136;&#227;&#130;&#183;&#227;&#131;&#179;&#227;&#130;&#176;&#227;&#130;&#185; (Eye My Favorite Things), is a trick-taking party game in which you don't know the value of your cards, and instead, you get to know your fellow players.&#10;&#10;In the game, you present your neighbors with a category and ask them to write their five favorite things (and one least favorite thing) in that category on their cards. You then use these cards to play a trick-taking game with all other players, with none of you knowing the true value of any card played until the end of each trick. Your neighbor's preference rank is the card's strength. Card 1 is highest and 0 is lowest, but if 1 and 0 appear in the same trick, 0 wins.&#10;&#10;Because you are playing with someone else's favorite things, each trick provokes unique insights into your fellow players and sparks interesting conversations. Does Paul like Power Rangers more than Anthony likes Banana Milkshake or Archie likes Italian Disco? These are the deductions and judgement calls you'll need to make in My Favourite Things.&#10;&#10;",
+    "designers": [
+      "Daiki (Nilgiri) Aoyama",
+      "ぺぺR (Pepe_R)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "My Favourite Things",
+    "playingTime": 30,
+    "publisher": "Play For Keeps",
+    "rating": 7.30243,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.4286,
+    "year": "2024",
+    "expansions": [],
+    "image": "my_favourite_things.188530.full.png",
+    "thumbnail": "my_favourite_things.188530.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 167,
+    "blurhash": "UCOp7I1AL3RixwR,xZ-mT#QlRjF__#OaAIV?",
+    "sale": "",
+    "slug": "my-favourite-things",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 188834,
     "categories": [
       "Bluffing",
@@ -10834,6 +10872,44 @@
     "forSale": false
   },
   {
+    "bggId": 251433,
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Mythology"
+    ],
+    "description": "&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;StoryLong time ago in the land of rising sun, spirits and demons known as Yokai were harming human lives.&#10;&#10;Yokai did not directly attack people, but they were causing supernatural disasters: Yokai caused farmlands to burn, rivers to flood, thunders to roar, and diseases to spread.&#10;&#10;One day a chieftain of the nearby village visited you, an Onmyoji, a practitioner of Japanese esoteric cosmology. Through your knowledge of astronomy and occultism, you discover the only way to help save the village. It is simple: the more Yokai you manage to capture, the less the menace caused by these demons. After a few months in the village, you are successful in your efforts; the Yokai menace is completely eradicated in that village!&#10;&#10;Then, word reaches you of the havoc being wrecked by the Yokai on your own village. In your absence, the village chieftain has consulted another Onmyoji to help save your village. This is an affront because this is your village and the people under attack are your people. It is your job to save the day! Do not let another Onmyoji save the day and go down in history as the greatest there ever was and the Savior of your village at the time of need.&#10;&#10;Compete against your rival Onmyoji and capture as many Yokai as you can!&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Gameplay OverviewIn Yokai Septet, your goal is to capture high scoring Boss Yokai by strategically playing cards from your hand. Each turn, players play a card from their hand following the rules of the &quot;trick taking games.&quot;&#10;&#10;After everyone has played a card, the player who played the strongest card matching the lead suit takes all the cards played this turn. A new turn continues until one of the round's end condition is met. At the end of the round, the winner of that round is determined.&#10;&#10;In a 4-player game, the game is played as a team battle of two players versus two players, whereas in a 3-player game, all players play individually competing. The winner of the round is the team that captured four or more Boss Yokai in a 4-player game, and three or more Boss Yokai in a 3-player game.&#10;&#10;The winner of the round scores points based on the Boss Yokai they captured. New rounds are played until the game's end condition is met, which can be either 2 points for a basic game, or 7 points for an advanced game.&#10;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;Components&#10;    49 cards (7 suits, 7 cards each)&#10;    18 scoring tokens&#10;    4 player aids&#10;    1 lead player card&#10;&#10;&#10;",
+    "designers": [
+      "yio",
+      "Muneyuki Yokouchi (横内宗幸)"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Team-Based Game",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Yokai Septet",
+    "playingTime": 45,
+    "publisher": "Ninja Star Games",
+    "rating": 7.36043,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.7647,
+    "year": "2024",
+    "expansions": [],
+    "image": "yokai_septet.251433.full.png",
+    "thumbnail": "yokai_septet.251433.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 190,
+    "blurhash": "UULWhbt6Mdaec[E2fOIoQlNGxst70KV]RibI",
+    "sale": "",
+    "slug": "yokai-septet",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 253664,
     "categories": [
       "Card Game",
@@ -13040,6 +13116,44 @@
     "forSale": false
   },
   {
+    "bggId": 297001,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "In Overstocked, players must stay up to date with the latest 90s toy crazes, filling their warehouse with the most in-demand toys and avoiding stocking the least popular.&#10;&#10;Each turn, players place cards into either their personal warehouse, which increases the number of each toy they have to sell, or into the central area, which is shared by all players and represents the popularity of each toy.&#10;&#10;Once everyone has played all the cards in their hand, players score points for all the toys in their warehouse. The more popular the toy, the more points it scores. However, the toy with the largest area in the central area scores negatively! The craze for this toy has peaked and as with many 90s crazes, everyone is ready to move onto the next thing.&#10;&#10;Players must carefully curate the stock in their warehouse, manipulate the popularity of toys in their favor, and try not to end up overstocked!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Mandela Fernandez-Grandon"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Commodity Speculation",
+      "Hand Management",
+      "Layering",
+      "Pattern Building",
+      "Selection Order Bid"
+    ],
+    "minPlayers": 1,
+    "name": "Overstocked",
+    "playingTime": 30,
+    "publisher": "Play For Keeps",
+    "rating": 6.84503,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.25,
+    "year": "2022",
+    "expansions": [],
+    "image": "overstocked.297001.full.png",
+    "thumbnail": "overstocked.297001.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 166,
+    "blurhash": "UNOUk_oz%Ei~~Kerr_Om?jSxJA$NpHjFO;R:",
+    "sale": "",
+    "slug": "overstocked",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 297895,
     "categories": [
       "Dice"
@@ -14885,7 +14999,7 @@
     "blurhash": "U79jiW-.04bv~n?FM}aeIq%e?Yaf4qt5~RkC",
     "sale": "",
     "slug": "the-light-in-the-mist",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15510,7 +15624,7 @@
     "blurhash": "UiI};Q-OMyNH.TW=n$s.72I[tRoIM{n$S$I=",
     "sale": "",
     "slug": "switchbacks",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15891,6 +16005,45 @@
     "sale": "",
     "slug": "arborea",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 371183,
+    "categories": [
+      "Racing"
+    ],
+    "description": "Joyride: Survival of the Fastest is an explosively fun board game of loud, fast, high-interaction racing for two to four players. Tactically plan your route, push your luck to take corners at speed, and crash into your rivals to knock them off course.&#10;&#10;Choose a car with unique abilities that change the way you race. Do you want the reliability of Auto-Pilot, the precision of Handbrake Turn or the chaos of Donut? Manipulate dice on your dashboard, pushing your luck to pull ahead. Will you lock in your results for maximum control, or risk rolling them to gain an extra inch?&#10;&#10;Move from checkpoint to checkpoint across open maps on the double-sided board. Each map comes different track layouts for every player count and skill level. Checkpoints can be crossed from any direction, so plan a racing line that maximizes your chances, even if it means racing into oncoming traffic.&#10;&#10;Smash into your opponents to spin them around or push them out of your way. Sometimes the best racing line is the one that will knock your opponents off-course.&#10;&#10;Gather powerful items as you race, letting you fire rockets, drop oil slicks and even call in air strikes to damage enemy vehicles. Damage permanently blocks part of your dashboard, so think carefully about where you decide to place it. Do you really need two spaces to store items? Maybe it&rsquo;s better to give up fifth gear?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Duncan Molloy",
+      "Pete Ward"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Dice Rolling",
+      "Push Your Luck",
+      "Race",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "minPlayers": 2,
+    "name": "Joyride",
+    "playingTime": 60,
+    "publisher": "Rebellion Unplugged",
+    "rating": 6.83586,
+    "subTitle": "Survival of the Fastest",
+    "tags": [],
+    "weight": 2.3846,
+    "year": "2024",
+    "expansions": [],
+    "image": "joyride.371183.full.png",
+    "thumbnail": "joyride.371183.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 250,
+    "blurhash": "USL}Qftk-;M|P[oynORkyDRkM{oz[IM}b]oL",
+    "sale": "",
+    "slug": "joyride",
+    "new": true,
     "forSale": false
   },
   {
@@ -16595,6 +16748,43 @@
     "forSale": false
   },
   {
+    "bggId": 391720,
+    "categories": [
+      "Territory Building",
+      "Trains"
+    ],
+    "description": "Originally published in 2009 and designed by Hisashi Hayashi (Yokohama, Trains, Metro X), String Railway is a 20-minute, 2-5 player game in which players create their own map directly onto the table, complete with borders, mountains and rivers, then build atop it a network of railways, all made out of string.&#10;&#10;Following in 2011, the sequel String Railway: Transport (now renamed String Railway: Cubed) combined the premise of String Railway with the weighty decision-making of games like Railways of the World, producing a mid-weight 45-minute game. In the game, players start with a map of stations already built and must balance the desire to upgrade their engines, and fulfill bespoke delivery contracts, with the need to quickly build a flexible train network that can transport goods to a range of destinations.&#10;&#10;The String Railway Collection packs both of these standalone games into a single small-box package and features vibrant updated artwork, improved graphic design, and a refined ruleset.&#10;&#10;-description from publisher&#10;&#10;",
+    "designers": [
+      "Hisashi Hayashi"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Modular Board",
+      "Network and Route Building",
+      "Pick-up and Deliver"
+    ],
+    "minPlayers": 2,
+    "name": "The String Railway Collection",
+    "playingTime": 45,
+    "publisher": "Play For Keeps",
+    "rating": 7.39744,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2024",
+    "expansions": [],
+    "image": "string_railway_collection.391720.full.png",
+    "thumbnail": "string_railway_collection.391720.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 167,
+    "blurhash": "UiJb:AS%TNkVx|oMODW-tTSeabahXAWojFWY",
+    "sale": "",
+    "slug": "the-string-railway-collection",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 393672,
     "categories": [
       "Adventure",
@@ -16972,7 +17162,7 @@
     "blurhash": "UDAB9cnh9bkDmjxvIpt7xARP9bR*%%D$IVR+",
     "sale": "",
     "slug": "a-message-from-the-stars",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -17084,7 +17274,7 @@
     "blurhash": "UTID${S5s.V@}pkDr?n$$zs:IVn$NHWBNdRk",
     "sale": "",
     "slug": "cascadero",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -17120,6 +17310,43 @@
     "blurhash": "U6Bi]0E2~pXk-q=~%2t4=~OZl5wMxLImb.oh",
     "sale": "",
     "slug": "fairy",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 417197,
+    "categories": [
+      "Environmental",
+      "Fantasy",
+      "Farming",
+      "Science Fiction"
+    ],
+    "description": "Following a series of calamities that left civilization in shambles, societies around the world are being rebuilt anew in harmony with nature. Scotland lies in ruins and the ancient clans have taken it upon themselves to restore the land. As clan leaders you will compete for strategic control of the land by rebuilding its prestigious castles.&#10;&#10;Rebirth is a new, tile-laying game from Reiner Knizia. The game revitalizes this classic genre by combining Knizia&rsquo;s elegant mechanics with Mighty Boards&rsquo; evocative world building. The result is a eurogame with smooth gameplay, set in a lush and hopeful future.&#10;&#10;Each turn, players draw a tile from their supply and place it strategically on the board. These tiles represent your clan&rsquo;s contribution to rebuilding the land. Rebirth rewards strategic foresight and clever tactical play, with tougher decisions emerging over the course of the game.&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "minPlayers": 2,
+    "name": "Rebirth",
+    "playingTime": 60,
+    "publisher": "Mighty Boards",
+    "rating": 7.76931,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.0294,
+    "year": "2024",
+    "expansions": [],
+    "image": "rebirth.417197.full.png",
+    "thumbnail": "rebirth.417197.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 209,
+    "blurhash": "UgIrW-IUxuWB%jWXjXjs?cNHV@jZnfW?odjY",
+    "sale": "",
+    "slug": "rebirth",
     "new": true,
     "forSale": false
   }
