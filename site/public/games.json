@@ -15660,7 +15660,7 @@
     "blurhash": "UJNTt4tQy?%No{r=RPeoNGb^nPn5TKoznNoe",
     "sale": "",
     "slug": "bacon",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -15787,7 +15787,7 @@
     "blurhash": "UUK^KZjb.8WB~poLxuWB?HkCRkj]ShWBNat6",
     "sale": "",
     "slug": "zoo-vadis",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16489,7 +16489,7 @@
     "blurhash": "UDI}Ff-5IUIB?w-oR4xtAdi^$wIT=|xBE2k9",
     "sale": "",
     "slug": "pies",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16525,7 +16525,7 @@
     "blurhash": "U69@t|bI00jE=|V@krtR00og~WRP00ay_Nay",
     "sale": "",
     "slug": "lunar",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16561,7 +16561,7 @@
     "blurhash": "UMG*$i~n9s9H;|RQNHxZR%Ipofozo|xutRR%",
     "sale": "",
     "slug": "mori",
-    "new": true,
+    "new": false,
     "forSale": false
   },
   {
@@ -16699,6 +16699,46 @@
     "sale": "",
     "slug": "lacuna",
     "new": false,
+    "forSale": false
+  },
+  {
+    "bggId": 388367,
+    "categories": [
+      "Card Game",
+      "Civilization"
+    ],
+    "description": "Innovation Ultimate is a box set containing Innovation and all five of its expansions, which includes a brand new expansion titled The Unseen. Many, many updates have been made to this edition. First, Age 11 has been added, representing the recent past and potential near future at the time of release. Lots of language and mechanics have been streamlined, and in particular, the expansions have all been heavily reworked to be more accessible and easy to include while playing.&#10;&#10;",
+    "designers": [
+      "Carl Chudyk"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 5,
+    "mechanics": [
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Take That",
+      "Tech Trees / Tech Tracks",
+      "Variable Phase Order"
+    ],
+    "minPlayers": 2,
+    "name": "Innovation Ultimate",
+    "playingTime": 60,
+    "publisher": "Asmadi Games",
+    "rating": 8.74389,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2.9,
+    "year": "2025",
+    "expansions": [],
+    "image": "innovation_ultimate.388367.full.png",
+    "thumbnail": "innovation_ultimate.388367.thumbnail.png",
+    "thumbHeight": 197,
+    "thumbWidth": 350,
+    "blurhash": "U46bJt%000Neoff6t7oy00Iq_4xYM{bIMxRj",
+    "sale": "",
+    "slug": "innovation-ultimate",
+    "new": true,
     "forSale": false
   },
   {
@@ -17314,6 +17354,75 @@
     "forSale": false
   },
   {
+    "bggId": 415090,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Rainbow is a quick-playing hand management game where players play solo cards, sets, or runs to win points on cards in the center of the table.&#10;&#10;The cards that were played in the previous round are the NEW points available to win in the next round. Most points at the end of the game wins!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Mito Sazuki"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 6,
+    "mechanics": [
+      "Hand Management",
+      "Ladder Climbing",
+      "Trick-taking"
+    ],
+    "minPlayers": 2,
+    "name": "Rainbow",
+    "playingTime": 20,
+    "publisher": "Allplay",
+    "rating": 7.02043,
+    "subTitle": "",
+    "tags": [],
+    "weight": 1.4,
+    "year": "2024",
+    "expansions": [],
+    "image": "rainbow.415090.full.png",
+    "thumbnail": "rainbow.415090.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 148,
+    "blurhash": "U6NA;32e~G0#0EmdALeuvc~no*^hP:Iy0KN;",
+    "sale": "",
+    "slug": "rainbow",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 415092,
+    "categories": [
+      "Card Game"
+    ],
+    "description": "Prey is a 12-trick trick-taking game where 3-4 players play the first six tricks with one side of numbers (predators), then FLIP their cards over to play the final six (prey). You must follow suit if you can.&#10;&#10;The goal of the game is to be the first player to win your assigned number of tricks(determined by dice roll), twice.&#10;&#10;Can you manipulate your hand (and, the upside down cards in your hand!) in clever ways to win?&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [],
+    "editionTitle": "",
+    "maxPlayers": 4,
+    "mechanics": [
+      "Hand Management",
+      "Trick-taking"
+    ],
+    "minPlayers": 3,
+    "name": "Prey",
+    "playingTime": 30,
+    "publisher": "Allplay",
+    "rating": 6.84152,
+    "subTitle": "",
+    "tags": [],
+    "weight": 2,
+    "year": "2024",
+    "expansions": [],
+    "image": "prey.415092.full.png",
+    "thumbnail": "prey.415092.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 148,
+    "blurhash": "URO:R%-n.TJC^iW=ELnh?vNdVsxCJCoJnhSi",
+    "sale": "",
+    "slug": "prey",
+    "new": true,
+    "forSale": false
+  },
+  {
     "bggId": 417197,
     "categories": [
       "Environmental",
@@ -17347,6 +17456,44 @@
     "blurhash": "UgIrW-IUxuWB%jWXjXjs?cNHV@jZnfW?odjY",
     "sale": "",
     "slug": "rebirth",
+    "new": true,
+    "forSale": false
+  },
+  {
+    "bggId": 420087,
+    "categories": [
+      "Card Game",
+      "Number"
+    ],
+    "description": "Flip over cards one by one without flipping the same number twice.&#10;&#10;Sound easy? Think again! This isn't just any deck of cards&hellip; In Flip 7 there's only one 1 card, two 2's, three 3&rsquo;s, etc plus a bunch of special cards that can score you extra points, give you a second chance, or freeze you or your opponents in your tracks.&#10;&#10;Are you the type of player to play it safe and bank points before you bust, or are you going to risk it all and go for the bonus points by flipping over seven in a row? Press your luck meets strategy in this addictive card game that's sure to be the greatest card game you&rsquo;ve ever played!&#10;&#10;&mdash;description from the publisher&#10;&#10;",
+    "designers": [
+      "Eric Olsen"
+    ],
+    "editionTitle": "",
+    "maxPlayers": 99,
+    "mechanics": [
+      "Push Your Luck",
+      "Score-and-Reset Game"
+    ],
+    "minPlayers": 3,
+    "name": "Flip 7",
+    "playingTime": 20,
+    "publisher": "The Op Games",
+    "rating": 7.32769,
+    "subTitle": "",
+    "tags": [
+      "fav"
+    ],
+    "weight": 1.05,
+    "year": "2024",
+    "expansions": [],
+    "image": "flip_7.420087.full.png",
+    "thumbnail": "flip_7.420087.thumbnail.png",
+    "thumbHeight": 250,
+    "thumbWidth": 172,
+    "blurhash": "U7J+MjO@01yCznIvX-Sz05F40MnNu6?DvfSj",
+    "sale": "",
+    "slug": "flip-7",
     "new": true,
     "forSale": false
   }
